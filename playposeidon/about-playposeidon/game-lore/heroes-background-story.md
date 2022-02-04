@@ -28,7 +28,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 
 Her story start when she was very young, she and her little sister along with her parent migrated to **Yuerratica** as part of a group of rebellious humans. These people refused to be controlled under the strict authority of **UETC (United Empire of Twin-Continents)**. Since the mainland (**Pangaea Proxima**) is too expensive to live, the new continent was the only suitable place to go for these people . Many of them settle here, formed towns and citadels. In one summer (ice melting season), a tragedy struck, both of her parents died when a big chunk of ice slid from the **Great Icy Wall** and rolled over her parent vehicle. After the incident, she and her little sister were adopted by a technician named **Rust** who treated them as his own daughters.&#x20;
 
-At the age of 15, she accidentally discovered a cave after ice melting reveal it entrance. It preserved inside undamaged **Advanced** **Technology** pieces of equipment from the **Ancient Civilization** of past human. Using her knowledge learn from her foster father she has awaken an **Advanced AI** in the cave. With the help of **The Cave AI** she was able to develop a **Magitek Armor Suit** for her own.&#x20;
+At the age of 15, she accidentally discovered a cave after ice melting reveal it entrance. It preserved inside undamaged **Advanced** **Technology** pieces of equipment from the **Ancient Civilization** of past human. Using her knowledge learn from her foster father she has awaken an **Advanced AI** in the cave. With the help of **The Cave AI** she was able to develop a **Magitek Armor Suit** to use in combat.
 
 10 years later, in the year 66,001,988 AD a war broke out between the new continent people and the **UETC**, she and her sister used all her knowledge to help fight and lead the people of **Yuerratica**. After many long, hard battles lasting 3 years, that resulted in the sisters reclaiming all citadels from the **UETC** army, it was a victory for the new continent people. At the age of 28 and 24, the two sisters become queens, went on to rule the newly formed country of **Yuerratica** named **Solheim**. There was more conflict still happening in the next decade until the **God of Olympians** settle the conflict for both sides, and finally grant **Solheim** people the official right to be independent and live on their own wish, under a promise that **Solheim** must not seek the power of **Atomic technology**. Since then the country was able to continue to develop and start to trade goods with many countries from <mark style="color:blue;">**South-Blue**</mark> sea.
 
@@ -47,7 +47,27 @@ As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is i
 
 **The Cave AI:** No one except **The Magitek Queen** known about it existence.
 
-**Solheim:** The newly founded country in **Yuerratica,** known for very good craftsmanship and technician specialized in Magitek
+**Solheim:** The newly founded country in **Yuerratica,** known for very good craftsmanship and technician both specialized in build and design Magitek equipment.
 
 **Atomic technology:** Forbidden technology by the **God of Olympians**
+{% endhint %}
+
+## ![](../../../.gitbook/assets/hero-08.png)Kaiya Paddley - Miss Navy
+
+Most beautiful woman in **Somia**, ****&#x20;
+
+Her family have big reputation in **UETC** Royal Navy. She is currently a Captain in the Royal Navy &#x20;
+
+Daughter of **UETC** Royal Navy Fleet Admiral, **Akainu** **Paddley,** Whom committed suicide for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 6 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
+
+
+
+## ![](../../../.gitbook/assets/hero-05.png) Mikasa - The Maid&#x20;
+
+She is the best among the King's Personal body guard squad served in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age and their name are given by the Royal family.
+
+After **Yudon** ran away, She was tasked by the King of **Cinapura** to go find and persuade him to come back to the Royal Palace to start the process of inheriting the throne.
+
+{% hint style="info" %}
+**Yudon**'s father is the younger brother of the King. Because of the King is old and have no son, **Yudon** become the only heir to the throne.
 {% endhint %}
