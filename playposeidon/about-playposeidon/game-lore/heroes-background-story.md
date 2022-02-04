@@ -22,9 +22,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 **Yudon's Journal:** Please subscribe to our [blog.playposeidon.io](https://blog.playposeidon.io) to read this **Journal**.
 {% endhint %}
 
-## &#x20;Freya Aloy - The Magitek Queen
-
-![Freya Aloy - The Magitek Queen](../../../.gitbook/assets/hero-09.png)
+## &#x20;![](../../../.gitbook/assets/hero-09.png)Freya Aloy - The Magitek Queen
 
 Her story start when she was very young, she and her little sister along with her parent migrated to **Yuerratica** as part of a group of rebellious humans. These people refused to be controlled under the strict authority of **UETC (United Empire of Twin-Continents)**. Since the mainland (**Pangaea Proxima**) is too expensive to live, the new continent was the only suitable place to go for these people . Many of them settle here, formed towns and citadels. In one summer (ice melting season), a tragedy struck, both of her parents died when a big chunk of ice slid from the **Great Icy Wall** and rolled over her parent vehicle. After the incident, she and her little sister were adopted by a technician named **Rust** who treated them as his own daughters.&#x20;
 
@@ -56,18 +54,25 @@ As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is i
 
 Most beautiful woman in **Somia**, ****&#x20;
 
-Her family have big reputation in **UETC** Royal Navy. She is currently a Captain in the Royal Navy &#x20;
+Her family have big reputation in **UETC** **Royal Navy**. She is currently a Captain in the Royal Navy &#x20;
 
-Daughter of **UETC** Royal Navy Fleet Admiral, **Akainu** **Paddley,** Whom committed suicide for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 6 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
+Daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** Whom committed suicide for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 6 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
+
+**UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threat. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.&#x20;
 
 
 
 ## ![](../../../.gitbook/assets/hero-05.png) Mikasa - The Maid&#x20;
 
-She is the best among the King's Personal body guard squad served in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age and their name are given by the Royal family.
+She is the best among the King's Personal body guard squad served in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age. Every one of them have their name given by the Royal family.
 
 After **Yudon** ran away, She was tasked by the King of **Cinapura** to go find and persuade him to come back to the Royal Palace to start the process of inheriting the throne.
 
 {% hint style="info" %}
 **Yudon**'s father is the younger brother of the King. Because of the King is old and have no son, **Yudon** become the only heir to the throne.
 {% endhint %}
+
+## ![](../../../.gitbook/assets/hero-07.png)Shana - Empress of the seas
+
+Grand daughter of the Legendary Pirate **Shanks.** She is currently the leader of **Redhair Pirate,** All all ships in the pirate crew are under her command. The **Redhair Pirate** is founded by her grand father long time ago. They are currently the strongest pirate crews in the world and dominate all over the trade routes from and to <mark style="color:blue;">**South-Blue**</mark> sea. **Redhair Pirate** pirates and **UETC Royal Navy** are frequently battle each other but never happen an all out war.
+

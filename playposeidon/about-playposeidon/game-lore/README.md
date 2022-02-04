@@ -32,5 +32,5 @@ Along with the 4 continents above, there are now only 4 oceans in the world, nam
 
 * <mark style="color:blue;">**South-Blue:**</mark> The <mark style="color:blue;">****</mark> largest ocean, South of **Pangaea Proxima**
 * North-White: Smallest and mostly covered in Ice, (once named Arctic Ocean) &#x20;
-* <mark style="color:yellow;">**East-Yellow:**</mark>  East of **Pangaea Proxima**
-* <mark style="color:red;">**West-Red:**</mark> Divide **Pangaea Proxima** and the twin continents
+* <mark style="color:yellow;">**East-Yellow:**</mark>  East of **Pangaea Proxima**, This is actually a section of <mark style="color:blue;">**South-Blue**</mark> sea
+* <mark style="color:red;">**West-Red:**</mark> Divide **Pangaea Proxima** and the twin continents. Many naval battles happen here.
