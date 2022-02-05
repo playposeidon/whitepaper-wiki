@@ -54,13 +54,11 @@ As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is i
 
 Most beautiful woman in **Somia**, ****&#x20;
 
-Her family have big reputation in **UETC** **Royal Navy**. She is currently a Captain in the Royal Navy &#x20;
+Her family have big reputation in **UETC** **Royal Navy**. She is currently a Fleet Captain in the Royal Navy &#x20;
 
-Daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** whom committed suicide in **** 66,002,000 AD for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 7 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
+Daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** whom committed suicide in **** 66,002,000 AD for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 9 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
 
 **UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threat. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.&#x20;
-
-
 
 ## ![](../../../.gitbook/assets/hero-05.png) Mikasa - The Maid&#x20;
 
@@ -88,4 +86,19 @@ She is a master of hidden weapons, able to swiftly kill people from a far distan
 **Kunai**: very small dagger which can throw, a type of hidden weapons.
 
 **Katana**: A type of sword, one sided blade, very sharp and durable. Can only be forged by high skilled Bladesmith.
+{% endhint %}
+
+
+
+## ****![](../../../.gitbook/assets/hero-02.png) **Samihri - The Gumiho**
+
+\
+She was born in a Tribe from the northern part of **Pangea Proxima**, on a day when the **Canis Minor constellation** suddenly shines brightest then becomes dimmed. People in the north say this infant has been possessed by the spirit of the **Teumessian Fox**. Her mother dies in labor, her father while in great grief was being persuaded by the Tribe's elders to cast her away as she is a cursed child.&#x20;
+
+The infant was then left abandoned on a prairie full of dangerous animals where no human live. Out of coincident, just when the olympian god **Artemis** was traveling the area in her aircraft to investigate an abnormality. She found the infant and picked her up. Finding that this infant was not a normal human, she decided to bring her back to **Mount Olympus** to investigate further. After confirmation that the infant is indeed a mutant, human but carrying gene of a mystic animal. **Zeus** orders **Artemis** to get rid of her by putting her back where she was picked up. Being merciful to the child, after putting her back, **Artemis** was secretly informed one tribe in the north which worship her to go to the location and save the infant.
+
+After being rescued by the tribe people, she was brought to the tribe and the name **Samihri** was given by the tribe elder. She was then raised by everyone in the tribe. They teach her how to hunt and act like a human being even though her appearance is different. The more she grows the more she becomes faster and stronger. The god **Artemis** does some time visit the tribe to see **Samihri** in person which made the tribe people and nearby tribes start to adore and worship **Samihri** like a god of their own.
+
+{% hint style="info" %}
+**Artemis:** is the daughter of Zeus and Leto, and the twin sister of Apollo. One of 12 Olympians God.&#x20;
 {% endhint %}
