@@ -28,7 +28,7 @@ Her story start when she was very young, she and her little sister along with he
 
 At the age of 15, she accidentally discovered a cave after ice melting reveal it entrance. It preserved inside undamaged **Advanced** **Technology** pieces of equipment from the **Ancient Civilization** of past human. Using her knowledge learn from her foster father she has awaken an **Advanced AI** in the cave. With the help of **The Cave AI** she was able to develop a **Magitek Armor Suit** to use in combat.
 
-10 years later, in the year 66,001,988 AD a war broke out between the new continent people and the **UETC**, she and her sister used all her knowledge to help fight and lead the people of **Yuerratica**. After many long, hard battles lasting 3 years, that resulted in the sisters reclaiming all citadels from the **UETC** army, it was a victory for the new continent people. At the age of 28 and 24, the two sisters become queens, went on to rule the newly formed country of **Yuerratica** named **Solheim**. There was more conflict still happening in the next decade until the **God of Olympians** settle the conflict for both sides, and finally grant **Solheim** people the official right to be independent and live on their own wish, under a promise that **Solheim** must not seek the power of **Atomic technology**. Since then the country was able to continue to develop and start to trade goods with many countries from <mark style="color:blue;">**South-Blue**</mark> sea.
+10 years later, in the year 66,001,988 AD a war broke out between the new continent people and the **UETC**, she and her sister used all her knowledge to help fight and lead the people of **Yuerratica**. After many long, hard battles lasting 3 years, that resulted in the sisters reclaiming all citadels from the **UETC** army, it was a victory for the new continent people. At the age of 28 and 24, the two sisters become queens, went on to rule the newly formed country of **Yuerratica** named **Solheim**. There was many more conflicts resulting naval battles in the next decade until the **God of Olympians** settle the conflict for both sides in in **** 66,002,000 AD, and finally grant **Solheim** people the official right to be independent and live on their own wish, under a promise that **Solheim** must not seek the power of **Atomic technology**. Since then the country was able to continue to develop and start to trade goods with many countries from <mark style="color:blue;">**South-Blue**</mark> sea.
 
 As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is in her 20s while her sister growth old and has stepped down from the throne long time ago to settle family. This becomes a mystery among her people because she is a pure Human, not **Demi-God** nor carry any demigod gene. She remains the true ruler of **Solheim**. People from over the world call her: **The Magitek Queen**
 
@@ -56,7 +56,7 @@ Most beautiful woman in **Somia**, ****&#x20;
 
 Her family have big reputation in **UETC** **Royal Navy**. She is currently a Captain in the Royal Navy &#x20;
 
-Daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** Whom committed suicide for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 6 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
+Daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** whom committed suicide in **** 66,002,000 AD for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 7 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
 
 **UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threat. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.&#x20;
 
@@ -76,3 +76,16 @@ After **Yudon** ran away, She was tasked by the King of **Cinapura** to go find 
 
 Grand daughter of the Legendary Pirate **Shanks.** She is currently the leader of **Redhair Pirate,** All all ships in the pirate crew are under her command. The **Redhair Pirate** is founded by her grand father long time ago. They are currently the strongest pirate crews in the world and dominate all over the trade routes from and to <mark style="color:blue;">**South-Blue**</mark> sea. **Redhair Pirate** pirates and **UETC Royal Navy** are frequently battle each other but never happen an all out war.
 
+## ![](../../../.gitbook/assets/hero-03.png)Mu Qing - The Man Killer
+
+She is an orphan, raised by her master **Qin Luo** **- Asura Blade.** She is taught by her master to never trust any man. She must cover her face at all time and if any man happens to see her face, she must kill that man immediately or marry him. That is the reason, people call her by that nickname.
+
+She is a master of hidden weapons, able to swiftly kill people from a far distance with just a **Kunai** throw. Her sword skill is also very good as her master is the greatest **Katana** user in **Pangea Proxima**. Besides of her combat skill, she also has a very beautiful body that omitted a natural scent like a sweet flower. Even though she is known to be extremely dangerous, men often get attracted to her then usually being killed if tried to see her face.
+
+{% hint style="info" %}
+**Qin Luo:** nickname **Asura Blade**, famous for her dual **Katana** skill which no other Katana user in mainland can match. When she is young, she used to be in a relationship with **Yudon**'s father but was not able to marry him since she is just a commoner human not carrying any royal blood or demigod gene. She then never married, put herself through immense training and become **Asura Blade**. She seems to have strong hatred toward men which translate to how she was raising and teaching her only student **Mu Qing**
+
+**Kunai**: very small dagger which can throw, a type of hidden weapons.
+
+**Katana**: A type of sword, one sided blade, very sharp and durable. Can only be forged by high skilled Bladesmith.
+{% endhint %}

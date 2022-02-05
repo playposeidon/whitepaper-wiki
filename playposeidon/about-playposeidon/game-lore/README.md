@@ -18,7 +18,7 @@ Back to planet **Earth**, more than 65 millions year has pass, the earth now has
 
 Learned from their mistake, this time all **Olympians gods** decided to stay instead of go back to their realm. They have created the human race all against from **Genesis** generation DNA and use their superior gene to breed with selected few to produce many **Demigods** which help them watch over the world, guiding human to evolve in a certain path. This is where our story begin at the year **66,002,022 AD**. A **Human** civilization on **Earth** has completely matured. They have spread to all continents, form cities, countries usually governed by **Demigods** and their descendant. Superior technologies, especially those at atomic level, are now forbidden by **Olympians** **gods**.
 
-Recently, out of nowhere, mass number of monster-like animals start to emerging from the sea and wreak havoc on the land of human. Even the **Olympians** **gods** doesn't know reason why, they've instructed many demigods **Heroes** to help protect human from these monsters. Our _PlayPoseidon_ **Heroes** are among those demigods and descendant which fighting these armies of monsters and protect Human at all cost.
+Recently, out of nowhere, mass number of monster-like animals start to emerging from the sea and wreak havoc on the land of human. Even the **Olympians** **gods** doesn't know reason why, they've instructed many demigods **Heroes** to help protect human from these monsters. Our **PlayPoseidon NFT Heroes** are among these group of powerful Human, Demigod's descendant which protect their citizen at all cost.
 
 ## The world map in 66,002,022 AD
 
