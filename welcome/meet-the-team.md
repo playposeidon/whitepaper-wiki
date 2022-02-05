@@ -50,7 +50,7 @@ description: PlayPoseidon Development Team
 
 ## Tuan Nguyen
 
-👋  Marketing Lead — 💌  tuan.nguyen@playposeidon.io  — :flag\_au:Australia (GMT+11)
+👋  Marketing Lead — 💌  tony.nguyen@playposeidon.io  — :flag\_au:Australia (GMT+11)
 
 **Bio**
 
