@@ -25,7 +25,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 ## ![](../../../.gitbook/assets/hero-02.png) **Samihri - The Gumiho**
 
 \
-She was born in a Tribe from the northern part of **Pangea Proxima**, on a day when the **Canis Minor constellation** suddenly shines brightest then becomes dimmed. People in the north say this infant has been possessed by the spirit of the **Teumessian Fox**. Her mother dies in labor, her father while in great grief was being persuaded by the Tribe's elders to cast her away as she is a cursed child.&#x20;
+She was born in a hunter tribe from the northern part of **Pangea Proxima**, on a day when the **Canis Minor constellation** suddenly shines brightest then becomes dimmed. People in the north say this infant has been possessed by the spirit of the **Teumessian Fox**. Her mother dies in labor, her father while in great grief was being persuaded by the Tribe's elders to cast her away as she is a cursed child.&#x20;
 
 The infant was then left abandoned on a prairie full of dangerous animals where no human live. Out of coincident, just when the olympian god **Artemis** was traveling the area in her aircraft to investigate an abnormality. She found the infant and picked her up. Finding that this infant was not a normal human, she decided to bring her back to **Mount Olympus** to investigate further. After confirmation that the infant is indeed a mutant, human but carrying gene of a mystic animal. **Zeus** orders **Artemis** to get rid of her by putting her back where she was picked up. Being merciful to the child, after putting her back, **Artemis** was secretly informed one tribe in the north which worship her to go to the location and save the infant.
 
@@ -91,17 +91,35 @@ After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to g
 
 Grand daughter of the Legendary Pirate **Shanks.** She is currently the leader of **Redhair Pirate,** All all hundred of ships in the pirate crews are under her command. She is a fearsome name among other pirates. Losing one of her eye in an intense battle with another pirate ship, she went on to destroy the entire fleet of that pirate crews, leaving no survivor. Erase the crews name from the four seas forever.
 
-She also harbored great ambition, her mind full of plans and ideas. Indeed a remarkable woman skilled at debating and using those around her, she's a most talented figure that fights for the justice she holds dear. What's more, she's currently a dominant force in the <mark style="color:blue;">**South-Blue**</mark> sea and is sure to make some serious waves.
+She also harbored great ambition, her mind full of plans and ideas. Indeed a remarkable woman skilled at debating and using those around her, she's a most talented figure that fights for what she deemed worth. What's more, she's currently a dominant force in the <mark style="color:blue;">**South-Blue**</mark> sea and is sure to make some serious waves.
 
 {% hint style="info" %}
 **Shanks:** the legendary pirate known for his unique natural red color hair. He has founded the **Redhair Pirate** when he was 24 year olds, lead the crews to become the largest and strongest pirate crews in the world. He has retired from sailing as pirate long time ago and leave the command of his **Redhair Pirate** to his son and grand daughter.
 
-**Redhair Pirate:** They are currently the largest and strongest pirate crews in the world and dominate all over the trade routes from and to <mark style="color:blue;">**South-Blue**</mark> sea. **Redhair Pirate** pirates and **UETC Royal Navy** are frequently battle each other but never happen an all out war. Most of <mark style="color:blue;">**South-Blue**</mark> sea sections are under their control while leaving the shore and rest of the four oceans to **UETC Royal Navy**&#x20;
+**Redhair Pirate:** They are currently the largest and strongest pirate crews in the world and dominate all over the trade routes from and to <mark style="color:blue;">**South-Blue**</mark> sea. **Redhair Pirate** pirates and **UETC Royal Navy** are frequently battle each other but never happen an all out war. The big center sections of <mark style="color:blue;">**South-Blue**</mark> sea are under their control while leaving the shore and rest of the four oceans to **UETC Royal Navy**&#x20;
+{% endhint %}
+
+## ![](../../../.gitbook/assets/hero-08.png)Kaiya Paddley - Miss Navy
+
+She is known to be the most beautiful woman in the Navy and also in the entire **Somia** continent. Not just being a beauty, she is also a capable navy commander. She is currently a Fleet Captain in the **UETC Royal Navy.**  Under her command is a small fleet of 20 ships and a large Imperial Warship name after her great grand father **Samual Paddley**. These ship are the best of **UETC Royal Navy,** all the most advance weapon and technology of **UETC** are harnessed to built this fleet. Each ship is worth ten times more than other navy ship. **** Her family has built a fortune around providing trade route security to those rich countries in the <mark style="color:blue;">**South-Blue**</mark> sea again pirates. ****   &#x20;
+
+Her family have big reputation in **UETC** army. Her great great grant father is the legendary general whom help united the twin continents under the regime of **UETC**. She is the only daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** whom is also a great Admiral but has committed suicide in **** 66,002,000 AD for feeling ashamed of his multiple defeats by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 7 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
+
+{% hint style="info" %}
+**Somia** one of the twin continent. **** Located in the south and very close to **Yuerratica**
+
+**UETC:** **United Empire of the Twin Continents.** an united group of countries founded after the war between people of **Normia** and people of **Somia** in **** 66,001,865 AD. **UETC** are governed by a government consist of 12 persons, 6 come from the original Royal families that gave up their power to form **UETC**, 3 human elders and 3 appointed governors.  &#x20;
+
+**UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threat. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.
+
+**Samual Paddley** **Fleet** once is the crown of **UETC Royal Navy** which consist of one hundred advance warships. But most of them were destroyed during the war between **UETC** and **Solheim** and those conflicts happen after that. Even though **UETC Royal Navy** is the most advance naval army in the world, they were not matched to the power of flying Drones (ancient technology) combine with magic that capable of creating huge explosion and sink those ship in an instant.
+
+As of now **UETC** and **Solheim** still remain rival countries, both are representation for the power of Human
 {% endhint %}
 
 ## &#x20;![](../../../.gitbook/assets/hero-09.png)Freya Aloy - The Magitek Queen
 
-Her story start when she was very young, she and her little sister along with her parent migrated to **Yuerratica** as part of a group of rebellious humans. These people refused to be controlled under the strict authority of **UETC (United Empire of Twin-Continents)**. Since the mainland (**Pangaea Proxima**) is too expensive to live, the new continent was the only suitable place to go for these people . Many of them settle here, formed towns and citadels. In one summer (ice melting season), a tragedy struck, both of her parents died when a big chunk of ice slid from the **Great Icy Wall** and rolled over her parent vehicle. After the incident, she and her little sister were adopted by a technician named **Rust** who treated them as his own daughters.&#x20;
+Her story start when she was very young, she and her little sister along with her parent migrated to **Yuerratica** as part of a group of rebellious humans. These people refused to be controlled under the strict authority of **UETC**. Since the mainland (**Pangaea Proxima**) is too expensive to live, the new continent was the only suitable place to go for these people . Many of them settle here, formed towns and citadels. In one summer (ice melting season), a tragedy struck, both of her parents died when a big chunk of ice slid from the **Great Icy Wall** and rolled over her parent vehicle. After the incident, she and her little sister were adopted by a technician named **Rust** who treated them as his own daughters.&#x20;
 
 At the age of 15, she accidentally discovered a cave after ice melting reveal it entrance. It preserved inside undamaged **Advanced** **Technology** pieces of equipment from the **Ancient Civilization** of past human. Using her knowledge learn from her foster father she has awaken an **Advanced AI** in the cave. With the help of **The Cave AI** she was able to develop a **Magitek Armor Suit** to use in combat.
 
@@ -111,8 +129,6 @@ As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is i
 
 {% hint style="info" %}
 **Yuerratica, Pangea Proxima, Twin-Continents:** checkout: [#the-world-map-in-66-002-022-ad](./#the-world-map-in-66-002-022-ad "mention")
-
-**UETC:** An united group of countries founded after the War between people of **Normia** and people of **Somia** in **** 66,001,865 AD
 
 **Great Icy Wall:** A big land mark in **Yuerratica**
 
@@ -127,18 +143,3 @@ As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is i
 **Atomic technology:** Forbidden technology by the **God of Olympians**
 {% endhint %}
 
-## ![](../../../.gitbook/assets/hero-08.png)Kaiya Paddley - Miss Navy
-
-Most beautiful woman in **Somia**, ****&#x20;
-
-Her family have big reputation in **UETC** **Royal Navy**. She is currently a Fleet Captain in the Royal Navy &#x20;
-
-Daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** whom committed suicide in **** 66,002,000 AD for feeling ashamed of after being defeated multiple times by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 9 year olds at that time, everything she admire and love her father now transform to hatred toward the Queen of **Solheim**.
-
-**UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threat. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.&#x20;
-
-##
-
-
-
-## ****
