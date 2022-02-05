@@ -13,7 +13,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 {% hint style="info" %}
 **Triton** is the only son of **Poseidon** (one of 12 Olympians gods) and **Amphitrite** (goddess queen of the sea)
 
-**Cinapura** is **** a small country but hosting the most busy harbors and ports in the world. It is among the most developed countries in <mark style="color:blue;">**South-Blue**</mark> sea.
+**Cinapura** is **** not a big country but become the richest country in **Pangaea Proxima** by hosting the most busy harbors and ports in the world. It is among the most developed countries in <mark style="color:blue;">**South-Blue**</mark> sea, the citizen of **Cinapura** most are merchants and have business all over the world.
 
 **Mystic animals** are special kind of animal which can use magic power naturally. Unlike human which relied on special equipment to harness power of magic.
 
@@ -85,6 +85,26 @@ After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to g
 
 {% hint style="info" %}
 **The King of Cinapura:** His name is **Mingdon,** he and his younger brother **Kudon** is together ruling the kingdom of **Cinapura.** For some unknown reason he was not capable of having children. Because **Yudon** is the only son of his father **Kudon**, he is the only heir to the throne and are destined to rule **Cinapura**.
+{% endhint %}
+
+## ![](../../../.gitbook/assets/hero-06.png)Arya Xu - Fortune Assassin
+
+Her family was once a well know noble in **Cinapura** but due to a dispute with the Royal family, they have been cast away from the country. Afraid of being assassinated by the King, his father **Edd Xu** decides to hide his entire family inside a big mountain cave. **Arya** was born and raised in this cave unaware of the world outside. As a child, she was always felt bored at home and wanted to go out to discover.&#x20;
+
+By the age of 12, she decided to leave her cave world to venture into the outside world. Unlucky for her, those people she first met went on to kidnap her then sell her to a rich family. In the rich family, she was treated badly, beaten every day, locked up in a cage. It is thought that her fate may have ended there but then one day on a full moon, the entire rich family that tortured her got killed by an assassin. The assassin saw her being locked up, a flashback of his childhood occur which drive him to rescue her. Don't know anywhere to go, she follows the assassin and eventually becomes his apprentice. He taught her in the way of his **Assassin Brotherhood: The Faceless Men**.&#x20;
+
+**Arya** is now 18 and become a skilled female assassin for hire. She has a habit of tossing a coin whenever she receives a job offer. If the coin is not in her favor she will not do the job no matter how much the money is.&#x20;
+
+{% hint style="info" %}
+**Edd Xu** hate and also afraid the **Cinapura Royal Family** so much that he would kill any one related to them if they ever step foot inside his cave. Meanwhile his wife **Orange Li** only want her noble life back, she doesn't want to live in this cave forever.&#x20;
+
+That why she has secretly visiting **Kudon** to help her settle the dispute between two families. **Kudon** at that time has already married to **Siri**, but being impressed by **Orange** beauty and lovely voice, while **Orange** being impressed by his charm, they have fallen in love with each other knowing it not the right thing. Later with the help of **Kudon**, the dispute is settled, and the family is forgiven by the King.
+
+When **Orange** come back to the cave to tell her husband, he doesn't believe it but thinking that it may be a trick to lure him out to assassinate him. **Edd Xu** feeling betrayed by his wife but still love her so much, decide to forbidden her to leave the cave.&#x20;
+
+Although unable to leave the cave, **Orange** and **Kudon** still able secretly meet each other via a secret under water tunnel which **Kudon** can easily swim through with his Demigod gene of **Triton**.&#x20;
+
+**Assassin Brotherhood: The Faceless Men** a big secret organization which people have very little information about it. Member of this group alway act alone and seem to communicate with other members secretly via a cryptic mechanism.  &#x20;
 {% endhint %}
 
 ## ![](../../../.gitbook/assets/hero-07.png)Shana - Empress of the seas

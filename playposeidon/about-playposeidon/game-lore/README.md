@@ -24,9 +24,9 @@ Recently, out of nowhere, mass number of monster-like animals start to emerging 
 
 ![66,002,022 AD](../../../.gitbook/assets/future\_world.jpeg)
 
-In **66,002,022 AD**, Sea level have raised very high. What once to be Australia continent has merged with Eurasia and Africa creating a super continent **Pangaea Proxima**. North and South America have shrunk, and now people are calling them the twin continents **Normia** and **Somia**. From Normia, people can travel by foot to Pangea Proxima since the 2 continents are now connected via a very small land strip that act as a bridge.
+In **66,002,022 AD**, Sea level have raised very high. What once to be Australia continent has merged with Eurasia and Africa creating a super continent **Pangaea Proxima**. North and South America have shrunk, and now people are calling them the twin continents **Normia** and **Somia**. From **Normia**, people can travel by foot to **Pangea Proxima** since the 2 continents are now connected via a very small land strip that act as a bridge.
 
-Antarctica has drifting further from the Earth South Pole and now closer to the rest of the world. More than half of the ice here has already **** melted away, creating a moon shape icy great wall. Hence, the Gods named it **Yuerratica**. **** Many human and Demigods have arrived and settle here in this continent. But the number is less compare to other continents due to the extreme weather here.
+Antarctica has drifting further from the Earth South Pole and now closer to the rest of the world. More than half of the ice here has already **** melted away, creating a moon shape icy great wall. Hence, the Gods named it **Yuerratica**. **** Many human have migrated and settle here in this continent forming towns, citadels.
 
 Along with the 4 continents above, there are now only 4 oceans in the world, named by its direction relative to the super continent and a color:&#x20;
 
