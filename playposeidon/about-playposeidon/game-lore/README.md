@@ -20,6 +20,18 @@ Learned from their mistake, this time all **Olympians gods** decided to stay ins
 
 Recently, out of nowhere, mass number of monster-like animals start to emerging from the sea and wreak havoc on the land of human. Even the **Olympians** **gods** doesn't know reason why, they've instructed many demigods **Heroes** to help protect human from these monsters. Our **PlayPoseidon NFT Heroes** are among these group of powerful Human, Demigod's descendant which protect their citizen at all cost.
 
+Check this list for PlayPoseidon NFT first 9 heroes stories:
+
+1. [#yudon-prince-of-cinapura](heroes-background-story.md#yudon-prince-of-cinapura "mention")
+2. [#samihri-the-gumiho](heroes-background-story.md#samihri-the-gumiho "mention")
+3. [#mu-qing-the-man-killer](heroes-background-story.md#mu-qing-the-man-killer "mention")
+4. [#sirilla-the-white-witch](heroes-background-story.md#sirilla-the-white-witch "mention")
+5. [#mikasa-the-royalist](heroes-background-story.md#mikasa-the-royalist "mention")
+6. [#arya-xu-fortune-assassin](heroes-background-story.md#arya-xu-fortune-assassin "mention")
+7. [#shana-empress-of-the-seas](heroes-background-story.md#shana-empress-of-the-seas "mention")
+8. [#kaiya-paddley-miss-navy](heroes-background-story.md#kaiya-paddley-miss-navy "mention")
+9. [#freya-aloy-the-magitek-queen](heroes-background-story.md#freya-aloy-the-magitek-queen "mention")
+
 ## The world map in 66,002,022 AD
 
 ![66,002,022 AD](../../../.gitbook/assets/future\_world.jpeg)
