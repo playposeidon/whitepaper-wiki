@@ -66,9 +66,9 @@ Below is the spawn chance table when open one <mark style="color:yellow;">**Lege
 
 ### 3. Treasure (in Q2-2022)
 
-A Treasure is a loot box item dropped when defeat **Boss** monster. Player can open this loot box and get a bunch of Item. 1 Treasure box can drop multiple item at the same time.
+A Treasure is a loot box item dropped when defeat **Boss** monster. Player can open this loot box and get a bunch of Item. 1 Treasure box can drop multiple items at the same time.
 
-#### 3.1 Normal Treasure
+#### 3.1 Normal Treasure (Common)
 
 Below is the item drop rate table when open one **Normal Treasure**. 1 Treasure can drop multiple item at the same time but certain items start to drop only if player open multiple treasure in a single unbox.
 
@@ -83,9 +83,9 @@ Below is the item drop rate table when open one **Normal Treasure**. 1 Treasure 
 
 Each item listed above have independent event drop rate. That mean if player is very lucky he will be able to get all these items in a single open.  If bad luck, the player may get none of the items.
 
-#### <mark style="color:blue;">3.2 Treasure of the Sea</mark>
+#### <mark style="color:blue;">3.2 Treasure of the Sea (Rare)</mark>
 
-This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 1 **PPP** then let it grow in a farm. This treasure have some unique feature such as: Locked staking for PPP, Guaranteed to receive back 1 in-game **PPP** when unbox it. Details for this item <mark style="color:blue;">**Treasure of the Sea**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> will be released later.
+This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 1 **PPP** then let it grow in a farm (**NFT Farming**). This treasure have some unique feature such as: Locked staking for PPP, Guaranteed to receive back 1 in-game **PPP** when unbox it. Details for this item <mark style="color:blue;">**Treasure of the Sea**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> will be released later.
 
 #### <mark style="color:yellow;">3.3 Locked Legendary Treasure</mark>
 

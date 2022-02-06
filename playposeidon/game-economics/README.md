@@ -12,14 +12,14 @@ In general the average **Annual ROI** is currently at **1000%-1300%** (depend on
 
 The average Annual ROI can also be increased or reduced based on the amount of **Game Treasury** reserve is left. This ensure the game is stable in the long run. Player will be able to participate to vote on this decision whether to increase/decrease and how much.
 
-To control the economics of the Game on a daily basis, we are using **A Dynamic Tax system.** This system is designed to benefits those Player who reinvest their daily income **PPP** back **** into the game or diamond hand holder while discourage others from cashing out their entire Game assets. The token itself is also a **Deflationary** token which will increase in value over time. This completely remove the needs for a second Token like other P2E games for example: THG/THC (Thetan Arena) , HTD/CGC (HeroesTD)
+To control the economics of the Game on a daily basis, we are using **A Dynamic Tax system.** This system is designed to benefits those Player who reinvest their daily income **PPP** back **** into the game or diamond hand holder while discourage others from cashing out their entire Game assets. The token itself is also a **Deflationary** token which will increase in value over time. This completely remove the needs for a second Token like other P2E games for example: THG/THC (Thetan Arena), HTD/CGC (HeroesTD)
 
 With this mechanism, in the game will have 2 type of **PPP** token:
 
 1. **Unclaimed In-Game** **PPP** token: Earn by playing the game
 2. **On-chain PPP** token: Receive when you claim your **In-Game PPP** token after Tax deduction
 
-Both these type of token can be used interchangeable for all features in the Game such as: Purchase item in GameShop, MarketPlace, Upgrade Hero,.. Check out details below:&#x20;
+Both these type of token can be used **Interchangeable** for all features in the Game such as: Purchase Item/NFT in GameShop, MarketPlace, pay for Upgrade Hero,.. Check out details below:&#x20;
 
 #### Purchased NFT Items with Unclaimed Reward
 
@@ -27,14 +27,14 @@ Player is allowed to use both the unclaimed In-Game PPP and On-Chain PPP to purc
 
 **Purchased NFT from In-Game NFT Market Place**
 
-When you sell NFT via The In-Game NFT Market Place, you will received In-Game PPP only. In exchange we will not charge any commission fee and also you can keep using your NFT Hero/Pet to play while let them being listed on the Market Place.
+For seller, When you sell NFTs via The In-Game NFT Market Place, you will receive **In-Game PPP** only. In exchange, for a very low commission fee and also you can keep using your NFT Hero/Pet to play while let them being listed on the In-Game NFT Market Place.
 
 For buyer, both unclaimed In-Game PPP and On-Chain PPP can be used to purchased items from In-Game NFT Market Place.
 
 #### **Crafting** **NFT** **that** **give** **ROI** buff (Q3-2022, Boss Treasure)
 
-In 2022 Q3, we will release a new NFT Weapon Orb (ERC-721) which can increase a Hero ROI when it is bond with a NFT Hero. Crafting NFT will require player to acquired many Crafting Materials either from Boss drop Treasure or purchase via In-Game NFT Market Place. Hence this will urge many Player to upgrade their Hero, reinvest their PPP to boosted their daily Income.
+In 2022 Q3, we will release a new **NFT Weapon Orb** (ERC-721) which can increase a Hero ROI when it is bond with a NFT Hero. Crafting NFT will require player to acquired many Crafting Materials either from Boss drop Treasure or purchase via In-Game NFT Market Place. Hence this will urge many Player to **crafting NFT**, reinvest their **PPP** to boost their daily Income.
 
 #### PPP staking via NFT farming (Q4-2022, NFT Land)
 
-Once NFT Land feature is out, Player maybe able to stake their PPP token via NFT farming features which will give a decent APY based return.
+Once **NFT Land** feature is out, Player maybe able to stake their **PPP** token via **NFT Farming** features which will give a decent APY based return while also granting player opportunity to receive NFT Items such as: **Egg, Energy Bottle**.
