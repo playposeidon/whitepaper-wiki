@@ -7,8 +7,8 @@
 ## PlayPoseidon
 
 * [🔱 About PlayPoseidon](playposeidon/about-playposeidon/README.md)
-  * [📖 Game Lore](playposeidon/about-playposeidon/game-lore/README.md)
-    * [Heroes Background Story](playposeidon/about-playposeidon/game-lore/heroes-background-story.md)
+  * [📖 Game Lore](playposeidon/about-playposeidon/game-lore.md)
+  * [Heroes Background Story](playposeidon/about-playposeidon/heroes-background-story.md)
 * [🪙 Tokenomics](playposeidon/tokenomics.md)
 * [💰 Earn Mechanism](playposeidon/earn-mechanism/README.md)
   * [🥇 Daily Income Tier (Hero Grade)](playposeidon/earn-mechanism/daily-income-tier-hero-grade.md)

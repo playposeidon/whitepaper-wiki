@@ -4,7 +4,7 @@ description: The stories of our Heroes
 
 # Heroes Background Story
 
-## ![](../../../.gitbook/assets/hero-01.png)Yudon - Prince of Cinapura
+## ![](../../.gitbook/assets/hero-01.png)Yudon - Prince of Cinapura
 
 He is a direct descendant from **Triton** demigod lineage. His royal family is currently ruling the kingdom of **Cinapura** located in the <mark style="color:blue;">**South-Blue**</mark> sea. He is a prince and also is the only heir to the throne. Instead of inheriting his family responsibility, he wants to travel around the world to find and collect **Mystic animals**. People say he's really an animal enthusiast. He wants to train these animal as companion pets, no matter how dangerous it might be. Even though he is always showing heart to his people and have all capability to become a king, he seems doesn't show any interested to become one.
 
@@ -17,12 +17,12 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 
 **Mystic animals** are special kind of animal which can use magic power naturally. Unlike human which relied on special equipment to harness power of magic.
 
-<mark style="color:blue;">**South-Blue**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> sea, **Pangaea Proxima** continent checkout: [#the-world-map-in-66-002-022-ad](./#the-world-map-in-66-002-022-ad "mention")
+<mark style="color:blue;">**South-Blue**</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> sea, **Pangaea Proxima** continent checkout: [#the-world-map-in-66-002-022-ad](game-lore.md#the-world-map-in-66-002-022-ad "mention")
 
 **Yudon's Journal:** Please subscribe to our [blog.playposeidon.io](https://blog.playposeidon.io) to read this **Journal**.
 {% endhint %}
 
-## ![](../../../.gitbook/assets/hero-02.png) **Samihri - The Gumiho**
+## ![](../../.gitbook/assets/hero-02.png) **Samihri - The Gumiho**
 
 \
 She was born in a hunter tribe from the northern part of **Pangea Proxima**, on a day when the **Canis Minor constellation** suddenly shines brightest then becomes dimmed. People in the north say this infant has been possessed by the spirit of the **Teumessian Fox**. Her mother died in labor, her father, while in great grief, was being persuaded by the Tribe's elders to cast her away as she is a cursed child.&#x20;
@@ -47,7 +47,7 @@ After being rescued by the tribe people, she was brought to the tribe and the na
 The northern part of **Pangea Proxima** is a big rural area where all kind of dangerous animal are roaming around. Not many people live here and they usually forming tribes. These people are not living in a same place but always travel to avoid danger and also to hunt animals for food.&#x20;
 {% endhint %}
 
-## ![](../../../.gitbook/assets/hero-03.png)Mu Qing - The Man Killer
+## ![](../../.gitbook/assets/hero-03.png)Mu Qing - The Man Killer
 
 She is an orphan, raised by her master **Qin Luo** **- Asura Blade.** She is taught by her master to never trust any man. She must cover her face all the time and if any man happens to see her face, she must kill that man immediately or marry him. That is the reason people call her by that nickname.
 
@@ -63,7 +63,7 @@ She is a master of hidden weapons, able to swiftly kill people from a far distan
 **Katana**: A type of sword, single-edged blade, very sharp and durable. Can only be forged by high skilled Bladesmith.
 {% endhint %}
 
-## ****![](../../../.gitbook/assets/hero-04.png)**Sirilla - The White Witch**
+## ****![](../../.gitbook/assets/hero-04.png)**Sirilla - The White Witch**
 
 **Sirilla** or commonly known as **Siri**, is the princess of **Sinatra .** Carrying in her blood is the Demigod gene of **Hecate.** Her family was known for mastering witchcraft and sorcery centuries ago and currently ruling the kingdom of **Sinatra**. When she was young she has been married to a **Cinapura**'s prince - **Kudon**. She is the mother of our main character **Yudon** and has been living with the **Royal Family** in **Cinapura Royal Palace** since.
 
@@ -79,7 +79,7 @@ The king and her husband know about this bad habit of **Siri** but choose to ign
 **Hecate:** is the goddess of magic, witchcraft, sorcery, necromancy, the night and the moon. She is a third generation titaness, daughter of **Asteria** and **Perses**
 {% endhint %}
 
-## ![](../../../.gitbook/assets/hero-05.png) Mikasa - The Royalist&#x20;
+## ![](../../.gitbook/assets/hero-05.png) Mikasa - The Royalist&#x20;
 
 She is one of the best among **The King of Cinapura**'s personal body guard squad, also served as maids in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age. Every one of them have their name given by the Royal family. They are brainwashed to the point they are willing to die to protect the Royal family member.
 
@@ -91,7 +91,7 @@ After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to g
 **The King of Cinapura:** His name is **Mingdon,** he and his younger brother **Kudon** is together ruling the kingdom of **Cinapura.** For some unknown reason he was not capable of having children. Because **Yudon** is the only son of his father **Kudon**, he is the only heir to the throne and are destined to rule **Cinapura**.
 {% endhint %}
 
-## ![](../../../.gitbook/assets/hero-06.png)Arya Xu - Fortune Assassin
+## ![](../../.gitbook/assets/hero-06.png)Arya Xu - Fortune Assassin
 
 Her family was once a well know noble in **Cinapura** but due to a dispute with the Royal family, they have been exiled from the country. Afraid of being assassinated by the King, his father **Edd Xu** decides to hide his entire family inside a big mountain cave. **Arya** was born and raised in this cave unaware of the world outside. As a child, she was always felt bored at home and wanted to go out to discover.&#x20;
 
@@ -111,7 +111,7 @@ Although unable to leave the cave, **Orange** and **Kudon** were still able to s
 **Assassin Brotherhood: The Faceless Men** a big secret organization which people have very little information about it. Members of this group always act alone and seem to communicate with other members secretly via a cryptic mechanism.  &#x20;
 {% endhint %}
 
-## ![](../../../.gitbook/assets/hero-07.png)Shana - Empress of the seas
+## ![](../../.gitbook/assets/hero-07.png)Shana - Empress of the seas
 
 Granddaughter of the Legendary Pirate **Shanks.** She is currently the leader of **Redhair Pirate,** hundreds of ships in the pirate crews are all under her command. She is a fearsome name among other pirates. Losing one of her eye in an intense battle with another pirate ship, she went on to destroy the entire fleet of that pirate crews, leaving no survivor, erase the crews name from the four seas forever.
 
@@ -123,7 +123,7 @@ She also harbored great ambition, her mind full of plans and ideas. Indeed a rem
 **Redhair Pirate:** They are currently the largest and strongest pirate crews in the world and dominate all over the trade routes from and to <mark style="color:blue;">**South-Blue**</mark> sea. **Redhair Pirate** pirates and **UETC Royal Navy** frequently battle each other but there has never been an all-out war. The big center sections of <mark style="color:blue;">**South-Blue**</mark> sea are under their control while leaving the shore and rest of the four oceans to **UETC Royal Navy**&#x20;
 {% endhint %}
 
-## ![](../../../.gitbook/assets/hero-08.png)Kaiya Paddley - Miss Navy
+## ![](../../.gitbook/assets/hero-08.png)Kaiya Paddley - Miss Navy
 
 She is known to be the most beautiful woman in the Navy and also in the entire **Somia** continent. Not just being a beauty, she is also a capable navy commander. She is currently a Fleet Captain in the **UETC Royal Navy.**  Under her command is a fleet of 30 ships and a large Imperial Warship named after her great grandfather **Samual Paddley - The Legend**. These ship are the best of **UETC Royal Navy,** all the most advance weapon and technology of **UETC** are harnessed to built this fleet. Each ship is worth ten times more than other navy ship. **** Her family has built a fortune around providing trade route security to those rich countries in the <mark style="color:blue;">**South-Blue**</mark> sea against pirates. ****   &#x20;
 
@@ -147,7 +147,7 @@ Her family has big reputation in **UETC** army. She is the only daughter of **UE
 As of now **UETC** and **Solheim** still remain rival countries, both are the strongest representation for the power of Human. While all countries in the mainland (**Pangea Proxima**) are small and most are governed by **Demigod lineage Royal Families**
 {% endhint %}
 
-## &#x20;![](../../../.gitbook/assets/hero-09.png)Freya Aloy - The Magitek Queen
+## &#x20;![](../../.gitbook/assets/hero-09.png)Freya Aloy - The Magitek Queen
 
 Her story started when she was very young, she and her little sister along with her parent migrated to **Yuerratica** as part of a group of rebellious humans. These people refused to be controlled under the strict authority of **UETC**. Since the mainland (**Pangaea Proxima**) is too expensive to live, the new continent was the only suitable place to go for these people . Many of them settle here, formed towns and citadels. In one summer (ice melting season), a tragedy struck, both of her parents died when a big chunk of ice slid from the **Great Icy Wall** and rolled over her parent vehicle. After the incident, she and her little sister were adopted by a technician named **Rust** who treated them as his own daughters.&#x20;
 
@@ -158,7 +158,7 @@ At the age of 15, she accidentally discovered a cave after ice melting revealed 
 As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is in her 20s while her sister growth old and has stepped down from the throne long time ago to settle family. This becomes a mystery among her people because she is a pure Human, not **Demi-God** nor carry any demigod gene. She remains the true ruler of **Solheim**. People from over the world call her: **The Magitek Queen**
 
 {% hint style="info" %}
-**Yuerratica, Pangea Proxima, Twin-Continents:** checkout: [#the-world-map-in-66-002-022-ad](./#the-world-map-in-66-002-022-ad "mention")
+**Yuerratica, Pangea Proxima, Twin-Continents:** checkout: [#the-world-map-in-66-002-022-ad](game-lore.md#the-world-map-in-66-002-022-ad "mention")
 
 **Great Icy Wall:** A big land mark in **Yuerratica**
 
