@@ -81,7 +81,7 @@ The king and her husband know about this bad habit of **Siri** but choose to ign
 
 ## ![](../../../.gitbook/assets/hero-05.png) Mikasa - The Royalist&#x20;
 
-She is one of the best among **The King of Cinapura**'s personal body guard squad, also served as maids in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age. Every one of them have their name given by the Royal family. They are trained to the point they are willing to die to protect the Royal family member.
+She is one of the best among **The King of Cinapura**'s personal body guard squad, also served as maids in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age. Every one of them have their name given by the Royal family. They are brainwashed to the point they are willing to die to protect the Royal family member.
 
 Their training includes mastering hand to hand close combat as well as using weapon such as gun, knife. They sometimes are given order by the King to handle domestic affair, for example working as a spy to collect information. Their main purpose is to ensure the longevity of the monarchy and protect the **Royal Family** at all cost.
 
@@ -100,20 +100,20 @@ By the age of 12, she decided to leave her cave to venture into the outside worl
 **Arya** is now 18 and become a skilled female assassin for hire. She has a habit of tossing a coin whenever she receives a job offer. If the coin is not in her favor she will not do the job no matter how much the money is.&#x20;
 
 {% hint style="info" %}
-**Edd Xu** hates and also afraid the **Cinapura Royal Family** so much that he would kill any one related to them if they ever step foot inside his cave. Meanwhile his wife **Orange Li** only wants her noble life back, she doesn't want to live in this cave forever.&#x20;
+**Edd Xu** hates and also afraid the **Cinapura Royal Family** so much that he would kill any one related to them if they ever step foot inside his cave. Meanwhile his wife **Orange Li** only wants her noble life back, she doesn't want to live in this cave forever. That why just after the family move inside the mountain cave, she used her connection to help her contact the King younger brother **Kudon.**
 
-That why she has secretly visiting **Kudon** to help her settle the dispute between two families. **Kudon** at that time has already married to **Siri**, but being impressed by **Orange** beauty and lovely voice, while **Orange** being impressed by his charm, they have fallen in love with each other knowing it not the right thing. Later with the help of **Kudon**, the dispute is settled, and the family is forgiven by the King.
+**Orange Li** has secretly visiting **Kudon** to help her settle the dispute between the King and her husband. **Kudon** at that time has already married to **Siri**, but being impressed by **Orange** beauty and lovely voice, while **Orange** being impressed by his charm, they have fallen in love with each other knowing it not the right thing. Soon with the help of **Kudon**, the dispute is settled, and the family is forgiven by the King.
 
-When **Orange** comes back to the cave to tell her husband, he doesn't believe it but thinking that it may be a trick to lure him out to assassinate him. **Edd Xu** felt betrayed by his wife but still loved her so much, decided to forbidden her to leave the cave.&#x20;
+When **Orange** comes back to the cave to tell her husband, he doesn't believe it but thinking that it may be a trick to lure him out to assassinate him. **Edd Xu** felt betrayed by his wife but still loved her so much, decided to forbidden her to leave the cave. During her time living in the mountain cave, she was pregnant and gave birth to **Arya.**  &#x20;
 
-Although unable to leave the cave, **Orange** and **Kudon** were still able to secretly meet each other via a secret under water tunnel which **Kudon** can easily swim through with his Demigod gene of **Triton**.&#x20;
+Although unable to leave the cave, **Orange** and **Kudon** were still able to secretly meet each other time to time via a secret under water tunnel which **Kudon** can easily swim through with his Demigod gene of **Triton**.&#x20;
 
 **Assassin Brotherhood: The Faceless Men** a big secret organization which people have very little information about it. Members of this group always act alone and seem to communicate with other members secretly via a cryptic mechanism.  &#x20;
 {% endhint %}
 
 ## ![](../../../.gitbook/assets/hero-07.png)Shana - Empress of the seas
 
-Grand daughter of the Legendary Pirate **Shanks.** She is currently the leader of **Redhair Pirate,** hundreds of ships in the pirate crews are all under her command. She is a fearsome name among other pirates. Losing one of her eye in an intense battle with another pirate ship, she went on to destroy the entire fleet of that pirate crews, leaving no survivor, erase the crews name from the four seas forever.
+Granddaughter of the Legendary Pirate **Shanks.** She is currently the leader of **Redhair Pirate,** hundreds of ships in the pirate crews are all under her command. She is a fearsome name among other pirates. Losing one of her eye in an intense battle with another pirate ship, she went on to destroy the entire fleet of that pirate crews, leaving no survivor, erase the crews name from the four seas forever.
 
 She also harbored great ambition, her mind full of plans and ideas. Indeed a remarkable woman skilled at debating and using those around her, she's a most talented figure that fights for what she deemed worth. What's more, she's currently a dominant force in the <mark style="color:blue;">**South-Blue**</mark> sea and is sure to make some serious waves.
 
@@ -134,13 +134,17 @@ Her family has big reputation in **UETC** army. She is the only daughter of **UE
 
 **Samual Paddley** is the legendary general whom help united the twin continents under the regime of **UETC**.
 
-**UETC:** **United Empire of the Twin Continents.** an united group of countries founded after the war between people of **Normia** and people of **Somia** in **** 66,001,865 AD. **UETC** are governed by a board consist of 12 persons, 6 come from the original Royal families that gave up their power to form **UETC**, 3 human elders and 3 appointed governors.  &#x20;
+**UETC:** **United Empire of the Twin Continents.** an united group of countries founded after the war between people of **Normia** and people of **Somia** in **** 66,001,865 AD. **UETC** are governed by a board consist of 12 persons, 6 senators come from the original Royal families that gave up their power to form **UETC**, 3 human elders and 3 appointed governors. Most matters are decided by the **3** **Elders**, then **6 Senators** discuss, vote for rejection or draft execution plan. **3 Governors** will go on to execute the plan accordingly. When an **Elder** pass away or retired, the most experienced **Governor** will succeed his role and a new **Governor** will be appointed by the board.    &#x20;
 
 **UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threats. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.
 
+**Solheim:** A country in **Yuerratica,** recently founded by the new continent people.
+
+**Akainu** **Paddley:**  grandson of the legend **Samual Paddley,** a great **** Admiral whom leading the war between **UETC** and **Solheim.** At first, he claim continues victories battle was able to capture many citadels in the new continent **Yuerratica**. But later, all got reclaimed by **Freya Aloy** with her **Magitek** weapon. When the **Olympians God** intervene and settle the conflict, unable to face the public humiliation of his defeats, he has committed suicide.&#x20;
+
 **Samual Paddley** **Fleet** once is the crown of **UETC Royal Navy** which consist of one hundred advance warships. But most of them were destroyed during the war between **UETC** and **Solheim** and those conflicts happened after that. Even though **UETC Royal Navy** is the most advance naval army in the world, they were not matched to the power of flying Drones (ancient technology) combine with magic that capable of creating huge explosion and sink those ship in an instant.
 
-As of now **UETC** and **Solheim** still remain rival countries, both are the strongest representation for the power of Human. While all countries in the mainland (**Pangea Proxima**) are small and most are governed by Royal Families with Demigod lineage..&#x20;
+As of now **UETC** and **Solheim** still remain rival countries, both are the strongest representation for the power of Human. While all countries in the mainland (**Pangea Proxima**) are small and most are governed by **Demigod lineage Royal Families**
 {% endhint %}
 
 ## &#x20;![](../../../.gitbook/assets/hero-09.png)Freya Aloy - The Magitek Queen
@@ -167,5 +171,7 @@ As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is i
 **Solheim:** The newly founded country in **Yuerratica,** known for very good craftsmanship and technician both specialized in build and design Magitek equipment.
 
 **Atomic technology:** Forbidden technology by the **God of Olympians**
+
+**UETC** and **Solheim** in term of military power, both are very powerful compare to countries in mainland. But they are still respect the power of **Olympian Gods** and their **Demigod** creations. Also most of **Earth** rare natural resources are in the **Pangea Proxima continent**, which under control of these **Demigod linage Royal Families**. Both **UETC** and **Solheim** need those resources to develop their technology and increase their military power.  &#x20;
 {% endhint %}
 
