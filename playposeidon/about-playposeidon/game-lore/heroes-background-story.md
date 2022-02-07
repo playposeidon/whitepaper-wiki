@@ -29,7 +29,7 @@ She was born in a hunter tribe from the northern part of **Pangea Proxima**, on 
 
 The infant was then left abandoned on a prairie full of dangerous animals where no human live. Out of coincident, just when the Olympian god **Artemis** was traveling the area in her aircraft to investigate an abnormality. She found the infant and picked her up. Finding out this infant was not a normal human, she decided to bring her back to **Mount Olympus** to investigate further. After confirmation that the infant is indeed a mutant, human but carrying gene of a mystic animal. **Zeus** orders **Artemis** to get rid of her by putting her back where she was picked up. Being merciful to the child, after putting her back, **Artemis** was secretly informed one tribe in the north which worship her to go to the location and save the infant.
 
-After being rescued by the tribe people, she was brought to the tribe and the name **Samihri** was given by the tribe elder. She was then raised by everyone in the tribe. They teach her how to hunt and act like a human being even though her appearance is different. The more she grows the more she becomes faster and stronger. The god **Artemis** does some time visit the tribe to see **Samihri** in person which made the tribe people and nearby tribes start to adore and worship **Samihri** like a god of their own.
+After being rescued by the tribe people, she was brought to the tribe and the name **Samihri** was given by the tribe elder. She was then raised by everyone in the tribe. They teach her how to hunt and act like a human being even though her appearance is different. The more she grows the more she becomes faster and stronger. In one occasion, She is able to defeat **Cerberus** a strong mystic animal to protect her tribe which made the tribe people and nearby tribes start to adore and worship **Samihri** like a god of their own.
 
 {% hint style="info" %}
 **Canis Minor:** is a small constellation in the northern celestial hemisphere.
@@ -41,6 +41,8 @@ After being rescued by the tribe people, she was brought to the tribe and the na
 **Zeus**: The leader of 12 Olympians Gods. Brother of **Poseidon**, Father of **Artemis**.
 
 **Mount Olympus:** a place in a high mountain where all Olympians God keep their advance equipment and also when they usually meet and discuss matter.
+
+**Cerberus:** A multi-headed dog that is descendant of the hell monsters **Echidna** and **Typhon**
 
 The northern part of **Pangea Proxima** is a big rural area where all kind of dangerous animal are roaming around. Not many people live here and they usually forming tribes. These people are not living in a same place but always travel to avoid danger and also to hunt animals for food.&#x20;
 {% endhint %}
@@ -138,7 +140,7 @@ Her family has big reputation in **UETC** army. She is the only daughter of **UE
 
 **Samual Paddley** **Fleet** once is the crown of **UETC Royal Navy** which consist of one hundred advance warships. But most of them were destroyed during the war between **UETC** and **Solheim** and those conflicts happened after that. Even though **UETC Royal Navy** is the most advance naval army in the world, they were not matched to the power of flying Drones (ancient technology) combine with magic that capable of creating huge explosion and sink those ship in an instant.
 
-As of now **UETC** and **Solheim** still remain rival countries, both are representation for the power of Human
+As of now **UETC** and **Solheim** still remain rival countries, both are the strongest representation for the power of Human. While all countries in the mainland (**Pangea Proxima**) are small and most are governed by Royal Families with Demigod lineage..&#x20;
 {% endhint %}
 
 ## &#x20;![](../../../.gitbook/assets/hero-09.png)Freya Aloy - The Magitek Queen
