@@ -10,13 +10,13 @@ Every time you want to claim your **PPP**, a portion of your claimed amount will
 
 **20%** of your total unclaimed In-Game **PPP** is free to claim.
 
-**30%** of your total In-Game **PPP** will be taxed using curve formula follow a targeted price **P1** with (**b**)ase rate is 15% and (**M**)ax rate is 30%
+**30%** of your total In-Game **PPP** will be taxed using curve formula follow a targeted price **P1** with (**b**)ase is 15% and (**M**)ax rate is 30%  (min 15%)
 
 $$
 r1 =  M-b *|ln(P/P1)|
 $$
 
-**50%** of total In-Game **PPP** will be taxed using curve formula follow a targeted price **P2** with (**b**)ase  rate is 50% and (**M**)ax rate is 80%
+**50%** of total In-Game **PPP** will be taxed using curve formula follow a targeted price **P2** with (**b**)ase is 50% and (**M**)ax rate is 80% (min 30%)
 
 $$
 r2 =  M-b *|ln(P/P2)|

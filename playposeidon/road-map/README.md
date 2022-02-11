@@ -13,7 +13,7 @@ description: Short Roadmap with dates
 * [x] 01/01/2022: Launch Play Poseidon Website&#x20;
 * [x] 09/01/2022: Bootstrap English player community &#x20;
 * [x] 21/01/2022: Launch Airdrop Campaign 1 (Closed-Beta)&#x20;
-* [ ] Bootstrap Vietnamese player community
+* [x] 29/01/2022: Bootstrap Vietnamese player community
 
 
 
