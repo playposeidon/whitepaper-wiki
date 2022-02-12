@@ -26,7 +26,7 @@ Your Hero's arrow will bounce when it hit the monster or hit the ground. Bounce 
 
 ### **Piercing** **throw**: ![](../../.gitbook/assets/Rec\_Piercing\_skill.png)
 
-Your Hero's arrow will pierce through when it hit the monster (will not pierce when hit the ground :smile:) Piercing arrow can keep piercing enemy for a limited number of time based on this skill LV. For example: Piercing throw LV1, arrow will pierce through 1 monster and hit another one. LV2 can pierce through two, potentially hit 3 enemy. And so on and so on.
+Your Hero's arrow will pierce through when it hit the monster (will not pierce when hit the ground) Piercing arrow can keep piercing enemy for a limited number of time based on this skill LV. For example: Piercing throw LV1, arrow will pierce through 1 monster and hit another one. LV2 can pierce through two, potentially hit 3 enemy. And so on and so on.
 
 Due to the nature of the skill, **Bouncing throw and Piercing throw are Mutually exclusive**. Player need to toggle between these skill when playing. (These 2 skill are acquired starting from Hero LV2)
 
@@ -50,4 +50,4 @@ Below are the throw skills and Hero level scaling table:
 
 ## 2. Cast skill
 
-When the Hero equipped the NFT Weapon Orb (2022 Q2), he/she will be granted a cast skill which deal a lot of AOE damage. Details will be released soon.&#x20;
+When the Hero equipped the NFT Weapon Orb (2022 Q2), he/she will be granted a cast skill which deal a lot of AOE damage. For example: meteors rain down from the sky, earthquake, tornado, sea waves... etc. Details will be released soon.&#x20;
