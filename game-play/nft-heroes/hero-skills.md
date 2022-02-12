@@ -50,28 +50,4 @@ Below are the throw skills and Hero level scaling table:
 
 ## 2. Cast skill
 
-Currently there are 2 skill:
-
-### **Meteor Strike:**  ![](../../.gitbook/assets/Summon\_meteor\_skill.png)****
-
-After your hero cast this spell, a lot of meteors will rain down from the sky which deal a lot of damage to monsters. Damage of meteors will scale with this skill Level. This skill is acquired already from Hero LV1
-
-### **Tornado Strike:**  ![](../../.gitbook/assets/Rec\_Tornado.png)&#x20;
-
-After your hero cast this spell, a tornado will come out from your base and start push back monster in its path. The distance of push back is depend on this skill Level and the size of the monster (light monster is push further, heavy monster is push shorter distance). This skill is acquired from Hero LV4
-
-&#x20;Each of these cast skill can only be used only **one time during a match**. So make sure to utilized it at the right timing.
-
-| Hero Level | Meteor Strike                                           | Tornado Strike                                 |
-| ---------- | ------------------------------------------------------- | ---------------------------------------------- |
-| Hero LV1   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV1 | Not acquired                                   |
-| Hero LV2   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV1 | Not acquired                                   |
-| Hero LV3   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV2 | Not acquired                                   |
-| Hero LV4   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV2 | ![](../../.gitbook/assets/Rec\_Tornado.png)LV1 |
-| Hero LV5   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV3 | ![](../../.gitbook/assets/Rec\_Tornado.png)LV1 |
-| Hero LV6   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV3 | ![](../../.gitbook/assets/Rec\_Tornado.png)LV2 |
-| Hero LV7   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV4 | ![](../../.gitbook/assets/Rec\_Tornado.png)LV2 |
-| Hero LV8   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV4 | ![](../../.gitbook/assets/Rec\_Tornado.png)LV3 |
-| Hero LV9   | ![](../../.gitbook/assets/Summon\_meteor\_skill.png)LV5 | ![](../../.gitbook/assets/Rec\_Tornado.png)LV3 |
-
-More cast skill will be released in the future which will allow your hero to fight more difficulty battles and monster bosses.&#x20;
+When the Hero equipped the NFT Weapon Orb (2022 Q2), he/she will be granted a cast skill which deal a lot of AOE damage. Details will be released soon.&#x20;
