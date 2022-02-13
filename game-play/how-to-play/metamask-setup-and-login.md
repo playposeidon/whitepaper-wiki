@@ -47,11 +47,31 @@ The steps to add the BSC network are outlined below:
 
 3\. Input the following information:
 
-* Network Name: Binance Smart Chain
-* New RPC URL: https://bsc-dataseed.binance.org/
-* Chain ID: 56
-* Currency Symbol: BNB
-* Block Explorer URL: https://bscscan.com
+{% hint style="success" %}
+**Network Name:** Binance Smart Chain
+
+**New RPC URL:** https://bsc-dataseed.binance.org/
+
+**ChainID:** 56
+
+**Symbol:** BNB
+
+**Block Explorer URL:** https://bscscan.com
+{% endhint %}
+
+For Closed-Beta and Open-Beta testing please use this network below:&#x20;
+
+{% hint style="info" %}
+**Network Name:** BSC - Testnet
+
+**New RPC URL:** https://data-seed-prebsc-1-s1.binance.org:8545/
+
+**ChainID:** 97
+
+**Symbol:** BNB
+
+**Block Explorer URL:** https://testnet.bscscan.com
+{% endhint %}
 
 ![](../../.gitbook/assets/metamask\_setup\_3.png)
 

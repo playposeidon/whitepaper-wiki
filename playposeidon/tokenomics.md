@@ -22,7 +22,7 @@ Read: [https://ethereum.org/en/developers/docs/standards/tokens/erc-20/](https:/
 | -------------------------------------------- | :--------: | ----------- | ----------------------------------------------------------------------------------------------------------- |
 | Seed Sale                                    |    2.5%    | 2,500,000   | Linear Vesting in 12 months after TGE                                                                       |
 | Private Sale                                 |     6%     | 6,000,000   | 30% unlock 3 hours after IDO then Linear Vesting in 12 months                                               |
-| Public Sale IDO                              |     4%     | 4,000,000   | Details will be revealed soon.                                                                              |
+| Public Sale IDO                              |     4%     | 4,000,000   | 30% released after token listing, then 11.66% every month for 6 months                                      |
 | Core Team                                    |     10%    | 10,000,000  | **Full-Lock** for 6 month after TGE then Linear Vesting for 12 months                                       |
 | Marketing Fund                               |     10%    | 10,000,000  | 15% unlock at TGE then release over 18 months. Unused amount will be transferred to Foundation              |
 | <p>In-Game Treasury </p><p>(P2E Reward) </p> |     50%    | 50,000,000  | 10% of the initial Treasury is unlock at TGE then release over 18 months                                    |
@@ -31,10 +31,10 @@ Read: [https://ethereum.org/en/developers/docs/standards/tokens/erc-20/](https:/
 
 ### 1.1 Initial Unlocked Supply after IDO
 
-Initial Unlocked Supply after IDO: **7,800,000 PPP (7.8%)**&#x20;
+Initial Unlocked Supply after IDO: **5,000,000 PPP (5%)**&#x20;
 
 {% hint style="info" %}
-Free-float: 1.8% (Private Sale) + 4% (IDO) = 5.8%
+Free-float: 1.8% (Private Sale) + 1.2% (IDO) = 3.0%
 
 Partial-lock: 1.5% (Marketing) + 0.2% (AirDrop) + 0.3% (Foundation) = 2.0%
 {% endhint %}
