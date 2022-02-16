@@ -22,7 +22,7 @@ Read: [https://ethereum.org/en/developers/docs/standards/tokens/erc-20/](https:/
 | -------------------------------------------- | :--------: | ----------- | ----------------------------------------------------------------------------------------------------------- |
 | Seed Sale                                    |    2.5%    | 2,500,000   | Linear Vesting in 12 months after TGE                                                                       |
 | Private Sale                                 |     6%     | 6,000,000   | 30% unlock 3 hours after IDO then Linear Vesting in 12 months                                               |
-| Public Sale IDO                              |     4%     | 4,000,000   | 30% released after token listing, then 11.66% every month for 6 months                                      |
+| Public Sale IDO                              |     4%     | 4,000,000   | 30% released after token listing, then 10% every month for 7 months                                         |
 | Core Team                                    |     10%    | 10,000,000  | **Full-Lock** for 6 month after TGE then Linear Vesting for 12 months                                       |
 | Marketing Fund                               |     10%    | 10,000,000  | 15% unlock at TGE then release over 18 months. Unused amount will be transferred to Foundation              |
 | <p>In-Game Treasury </p><p>(P2E Reward) </p> |     50%    | 50,000,000  | 10% of the initial Treasury is unlock at TGE then release over 18 months                                    |
