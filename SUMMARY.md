@@ -31,7 +31,7 @@
   * [🛒 How to buy Totems and Eggs](game-play/how-to-play/how-to-buy-totems-and-eggs.md)
   * [👁🗨 Pre-Fight](game-play/how-to-play/pre-fight.md)
   * [⚔ Fight battle](game-play/how-to-play/fight-battle.md)
-  * [🆓 Free Play setup](game-play/how-to-play/free-play-setup.md)
+  * [🅱 Beta Testing](game-play/how-to-play/beta-testing.md)
 * [🦸♀ NFT Heroes](game-play/nft-heroes/README.md)
   * [♈ Zodiac Signs](game-play/nft-heroes/zodiac-signs.md)
   * [🌠 Hero Attributes](game-play/nft-heroes/hero-attributes.md)

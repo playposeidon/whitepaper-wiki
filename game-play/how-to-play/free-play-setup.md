@@ -1,2 +1,0 @@
-# 🆓 Free Play setup
-
