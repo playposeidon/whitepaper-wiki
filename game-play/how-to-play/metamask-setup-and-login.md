@@ -71,6 +71,8 @@ For **Closed-Beta** and **Open-Beta** testing please use this network below:&#x2
 **Symbol:** BNB
 
 **Block Explorer URL:** https://testnet.bscscan.com
+
+Alternative RPC URL: https://data-seed-prebsc-1-s2.binance.org:8545/
 {% endhint %}
 
 ![](../../.gitbook/assets/metamask\_setup\_3.png)
