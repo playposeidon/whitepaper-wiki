@@ -59,7 +59,7 @@ The steps to add the BSC network are outlined below:
 **Block Explorer URL:** https://bscscan.com
 {% endhint %}
 
-For Closed-Beta and Open-Beta testing please use this network below:&#x20;
+For **Closed-Beta** and **Open-Beta** testing please use this network below:&#x20;
 
 {% hint style="info" %}
 **Network Name:** BSC - Testnet

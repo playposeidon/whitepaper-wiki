@@ -2,7 +2,7 @@
 description: The stories of our Heroes
 ---
 
-# Heroes Background Story
+# 📚 Heroes Background Story
 
 ## ![](../../.gitbook/assets/hero-01.png)Yudon - Prince of Cinapura
 
