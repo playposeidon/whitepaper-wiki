@@ -22,7 +22,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 **Yudon's Journal:** Please subscribe to our [blog.playposeidon.io](https://blog.playposeidon.io) to read this **Journal**.
 {% endhint %}
 
-## ![](../../.gitbook/assets/hero-02.png) **Samihri - The Gumiho**
+## ![](../../.gitbook/assets/hero-02.png) **Samihri - The Fox** Goddess
 
 \
 She was born in a hunter tribe from the northern part of **Pangea Proxima**, on a day when the **Canis Minor constellation** suddenly shines brightest then becomes dimmed. People in the north say this infant has been possessed by the spirit of the **Teumessian Fox**. Her mother died in labor, her father, while in great grief, was being persuaded by the Tribe's elders to cast her away as she is a cursed child.&#x20;
