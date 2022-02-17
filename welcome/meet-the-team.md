@@ -44,18 +44,9 @@ description: PlayPoseidon Development Team
 
 **Bio**
 
-* 6 years + exp in Technology R\&D sector.
+* 6 years exp in Technology R\&D sector.
 * Lead Engineer of various startups in Singapore
 * Artificial Intelligence and Machine Learning expert
-
-## Tuan Nguyen
-
-👋  Marketing Lead — 💌  tony.nguyen@playposeidon.io  — :flag\_au:Australia (GMT+11)
-
-**Bio**
-
-* 5 years exp in Growth hacking business for many Australia clients.
-* Entrepreneur of multiple business in Vietnam and Australia
 
 ## Chris Lu
 
