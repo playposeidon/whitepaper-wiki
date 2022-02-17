@@ -6,7 +6,9 @@ coverY: 333.820873427091
 
 # 🪙 Tokenomics
 
-The main currency of the **PlayPoseidon** game is **PPP** (Play Poseidon Pearl). This token is a **Deflationary** token follow **ERC-20** standard with the total supply is capped at **100,000,000** token
+## **Symbol: PPP  Icon:** ![](../.gitbook/assets/Icon\_PPP\_Big.png)****
+
+The main currency of the **PlayPoseidon** game is **PPP** (Play Poseidon Pearl). This token is a **Deflationary** token follow **ERC-20** standard with the total supply is capped at **100,000,000** token.
 
 {% hint style="info" %}
 **Deflationary:** Deflationary tokens are tokens fashioned to reduce in supply over time. This is due to a burn mechanism is executed when ever a transaction happen. This mechanism  improving the value of the token over time.
