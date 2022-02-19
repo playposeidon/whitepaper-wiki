@@ -33,7 +33,7 @@ Read: [https://ethereum.org/en/developers/docs/standards/tokens/erc-20/](https:/
 
 ### 1.1 Initial Unlocked Supply after IDO
 
-Initial Unlocked Supply after IDO: **5,000,000 PPP (3.8%)**&#x20;
+Initial Unlocked Supply after IDO: **3,800,000 PPP (3.8%)**&#x20;
 
 {% hint style="info" %}
 Free-float: 1.8% (Private Sale) + 1.2% (IDO) + 0.2% (AirDrop) = 3.2%
