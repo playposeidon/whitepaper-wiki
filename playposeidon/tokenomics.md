@@ -33,12 +33,14 @@ Read: [https://ethereum.org/en/developers/docs/standards/tokens/erc-20/](https:/
 
 ### 1.1 Initial Unlocked Supply after IDO
 
-Initial Unlocked Supply after IDO: **5,000,000 PPP (5%)**&#x20;
+Initial Unlocked Supply after IDO: **5,000,000 PPP (3.8%)**&#x20;
 
 {% hint style="info" %}
-Free-float: 1.8% (Private Sale) + 1.2% (IDO) = 3.0%
+Free-float: 1.8% (Private Sale) + 1.2% (IDO) + 0.2% (AirDrop) = 3.2%
 
-Partial-lock: 1.5% (Marketing) + 0.2% (AirDrop) + 0.3% (Foundation) = 2.0%
+Marketing: 0.45% (Remaining 1.05% vesting 12m)
+
+Foundation: 0.15% (Remaining 0.15% Vesting 12m)
 {% endhint %}
 
 ## 2. Deflationary mechanism
