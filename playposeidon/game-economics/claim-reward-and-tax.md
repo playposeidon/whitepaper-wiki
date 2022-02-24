@@ -1,6 +1,6 @@
 # 💰 Claim Reward and Tax
 
-Every **PPP** earned from **NFT Hero** daily farm**, Selling NFT Hero/Pet, Selling NFT Items** in the Game **** is consider Player Income and will be a Taxed if Player want to claim it out to On-Chain **PPP**
+Every **PPP** earned from **NFT Hero** daily farm**, Selling NFT Hero/Pet, Selling NFT Items** in the Game  is consider Player Income and will be a Taxed if Player want to claim it out to On-Chain **PPP**
 
 ### 1.Dynamic Tax Rate
 
@@ -34,9 +34,9 @@ This tax rate formula will create a incentive for Player to hold the PPP coin wh
 
 The total maximum tax rate if player withdraw all is theoretically capped at **49%** according to this formula (when **P=P1=P2**) In-realty the tax rate will be lower than that. For example, if player have **100 PPP** unclaimed reward and he want to claim **80 PPP**. At the claim moment, the price of **PPP = 1.2$** while targeted price **P1 = 1$** and target price **P2 = 2$.**&#x20;
 
-> **20 PPP** at **r=0% tax** , player receive **** 20 **** PPP
+> **20 PPP** at **r=0% tax** , player receive  20  PPP
 >
-> **30 PPP** at **r1= 27.26% tax** , player receive **** 21.82 **** PPP
+> **30 PPP** at **r1= 27.26% tax** , player receive  21.82  PPP
 >
 > **30 PPP** at **r2= 54.45% tax** , player receive 13.66 PPP
 >
@@ -54,7 +54,7 @@ For first 2 weeks of the game the tax rate will be set fixed to a low minimum:&#
 
 After that the tax rate will be recalculated daily using formula above but with targeted price **P1** and **P2** set by the team. Depend on market sentiment and growth expectation we will set these targeted price to reflect that.
 
-Once the game finish its first quarter. The targeted price **P1** will be automatically set to follow the current **** 25 days MA price and **P2** will be automatically set to follow the 7 days MA price.
+Once the game finish its first quarter. The targeted price **P1** will be automatically set to follow the current  25 days MA price and **P2** will be automatically set to follow the 7 days MA price.
 
 {% hint style="info" %}
 Note: The targeted price **P1,** **P2** may some time will be keep constant and not tracking Moving Average price of **PPP** token on purpose to keep the economy stable.

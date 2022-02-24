@@ -17,9 +17,9 @@ coverY: 0
 
 This is the main source of income for player in this game. Player is required to own PlayPoseidon NFTs, at least one **NFT Hero** in-order to play and start earning from the owned NFT.&#x20;
 
-Every day the player will login to the game, select a pair of NFT Hero and NFT Pet to fight battle. After each battle if he won the match, he will be rewarded **PPP** token based on the daily **farm-cap** of the chosen NFT Hero. It usually take about 5 win matches (3 minutes per match, 15 minutes total) to fully gained a Hero **** daily **farm-cap.** Once maxed out playing more match will only give tiny income.
+Every day the player will login to the game, select a pair of NFT Hero and NFT Pet to fight battle. After each battle if he won the match, he will be rewarded **PPP** token based on the daily **farm-cap** of the chosen NFT Hero. It usually take about 5 win matches (3 minutes per match, 15 minutes total) to fully gained a Hero  daily **farm-cap.** Once maxed out playing more match will only give tiny income.
 
-The daily income of player is only depend on how many NFT Heroes that the player owned, the **Hero Tier** and the **Hero Level** significantly increase the daily income. NFT Pets doesn't contribute to this income. But NFT Pets **** allow player to level up the NFT Hero faster and increase the daily farm-cap.
+The daily income of player is only depend on how many NFT Heroes that the player owned, the **Hero Tier** and the **Hero Level** significantly increase the daily income. NFT Pets doesn't contribute to this income. But NFT Pets  allow player to level up the NFT Hero faster and increase the daily farm-cap.
 
 In this game, NFT Heroes are categorized in different income tiers called **Hero Tier**. Higher tier heroes have a much higher **farm-cap** compare to the below tier in-exchange for higher investment cost. This allow a **low entry cost for Player** with a tight budget. For details of each Hero Tier Daily Income tier, check out this page below:
 

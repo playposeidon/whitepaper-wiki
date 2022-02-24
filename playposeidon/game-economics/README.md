@@ -8,11 +8,11 @@ coverY: 0
 
 The **PlayPoseidon** team understand that as a Player before you purchase NFTs in a P2E game you would like to know what should be your expected return of your investment. That why we have created a comprehensive and details excel file in this page: [daily-income-tier-hero-grade.md](../earn-mechanism/daily-income-tier-hero-grade.md "mention")&#x20;
 
-In general the average **Annual ROI** is currently at **1000%-1300%** (depend on **Hero Level**, **Zodiac** set). Every quarter, when we release new set of **NFT Heroes.** Existing NFT Heroes Annual ROI may be reduced to encourage player to buy new NFT Heroes. This is also make a game fair between old players and new players. **** &#x20;
+In general the average **Annual ROI** is currently at **1000%-1300%** (depend on **Hero Level**, **Zodiac** set). Every quarter, when we release new set of **NFT Heroes.** Existing NFT Heroes Annual ROI may be reduced to encourage player to buy new NFT Heroes. This is also make a game fair between old players and new players.  &#x20;
 
 The average Annual ROI can also be increased or reduced based on the amount of **Game Treasury** reserve is left. This ensure the game is stable in the long run. Player will be able to participate to vote on this decision whether to increase/decrease and how much.
 
-To control the economics of the Game on a daily basis, we are using **A Dynamic Tax system.** This system is designed to benefits those Player who reinvest their daily income **PPP** back **** into the game or diamond hand holder while discourage others from cashing out their entire Game assets. The token itself is also a **Deflationary** token which will increase in value over time. This completely remove the needs for a second Token like other P2E games for example: THG/THC (Thetan Arena), HTD/CGC (HeroesTD)
+To control the economics of the Game on a daily basis, we are using **A Dynamic Tax system.** This system is designed to benefits those Player who reinvest their daily income **PPP** back  into the game or diamond hand holder while discourage others from cashing out their entire Game assets. The token itself is also a **Deflationary** token which will increase in value over time. This completely remove the needs for a second Token like other P2E games for example: THG/THC (Thetan Arena), HTD/CGC (HeroesTD)
 
 With this mechanism, in the game will have 2 type of **PPP** token:
 

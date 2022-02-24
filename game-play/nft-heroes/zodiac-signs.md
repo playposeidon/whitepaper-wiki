@@ -23,7 +23,7 @@ description: >-
 | 11 :aquarius:   | Aquarius    | January 20–February 18  | Air :cloud\_lightning: |
 | 12 :pisces:     | Pisces      | February 19–March 20    | Water :ocean:          |
 
-During **NFT Hero** minting, each hero will be granted a sets of **Zodiac Signs.**  Usually 3 for **** Grade A ,B **** (max is Grade S have 4,  Grade C,D have 2, Grade E,F have 1). If hero have multiple sign of the same zodiac, it will give enormous reward during period.&#x20;
+During **NFT Hero** minting, each hero will be granted a sets of **Zodiac Signs.**  Usually 3 for  Tier A ,B  (max is Tier S have 4,  Tier C,D have 2, Tier E,F have 1). If hero have multiple sign of the same zodiac, it will give enormous reward during period.&#x20;
 
 For example, during **March 21 to April 19**. If your Hero have one or more **Aries** sign, the daily income reward will be increased according to below:
 
@@ -36,13 +36,13 @@ This zodiac property is creating more value to **NFT Hero** with **Double**, **T
 
 #### Equivalent Number of month income per Year
 
-| Hero Grade                                     | Double       | Triple       | Quadruple | Other combinations                    |
+| Hero Tier                                     | Double       | Triple       | Quadruple | Other combinations                    |
 | ---------------------------------------------- | ------------ | ------------ | --------- | ------------------------------------- |
-| <mark style="color:red;">**Grade S**</mark>    | 13.5 months  | 14.25 months | 15 months | 13 months (Two-Double give 14 months) |
-| <mark style="color:yellow;">**Grade A**</mark> | 13.25 months | 14 months    | N/A       | 12.75 months                          |
-| <mark style="color:purple;">**Grade B**</mark> | 13.25 months | 14 months    | N/A       | 12.75 months                          |
-| <mark style="color:green;">**Grade C**</mark>  | 13 months    | N/A          | N/A       | 12.5 months                           |
-| <mark style="color:blue;">**Grade D**</mark>   | 13 months    | N/A          | N/A       | 12.5 months                           |
+| <mark style="color:red;">**Tier S**</mark>    | 13.5 months  | 14.25 months | 15 months | 13 months (Two-Double give 14 months) |
+| <mark style="color:yellow;">**Tier A**</mark> | 13.25 months | 14 months    | N/A       | 12.75 months                          |
+| <mark style="color:purple;">**Tier B**</mark> | 13.25 months | 14 months    | N/A       | 12.75 months                          |
+| <mark style="color:green;">**Tier C**</mark>  | 13 months    | N/A          | N/A       | 12.5 months                           |
+| <mark style="color:blue;">**Tier D**</mark>   | 13 months    | N/A          | N/A       | 12.5 months                           |
 
 Check out **Gacha** page in totem section here: [#1.-totem](../../playposeidon/earn-mechanism/gacha-items.md#1.-totem "mention") for details on summon chance of Double, Triple, Quadruple zodiac signs.
 
