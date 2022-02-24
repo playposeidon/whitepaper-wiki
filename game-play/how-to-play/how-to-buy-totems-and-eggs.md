@@ -32,7 +32,7 @@ Totems and Eggs can be purchased via in-game shop.
 
 
 
-## **How to summon Hero **<mark style="color:red;">****</mark>** and Pet**
+## **How to summon Hero **<mark style="color:red;"></mark>** and Pet**
 
 1\. Open your Inventory.
 

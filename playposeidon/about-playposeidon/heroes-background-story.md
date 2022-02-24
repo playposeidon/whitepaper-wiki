@@ -13,7 +13,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 {% hint style="info" %}
 **Triton** is the only son of **Poseidon** (one of 12 Olympians gods) and **Amphitrite** (Goddess Queen of the sea)
 
-**Cinapura** is **** not a big country but become the richest country in **Pangaea Proxima** by hosting the most busy harbors and ports in the world. It is among the most developed countries in <mark style="color:blue;">**South-Blue**</mark> sea, the citizen of **Cinapura** most are merchants and have business all over the world.
+**Cinapura** is  not a big country but become the richest country in **Pangaea Proxima** by hosting the most busy harbors and ports in the world. It is among the most developed countries in <mark style="color:blue;">**South-Blue**</mark> sea, the citizen of **Cinapura** most are merchants and have business all over the world.
 
 **Mystic animals** are special kind of animal which can use magic power naturally. Unlike human which relied on special equipment to harness power of magic.
 
@@ -63,7 +63,7 @@ She is a master of hidden weapons, able to swiftly kill people from a far distan
 **Katana**: A type of sword, single-edged blade, very sharp and durable. Can only be forged by high skilled Bladesmith.
 {% endhint %}
 
-## ****![](../../.gitbook/assets/hero-04.png)**Sirilla - The White Witch**
+## ![](../../.gitbook/assets/hero-04.png)**Sirilla - The White Witch**
 
 **Sirilla** or commonly known as **Siri**, is the princess of **Sinatra .** Carrying in her blood is the Demigod gene of **Hecate.** Her family was known for mastering witchcraft and sorcery centuries ago and currently ruling the kingdom of **Sinatra**. When she was young she has been married to a **Cinapura**'s prince - **Kudon**. She is the mother of our main character **Yudon** and has been living with the **Royal Family** in **Cinapura Royal Palace** since.
 
@@ -72,7 +72,7 @@ In **Cinapura Royal Palace**, she only loves her husband, her son, and shows res
 The king and her husband know about this bad habit of **Siri** but choose to ignore it since they want a good relationship with her family to get more protection for **Cinapura** from **Sinatra** kingdom. Recently after discovering her husband's unfaithful relationship with other ladies, she got really mad and fly to a witch temple near the border of **Cinapura** and **Sinatra** to live by herself and practice more witchcraft. She still loves her son **Yudon** very much though.
 
 {% hint style="info" %}
-**Sinatra:** The kingdom of witches and **** sorcerers, **** a neighbor country of **Cinapura.** All of the great sorcerers and witches are from here, a lot of people also come here to practice witchcraft and sorcery in thousand years old temples of magic.
+**Sinatra:** The kingdom of witches and  sorcerers,  a neighbor country of **Cinapura.** All of the great sorcerers and witches are from here, a lot of people also come here to practice witchcraft and sorcery in thousand years old temples of magic.
 
 **Kudon**: younger brother of the King of **Cinapura.** He is father of **Yudon,** and **Siri**'s husband. He is well-known for his charm and handsomeness. He is usually tasked by his brother to deal with **Cinapura** international affair.&#x20;
 
@@ -125,22 +125,22 @@ She also harbored great ambition, her mind full of plans and ideas. Indeed a rem
 
 ## ![](../../.gitbook/assets/hero-08.png)Kaiya Paddley - Miss Navy
 
-She is known to be the most beautiful woman in the Navy and also in the entire **Somia** continent. Not just being a beauty, she is also a capable navy commander. She is currently a Fleet Captain in the **UETC Royal Navy.**  Under her command is a fleet of 30 ships and a large Imperial Warship named after her great grandfather **Samual Paddley - The Legend**. These ship are the best of **UETC Royal Navy,** all the most advance weapon and technology of **UETC** are harnessed to built this fleet. Each ship is worth ten times more than other navy ship. **** Her family has built a fortune around providing trade route security to those rich countries in the <mark style="color:blue;">**South-Blue**</mark> sea against pirates. ****   &#x20;
+She is known to be the most beautiful woman in the Navy and also in the entire **Somia** continent. Not just being a beauty, she is also a capable navy commander. She is currently a Fleet Captain in the **UETC Royal Navy.**  Under her command is a fleet of 30 ships and a large Imperial Warship named after her great grandfather **Samual Paddley - The Legend**. These ship are the best of **UETC Royal Navy,** all the most advance weapon and technology of **UETC** are harnessed to built this fleet. Each ship is worth ten times more than other navy ship.  Her family has built a fortune around providing trade route security to those rich countries in the <mark style="color:blue;">**South-Blue**</mark> sea against pirates.    &#x20;
 
-Her family has big reputation in **UETC** army. She is the only daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** whom is also a great Admiral but has committed suicide in **** 66,002,000 AD for feeling ashamed of his multiple defeats by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 7 year olds at that time, everything she admire and love from her father now transform to hatred toward the Queen of **Solheim**.
+Her family has big reputation in **UETC** army. She is the only daughter of **UETC** **Royal Navy** Fleet Admiral, **Akainu** **Paddley,** whom is also a great Admiral but has committed suicide in  66,002,000 AD for feeling ashamed of his multiple defeats by **Freya Aloy - The Magitek Queen** in the war and conflicts between **UETC** and the new continent people. She was 7 year olds at that time, everything she admire and love from her father now transform to hatred toward the Queen of **Solheim**.
 
 {% hint style="info" %}
-**Somia** one of the twin continent. **** Located in the south and very close to **Yuerratica**
+**Somia** one of the twin continent.  Located in the south and very close to **Yuerratica**
 
 **Samual Paddley** is the legendary general whom help united the twin continents under the regime of **UETC**.
 
-**UETC:** **United Empire of the Twin Continents.** an united group of countries founded after the war between people of **Normia** and people of **Somia** in **** 66,001,865 AD. **UETC** are governed by a board consist of 12 persons, 6 senators come from the original Royal families that gave up their power to form **UETC**, 3 human elders and 3 appointed governors. Most matters are decided by the **3** **Elders**, then **6 Senators** discuss, vote for rejection or draft execution plan. **3 Governors** will go on to execute the plan accordingly. When an **Elder** pass away or retired, the most experienced **Governor** will succeed his role and a new **Governor** will be appointed by the board.    &#x20;
+**UETC:** **United Empire of the Twin Continents.** an united group of countries founded after the war between people of **Normia** and people of **Somia** in  66,001,865 AD. **UETC** are governed by a board consist of 12 persons, 6 senators come from the original Royal families that gave up their power to form **UETC**, 3 human elders and 3 appointed governors. Most matters are decided by the **3** **Elders**, then **6 Senators** discuss, vote for rejection or draft execution plan. **3 Governors** will go on to execute the plan accordingly. When an **Elder** pass away or retired, the most experienced **Governor** will succeed his role and a new **Governor** will be appointed by the board.    &#x20;
 
 **UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threats. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.
 
 **Solheim:** A country in **Yuerratica,** recently founded by the new continent people.
 
-**Akainu** **Paddley:**  grandson of the legend **Samual Paddley,** he is himself **** a great **** Admiral whom leading the war between **UETC** and **Solheim.** At first, he claimed many victories and was able to capture many citadels in the new continent **Yuerratica**. But later, all got reclaimed by **Freya Aloy** with her **Magitek** weapon. When the **Olympians God** intervene and settle the conflict, unable to face the public humiliation of his defeats, he has committed suicide.&#x20;
+**Akainu** **Paddley:**  grandson of the legend **Samual Paddley,** he is himself  a great  Admiral whom leading the war between **UETC** and **Solheim.** At first, he claimed many victories and was able to capture many citadels in the new continent **Yuerratica**. But later, all got reclaimed by **Freya Aloy** with her **Magitek** weapon. When the **Olympians God** intervene and settle the conflict, unable to face the public humiliation of his defeats, he has committed suicide.&#x20;
 
 **Samual Paddley** **Fleet** once is the crown of **UETC Royal Navy** which consist of one hundred advance warships. But more than half of the ships were destroyed during the war between **UETC** and **Solheim** and those conflicts happened after that. Even though **UETC Royal Navy** is the most advance naval army in the world, they were not matched to the power of flying Drones (ancient technology) combine with magic that capable of creating huge explosion and sink those ship in an instant.
 
@@ -153,7 +153,7 @@ Her story started when she was very young, she and her little sister along with 
 
 At the age of 15, she accidentally discovered a cave after ice melting revealed its entrance. It preserved inside undamaged **Advanced** **Technology** pieces of equipment from the **Ancient Civilization** of human. Using her knowledge learn from her foster father she has awaken an **Advanced AI** in the cave. With the help of **The Cave AI** she was able to develop a **Magitek Armor Suit** to use in combat.
 
-10 years later, in the year 66,001,988 AD a war broke out between the new continent people and the **UETC**, she and her sister used all her knowledge to help fight and lead the people of **Yuerratica**. After many long, hard battles lasting 3 years, that resulted in the sisters reclaiming all citadels from the **UETC** army, it was a victory for the new continent people. At the age of 28 and 24, the two sisters become queens, went on to rule the newly formed country of **Yuerratica** named **Solheim**. There was many more conflicts resulting naval battles in the next decade until the **God of Olympians** settle the conflict for both sides in in **** 66,002,000 AD, and finally grant **Solheim** people the official right to be independent and live on their own wish, under a promise that **Solheim** must not seek the power of **Atomic technology**. Since then the country was able to continue to develop and start to trade goods with many countries from <mark style="color:blue;">**South-Blue**</mark> sea.
+10 years later, in the year 66,001,988 AD a war broke out between the new continent people and the **UETC**, she and her sister used all her knowledge to help fight and lead the people of **Yuerratica**. After many long, hard battles lasting 3 years, that resulted in the sisters reclaiming all citadels from the **UETC** army, it was a victory for the new continent people. At the age of 28 and 24, the two sisters become queens, went on to rule the newly formed country of **Yuerratica** named **Solheim**. There was many more conflicts resulting naval battles in the next decade until the **God of Olympians** settle the conflict for both sides in in  66,002,000 AD, and finally grant **Solheim** people the official right to be independent and live on their own wish, under a promise that **Solheim** must not seek the power of **Atomic technology**. Since then the country was able to continue to develop and start to trade goods with many countries from <mark style="color:blue;">**South-Blue**</mark> sea.
 
 As of now **Freya Aloy**, unmarried, age 62 but still looks as young as she is in her 20s while her sister growth old and has stepped down from the throne long time ago to settle family. This becomes a mystery among her people because she is a pure Human, not **Demi-God** nor carry any demigod gene. She remains the true ruler of **Solheim**. People from over the world call her: **The Magitek Queen**
 

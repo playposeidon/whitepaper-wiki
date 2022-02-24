@@ -30,7 +30,7 @@ Each individual Hero that you owned have an Experience bar. In order to level up
 
 To upgrade Hero to next level once your Hero have full EXP bar, you also need to pay an amount of PPP based on your Hero daily farm-cap, according to the Upgrade Fee table below:&#x20;
 
-| Upgrade Hero Level | Grade A            | Grade B            | Grade C            |
+| Upgrade Hero Level | Tier A            | Tier B            | Tier C            |
 | ------------------ | ------------------ | ------------------ | ------------------ |
 | LV1 -> LV2         | 6x daily farm-cap  | 8x daily farm-cap  | 10x daily farm-cap |
 | LV2 -> LV3         | 15x daily farm-cap | 16x daily farm-cap | 17x daily farm-cap |
@@ -47,7 +47,7 @@ To upgrade Hero to next level once your Hero have full EXP bar, you also need to
 
 ### 2. Quick Upgrade
 
-This is an alternative way to quickly upgrade your Hero Level without the need to farm your Hero EXP bar to full. It is also free of charge. Player doesn't need to pay for any fee to upgrade Hero Level in this way. The importance thing is to Quick Upgrade your Hero you need to scarified another Hero which belong to the **same Character class** (which is also **same** **Grade**) with a **same Hero Level.**&#x20;
+This is an alternative way to quickly upgrade your Hero Level without the need to farm your Hero EXP bar to full. It is also free of charge. Player doesn't need to pay for any fee to upgrade Hero Level in this way. The importance thing is to Quick Upgrade your Hero you need to scarified another Hero which belong to the **same Character class** (which is also **same** **Tier**) with a **same Hero Level.**&#x20;
 
 | Hero Level | Scarified NFT Hero and Items                        | Note                                             |
 | ---------- | --------------------------------------------------- | ------------------------------------------------ |

@@ -6,7 +6,7 @@ coverY: 333.820873427091
 
 # 🪙 Tokenomics
 
-## **Symbol: PPP  Icon:** ![](../.gitbook/assets/Icon\_PPP\_Big.png)****
+## **Symbol: PPP  Icon:** ![](../.gitbook/assets/Icon\_PPP\_Big.png)
 
 The main currency of the **PlayPoseidon** game is **PPP** (Play Poseidon Pearl). This token is a **Deflationary** token follow **ERC-20** standard with the total supply is capped at **100,000,000** token.
 

@@ -14,10 +14,10 @@ When summon a **Hero** using **Totem** there is a chance involve in which you ma
 
 | Totem Tier                                                                                                                         | Double (Zodiac Signs) | Triple (Zodiac Signs) | Quadruple (Zodiac Signs) | Two-Double (Zodiac Signs) |
 | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------------- | ------------------------ | ------------------------- |
-| <mark style="color:red;">**Tier S**</mark> ![](../../.gitbook/assets/Totem\_S\_icon.png)<mark style="color:red;">****</mark>       | 43.55%                | 9.67%                 | 0.88%                    | 4.8%                      |
-| <mark style="color:yellow;">**Tier A**</mark> ![](../../.gitbook/assets/Totem\_A\_icon.png)<mark style="color:yellow;">****</mark> | 36.26%                | 3.3%                  | 0%                       | 0%                        |
-| <mark style="color:purple;">**Tier B**</mark> ![](../../.gitbook/assets/Totem\_B\_icon.png)<mark style="color:purple;">****</mark> | 36.26%                | 3.3%                  | 0%                       | 0%                        |
-| <mark style="color:green;">**Tier C**</mark> ![](../../.gitbook/assets/Totem\_C\_icon.png)<mark style="color:green;">****</mark>   | 15.38%                | 0%                    | 0%                       | 0%                        |
+| <mark style="color:red;">**Tier S**</mark> ![](../../.gitbook/assets/Totem\_S\_icon.png)<mark style="color:red;"></mark>       | 43.55%                | 9.67%                 | 0.88%                    | 4.8%                      |
+| <mark style="color:yellow;">**Tier A**</mark> ![](../../.gitbook/assets/Totem\_A\_icon.png)<mark style="color:yellow;"></mark> | 36.26%                | 3.3%                  | 0%                       | 0%                        |
+| <mark style="color:purple;">**Tier B**</mark> ![](../../.gitbook/assets/Totem\_B\_icon.png)<mark style="color:purple;"></mark> | 36.26%                | 3.3%                  | 0%                       | 0%                        |
+| <mark style="color:green;">**Tier C**</mark> ![](../../.gitbook/assets/Totem\_C\_icon.png)<mark style="color:green;"></mark>   | 15.38%                | 0%                    | 0%                       | 0%                        |
 | <mark style="color:blue;">**Tier D**</mark>                                                                                        | 15.38%                | 0%                    | 0%                       | 0%                        |
 
 ### 2. Egg
@@ -62,7 +62,7 @@ Below is the spawn chance table when open one <mark style="color:yellow;">**Lege
 | <mark style="color:yellow;">**Legendary**</mark> | 66%          | N/A  |
 | <mark style="color:red;">**Mythical**</mark>     | 6%           | N/A  |
 
-<mark style="color:yellow;">**Legendary Egg**</mark> is <mark style="color:yellow;">****</mark> very rare. It can only be acquired in a very limited way. &#x20;
+<mark style="color:yellow;">**Legendary Egg**</mark> is <mark style="color:yellow;"></mark> very rare. It can only be acquired in a very limited way. &#x20;
 
 ### 3. Treasure (in Q2-2022)
 
@@ -74,8 +74,8 @@ Below is the item drop rate table when open one **Normal Treasure**. 1 Treasure 
 
 | Item Name                                                                                                                                       | Drop rate | Treasure Require to Drop | Note                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------ | ---------------------------- |
-| <mark style="color:blue;">**Rare Egg**</mark> ![](../../.gitbook/assets/Egg\_Rare\_icon.png)<mark style="color:blue;">****</mark>               | 10%       |                          |                              |
-| <mark style="color:yellow;">**Legendary Egg**</mark> ![](../../.gitbook/assets/Egg\_Legendary\_icon.png)<mark style="color:yellow;">****</mark> | 0.6%      | Open at least 20         |                              |
+| <mark style="color:blue;">**Rare Egg**</mark> ![](../../.gitbook/assets/Egg\_Rare\_icon.png)<mark style="color:blue;"></mark>               | 10%       |                          |                              |
+| <mark style="color:yellow;">**Legendary Egg**</mark> ![](../../.gitbook/assets/Egg\_Legendary\_icon.png)<mark style="color:yellow;"></mark> | 0.6%      | Open at least 20         |                              |
 | **Upgrade Scroll Level 7**                                                                                                                      | 5%        | Open at least 2          | Unlock hero level 7          |
 | **Upgrade Scroll Level 8**                                                                                                                      | 2%        | Open at least 5          | Unlock hero level 8          |
 | **Upgrade Scroll Level 9**                                                                                                                      | 0.8%      | Open at least 10         | Unlock hero level 9          |
