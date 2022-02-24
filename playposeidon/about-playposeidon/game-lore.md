@@ -23,7 +23,7 @@ Recently, out of nowhere, mass number of monster-like animals start to emerging 
 Check this list for PlayPoseidon NFT first 9 heroes stories:
 
 1. [#yudon-prince-of-cinapura](heroes-background-story.md#yudon-prince-of-cinapura "mention")
-2. [#samihri-the-gumiho](heroes-background-story.md#samihri-the-gumiho "mention")
+2. [#samihri-the-fox-goddess](heroes-background-story.md#samihri-the-fox-goddess "mention")
 3. [#mu-qing-the-man-killer](heroes-background-story.md#mu-qing-the-man-killer "mention")
 4. [#sirilla-the-white-witch](heroes-background-story.md#sirilla-the-white-witch "mention")
 5. [#mikasa-the-royalist](heroes-background-story.md#mikasa-the-royalist "mention")
@@ -34,15 +34,15 @@ Check this list for PlayPoseidon NFT first 9 heroes stories:
 
 ## The world map in 66,002,022 AD
 
-![66,002,022 AD](../../../.gitbook/assets/future\_world.jpeg)
+![66,002,022 AD](../../.gitbook/assets/future\_world.jpeg)
 
 In **66,002,022 AD**, Sea level have raised very high. What once to be Australia continent has merged with Eurasia and Africa creating a super continent **Pangaea Proxima**. North and South America have shrunk, and now people are calling them the twin continents **Normia** and **Somia**. From **Normia**, people can travel by foot to **Pangea Proxima** since the 2 continents are now connected via a very small land strip that act as a bridge.
 
-Antarctica has drifting further from the Earth South Pole and now closer to the rest of the world. More than half of the ice here has already  melted away, creating a moon shape icy great wall. Hence, the Gods named it **Yuerratica**.  Many human have migrated and settle here in this continent forming towns, citadels.
+Antarctica has drifting further from the Earth South Pole and now closer to the rest of the world. More than half of the ice here has already melted away, creating a moon shape icy great wall. Hence, the Gods named it **Yuerratica**. Many human have migrated and settle here in this continent forming towns, citadels.
 
-Along with the 4 continents above, there are now only 4 oceans in the world, named by its direction relative to the super continent and a color:&#x20;
+Along with the 4 continents above, there are now only 4 oceans in the world, named by its direction relative to the super continent and a color:
 
-* <mark style="color:blue;">**South-Blue:**</mark> The <mark style="color:blue;"></mark> largest ocean, South of **Pangaea Proxima**
-* North-White: Smallest and mostly covered in Ice, (once named Arctic Ocean) &#x20;
-* <mark style="color:yellow;">**East-Yellow:**</mark>  East of **Pangaea Proxima**, This is actually a section of <mark style="color:blue;">**South-Blue**</mark> sea
+* <mark style="color:blue;">**South-Blue:**</mark> The largest ocean, South of **Pangaea Proxima**
+* North-White: Smallest and mostly covered in Ice, (once named Arctic Ocean)
+* <mark style="color:yellow;">**East-Yellow:**</mark> East of **Pangaea Proxima**, This is actually a section of <mark style="color:blue;">**South-Blue**</mark> sea
 * <mark style="color:red;">**West-Red:**</mark> Divide **Pangaea Proxima** and the twin continents. Many naval battles happen here.

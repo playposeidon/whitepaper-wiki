@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎉         Welcome](README.md)
+* [Welcome](README.md)
   * [🚀 Vision and Values](welcome/vision-and-values.md)
   * [👨 Meet the Team!](welcome/meet-the-team.md)
 
@@ -11,7 +11,7 @@
   * [📚 Heroes Background Story](playposeidon/about-playposeidon/heroes-background-story.md)
 * [🪙 Tokenomics](playposeidon/tokenomics.md)
 * [💰 Earn Mechanism](playposeidon/earn-mechanism/README.md)
-  * [🥇 Daily Income Tier (Hero Grade)](playposeidon/earn-mechanism/daily-income-tier-hero-grade.md)
+  * [🥇 Daily Income Tier (Hero Tier)](playposeidon/earn-mechanism/daily-income-tier-hero-grade.md)
   * [🆓 Free-Play F2E service (Scholar)](playposeidon/earn-mechanism/free-play-f2e-service-scholar.md)
   * [🎲 Gacha Items](playposeidon/earn-mechanism/gacha-items.md)
   * [🏆 High Score achiever](playposeidon/earn-mechanism/high-score-achiever.md)
@@ -27,9 +27,9 @@
 
 * [🎮 How to Play](game-play/how-to-play/README.md)
   * [🦊 Metamask setup & login](game-play/how-to-play/metamask-setup-and-login.md)
-  * [🍬    How to get BNB for Closed-Beta](game-play/how-to-play/how-to-get-bnb-for-closed-beta.md)
+  * [How to get BNB for Closed-Beta](game-play/how-to-play/how-to-get-bnb-for-closed-beta.md)
   * [🛒 How to buy Totems and Eggs](game-play/how-to-play/how-to-buy-totems-and-eggs.md)
-  * [👁🗨 Pre-Fight](game-play/how-to-play/pre-fight.md)
+  * [👁🗨 👁🗨 Pre-Fight](game-play/how-to-play/pre-fight.md)
   * [⚔ Fight battle](game-play/how-to-play/fight-battle.md)
   * [🅱 Beta Testing](game-play/how-to-play/beta-testing.md)
 * [🦸♀ NFT Heroes](game-play/nft-heroes/README.md)
@@ -40,7 +40,7 @@
 * [🐼 NFT Pets](game-play/nft-pets/README.md)
   * [✨ Pet Attributes](game-play/nft-pets/pet-attributes.md)
   * [❄ Pet Passive Skills](game-play/nft-pets/pet-passive-skills.md)
-* [🥚     NFT Items](game-play/nft-items/README.md)
+* [NFT Items](game-play/nft-items/README.md)
   * [🗿 Totem (Summon Hero)](game-play/nft-items/totem-summon-hero.md)
   * [🥚 Egg (Spawn Pets)](game-play/nft-items/egg-spawn-pets.md)
 * [🌌 Stage & Monster](game-play/stage-and-monster/README.md)
