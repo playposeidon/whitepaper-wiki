@@ -12,14 +12,14 @@ For player who play on behalf of NFT owner, he can use the Free-Play dashboard t
 
 ### 2. Shared farm-cap ratio
 
-This ratio can be set by the NFT owners with minimum ratio is varied by Hero Grade. Also there is a maximum duration for the offer expire times, which require NFT owner to re-offer again&#x20;
+This ratio can be set by the NFT owners with minimum ratio is varied by Hero Tier. Also there is a maximum duration for the offer expire times, which require NFT owner to re-offer again&#x20;
 
-| Hero Grade                                     | Minium ratio | Max expires time  |
+| Hero Tier                                     | Minium ratio | Max expires time  |
 | ---------------------------------------------- | ------------ | ----------------- |
-| <mark style="color:red;">**Grade S**</mark>    | ?            | 7 days            |
-| <mark style="color:yellow;">**Grade A**</mark> | 5%           | 2 days            |
-| <mark style="color:purple;">**Grade B**</mark> | 10%          | 24 hours          |
-| <mark style="color:green;">**Grade C**</mark>  | 20%          | 12 hours          |
+| <mark style="color:red;">**Tier S**</mark>    | ?            | 7 days            |
+| <mark style="color:yellow;">**Tier A**</mark> | 5%           | 2 days            |
+| <mark style="color:purple;">**Tier B**</mark> | 10%          | 24 hours          |
+| <mark style="color:green;">**Tier C**</mark>  | 20%          | 12 hours          |
 
 ### 3. Anti abuser punishment&#x20;
 

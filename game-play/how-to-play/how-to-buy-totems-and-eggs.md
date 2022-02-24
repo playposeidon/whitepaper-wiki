@@ -40,7 +40,7 @@ Totems and Eggs can be purchased via in-game shop.
 
 2\. Select the **Totem** and press Summon;
 
-![](<../../.gitbook/assets/totem summon (1).png>)
+![](<../../.gitbook/assets/totem summon.png>)
 
 3\. Switch to the **Eggs** tab;
 
