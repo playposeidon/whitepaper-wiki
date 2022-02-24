@@ -21,7 +21,7 @@ Every day the player will login to the game, select a pair of NFT Hero and NFT P
 
 The daily income of player is only depend on how many NFT Heroes that the player owned, the **Hero Tier** and the **Hero Level** significantly increase the daily income. NFT Pets doesn't contribute to this income. But NFT Pets **** allow player to level up the NFT Hero faster and increase the daily farm-cap.
 
-In this game, NFT Heroes are categorized in different income tiers called **Hero Grades**. Higher tier heroes have a much higher **farm-cap** compare to the below tier in-exchange for higher investment cost. This allow a **low entry cost for Player** with a tight budget. For details of each Hero Tier Daily Income tier, check out this page below:
+In this game, NFT Heroes are categorized in different income tiers called **Hero Tier**. Higher tier heroes have a much higher **farm-cap** compare to the below tier in-exchange for higher investment cost. This allow a **low entry cost for Player** with a tight budget. For details of each Hero Tier Daily Income tier, check out this page below:
 
 {% content-ref url="daily-income-tier-hero-grade.md" %}
 [daily-income-tier-hero-grade.md](daily-income-tier-hero-grade.md)
