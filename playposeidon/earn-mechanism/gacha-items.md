@@ -58,9 +58,9 @@ Below is the spawn chance table when open one <mark style="color:yellow;">**Lege
 
 | Pet Rarity                                       | Spawn Chance | Note |
 | ------------------------------------------------ | ------------ | ---- |
-| <mark style="color:purple;">**Epic**</mark>      | 28%          | N/A  |
+| <mark style="color:purple;">**Epic**</mark>      | 29.6%        | N/A  |
 | <mark style="color:yellow;">**Legendary**</mark> | 66%          | N/A  |
-| <mark style="color:red;">**Mythical**</mark>     | 6%           | N/A  |
+| <mark style="color:red;">**Mythical**</mark>     | 4.4%         | N/A  |
 
 <mark style="color:yellow;">**Legendary Egg**</mark> is very rare. It can only be acquired in a very limited way.
 
