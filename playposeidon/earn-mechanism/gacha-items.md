@@ -12,13 +12,13 @@ In **PlayPoseidon** there are many **Gacha** type items, but can be categorized 
 
 When summon a **Hero** using **Totem** there is a chance involve in which you may be able to summon **super rare Hero** which can receive Double, Triple, Quadruple daily income during a particular month in a year. Check out this page: [zodiac-signs.md](../../game-play/nft-heroes/zodiac-signs.md "mention") for details on income increase.
 
-| Totem Tier                                                                                  | Double (Zodiac Signs) | Triple (Zodiac Signs) | Quadruple (Zodiac Signs) | Two-Double (Zodiac Signs) |
-| ------------------------------------------------------------------------------------------- | --------------------- | --------------------- | ------------------------ | ------------------------- |
-| <mark style="color:red;">**Tier S**</mark> ![](../../.gitbook/assets/Totem\_S\_icon.png)    | 43.55%                | 9.67%                 | 0.88%                    | 4.8%                      |
-| <mark style="color:yellow;">**Tier A**</mark> ![](../../.gitbook/assets/Totem\_A\_icon.png) | 36.26%                | 3.3%                  | 0%                       | 0%                        |
-| <mark style="color:purple;">**Tier B**</mark> ![](../../.gitbook/assets/Totem\_B\_icon.png) | 36.26%                | 3.3%                  | 0%                       | 0%                        |
-| <mark style="color:green;">**Tier C**</mark> ![](../../.gitbook/assets/Totem\_C\_icon.png)  | 15.38%                | 0%                    | 0%                       | 0%                        |
-| <mark style="color:blue;">**Tier D**</mark>                                                 | 15.38%                | 0%                    | 0%                       | 0%                        |
+| Totem Grade                                                                                  | Double (Zodiac Signs) | Triple (Zodiac Signs) | Quadruple (Zodiac Signs) | Two-Double (Zodiac Signs) |
+| -------------------------------------------------------------------------------------------- | --------------------- | --------------------- | ------------------------ | ------------------------- |
+| <mark style="color:red;">**Grade S**</mark> ![](../../.gitbook/assets/Totem\_S\_icon.png)    | 43.55%                | 9.67%                 | 0.88%                    | 4.8%                      |
+| <mark style="color:yellow;">**Grade A**</mark> ![](../../.gitbook/assets/Totem\_A\_icon.png) | 36.26%                | 3.3%                  | 0%                       | 0%                        |
+| <mark style="color:purple;">**Grade B**</mark> ![](../../.gitbook/assets/Totem\_B\_icon.png) | 36.26%                | 3.3%                  | 0%                       | 0%                        |
+| <mark style="color:green;">**Grade C**</mark> ![](../../.gitbook/assets/Totem\_C\_icon.png)  | 15.38%                | 0%                    | 0%                       | 0%                        |
+| <mark style="color:blue;">**Grade D**</mark>                                                 | 15.38%                | 0%                    | 0%                       | 0%                        |
 
 ### 2. Egg
 
