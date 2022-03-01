@@ -20,7 +20,7 @@ Hero attributes is scaled by Hero Level follow the table below:
 
 | Hero Level | Health Point | Base Damage | Stamina (+Regen/second, -Cost/throw) |
 | ---------- | ------------ | ----------- | ------------------------------------ |
-| Hero LV1   | 800          | 50          | 50 (+5/s -10/t)                      |
+| Hero LV1   | 800          | 50          | 50 (+5.5/s -10/t)                    |
 | Hero LV2   | 1500         | 50          | 50 (+7.5/s -10/t)                    |
 | Hero LV3   | 2700         | 50          | 50 (+9/s -9.9/t)                     |
 | Hero LV4   | 4600         | 60          | 50 (+10/s -9.7/t)                    |
