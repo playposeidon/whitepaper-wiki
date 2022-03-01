@@ -34,7 +34,7 @@ This buff will increase these Hero attributes stated below:
 * Arrow Base Damage
 * Stamina
 
-For example a **Hero LV4** with HP: 4600, Base Damage: 60, Stamina: 50, when pair with a <mark style="color:yellow;">**Legendary**</mark> Pet with 22% Hero Attributes bonus buff will become: HP: 5612, Base Damage: 73.2, Stamina: 61
+For example a **Hero LV4** with HP: 4600, Base Damage: 60, Stamina: 50, when pair with a <mark style="color:yellow;">**Legendary**</mark> Pet with **22%** Hero Attributes bonus buff will become: HP: 5612, Base Damage: 73.2, Stamina: 61
 
 #### 2. Pet Energy&#x20;
 
@@ -43,15 +43,15 @@ Each NFT Pet have a energy bar. After each winning match your Pet will lose some
 | Map Difficulty Level | Low and Mid value Pet                                                                            | High value Pet                                   | High value Pet                               |
 | -------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------ | -------------------------------------------- |
 |                      | **Common,**<mark style="color:blue;">**Rare,**</mark><mark style="color:purple;">**Epic**</mark> | <mark style="color:yellow;">**Legendary**</mark> | <mark style="color:red;">**Mythical**</mark> |
-| Level 1              | -1 Energy per Match                                                                              | -1 Energy per Match                              | No cost                                      |
-| Level 2              | -2 Energy per Match                                                                              | -1 Energy per Match                              | -1 Energy per Match                          |
-| Level 3              | -3 Energy per Match                                                                              | -2 Energy per Match                              | -1 Energy per Match                          |
-| Level 4              | -4 Energy per Match                                                                              | -3 Energy per Match                              | -2 Energy per Match                          |
-| Level 5              | -5 Energy per Match                                                                              | -4 Energy per Match                              | -3 Energy per Match                          |
-| Level 6              | -6 Energy per Match                                                                              | -5 Energy per Match                              | -4 Energy per Match                          |
-| Level 7              | -7 Energy per Match                                                                              | -6 Energy per Match                              | -5 Energy per Match                          |
-| Level 8              | -8 Energy per Match                                                                              | -7 Energy per Match                              | -6 Energy per Match                          |
-| Level 9              | -9 Energy per Match                                                                              | -8 Energy per Match                              | -7 Energy per Match                          |
+| Level 1              | -1 Energy per Match                                                                              | -1 Energy/Match                                  | No cost                                      |
+| Level 2              | -2 Energy per Match                                                                              | -1 Energy/Match                                  | -1 Energy/Match                              |
+| Level 3              | -3 Energy per Match                                                                              | -2 Energy/Match                                  | -1 Energy/Match                              |
+| Level 4              | -4 Energy per Match                                                                              | -3 Energy/Match                                  | -2 Energy/Match                              |
+| Level 5              | -5 Energy per Match                                                                              | -4 Energy/Match                                  | -3 Energy/Match                              |
+| Level 6              | -6 Energy per Match                                                                              | -5 Energy/Match                                  | -4 Energy/Match                              |
+| Level 7              | -7 Energy per Match                                                                              | -6 Energy/Match                                  | -5 Energy/Match                              |
+| Level 8              | -8 Energy per Match                                                                              | -7 Energy/Match                                  | -6 Energy/Match                              |
+| Level 9              | -9 Energy per Match                                                                              | -8 Energy/Match                                  | -7 Energy/Match                              |
 
 Also higher rarity Pet may give a small EXP bonus per match. <mark style="color:red;">**Mythical**</mark> pet EXP bonus giving a conversion of 1 Energy to **4 EXP**, <mark style="color:yellow;">**Legendary**</mark> giving a conversion of 1 Energy to **2 EXP.** You can check this excel file below to fully understand the impact of Pet Rarity level when leveling up your Hero.&#x20;
 
@@ -61,4 +61,4 @@ Also higher rarity Pet may give a small EXP bonus per match. <mark style="color:
 
 #### A NFT Pet can be either a male :male\_sign: or a female :female\_sign:&#x20;
 
-This will be displayed on the NFT Pet card or Pet detail. In **2021 Q4** the Game will release **NFT Farming** feature to allow NFT Pet owner to breed a pair of Pet of different sex to produce a new **Egg**&#x20;
+This will be displayed on the NFT Pet card or Pet detail. In **2021 Q4** the Game will release **NFT Farming** feature to allow NFT Pet owner to use a pair of Pet of different sex to breed a new Pet **Egg**&#x20;
