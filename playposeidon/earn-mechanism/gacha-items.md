@@ -30,11 +30,11 @@ Below is the spawn chance table when open one **Common Egg**.
 
 | Pet Rarity                                       | Spawn Chance | Note                         |
 | ------------------------------------------------ | ------------ | ---------------------------- |
-| **Common**                                       | 59.7%        | No Buff                      |
-| <mark style="color:blue;">**Rare**</mark>        | 36%          | Slightly Increase Hero Power |
-| <mark style="color:purple;">**Epic**</mark>      | 3.98%        | Increase Hero Power          |
-| <mark style="color:yellow;">**Legendary**</mark> | 0.3%         | Greatly Increase Hero Power  |
-| <mark style="color:red;">**Mythical**</mark>     | 0.02%        | Greatly Increase Hero Power  |
+| **Common**                                       | 50.296%      | No Buff                      |
+| <mark style="color:blue;">**Rare**</mark>        | 45.6%        | Slightly Increase Hero Power |
+| <mark style="color:purple;">**Epic**</mark>      | 3.8%         | Increase Hero Power          |
+| <mark style="color:yellow;">**Legendary**</mark> | 0.285%       | Greatly Increase Hero Power  |
+| <mark style="color:red;">**Mythical**</mark>     | 0.019%       | Greatly Increase Hero Power  |
 
 **Common Egg** can be purchased from In-Game Shop
 
