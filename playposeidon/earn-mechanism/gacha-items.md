@@ -30,8 +30,8 @@ Below is the spawn chance table when open one **Common Egg**.
 
 | Pet Rarity                                       | Spawn Chance | Note                         |
 | ------------------------------------------------ | ------------ | ---------------------------- |
-| **Common**                                       | 50.296%      | No Buff                      |
-| <mark style="color:blue;">**Rare**</mark>        | 45.6%        | Slightly Increase Hero Power |
+| **Common**                                       | 53.336%      | No Buff                      |
+| <mark style="color:blue;">**Rare**</mark>        | 42.56%       | Slightly Increase Hero Power |
 | <mark style="color:purple;">**Epic**</mark>      | 3.8%         | Increase Hero Power          |
 | <mark style="color:yellow;">**Legendary**</mark> | 0.285%       | Greatly Increase Hero Power  |
 | <mark style="color:red;">**Mythical**</mark>     | 0.019%       | Greatly Increase Hero Power  |
