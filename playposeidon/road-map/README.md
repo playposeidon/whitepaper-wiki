@@ -22,13 +22,13 @@ description: Short Roadmap with dates
 * [x] 05/02/2022: Bootstrap Chinese player community
 * [ ] Bootstrap Philippines player community
 * [x] 16/02/2022: Closed-Beta Test
-* [ ] Bug reporting program (NFT reward)
+* [x] Bug reporting program (NFT reward)
 * [ ] IDO plan and Airdrop Campaign 2 (IDO)
 
 #### March (Open-Beta + IDO + BSC Launch)
 
-* [ ] Open Beta Test (BSC test-net)
-* [ ] Give Feedbacks for Airdrop tickets.
+* [x] Open Beta Test (BSC test-net)
+* [x] Give Feedbacks for Airdrop tickets.
 * [ ] PPP token IDO (BSC main-net)
 * [ ] Pancake Swap Token Listing
 * [ ] Game Launch on BSC main-net
