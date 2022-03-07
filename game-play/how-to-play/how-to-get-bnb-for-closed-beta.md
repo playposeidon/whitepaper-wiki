@@ -2,7 +2,7 @@
 description: Only for Closed-Beta Players
 ---
 
-# 🍬    How to get BNB for Closed-Beta
+# How to get BNB for Closed-Beta
 
 1\. Go to [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart)
 

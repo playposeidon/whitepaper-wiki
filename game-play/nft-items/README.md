@@ -2,7 +2,7 @@
 description: NFT Items - ERC-1155
 ---
 
-# 🥚     NFT Items
+# NFT Items
 
 ### Intro
 

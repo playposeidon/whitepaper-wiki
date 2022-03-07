@@ -17,3 +17,7 @@ Pet attributes consist of:
 | <mark style="color:purple;">**Epic**</mark>      | 45          | 0.38      | 30%             |
 | <mark style="color:yellow;">**Legendary**</mark> | 75          | 0.5       | 30%             |
 | <mark style="color:red;">**Mythical**</mark>     | 115         | 0.66      | 30%             |
+
+![Pet size comparison](<../../.gitbook/assets/9 pets size by size.png>)
+
+From the strongest one is the <mark style="color:red;">**Mythical**</mark> Red Dragon to a **Common** Red Parrot.

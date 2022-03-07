@@ -4,7 +4,7 @@ cover: .gitbook/assets/BG2.png
 coverY: 60.70863836017571
 ---
 
-# 🎉         Welcome
+# Welcome
 
 Website: [https://playposeidon.io](https://playposeidon.io)
 

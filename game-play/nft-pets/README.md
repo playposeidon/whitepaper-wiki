@@ -1,6 +1,6 @@
 ---
 description: NFT - ERC721 - Pet - EXP
-cover: ../../.gitbook/assets/all-pets.jpg
+cover: ../../.gitbook/assets/9 pets horizontal.png
 coverY: 0
 ---
 
