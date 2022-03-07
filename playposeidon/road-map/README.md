@@ -35,27 +35,31 @@ description: Short Roadmap with dates
 
 
 
+
+
 ### Q2 2022 (01/04/2022 - 30/06/2022)
 
 #### April (Boss monster)
 
-* [ ] Release Boss monster maps
+* [ ] Release Free to Play feature
+* [ ] Release Boss monster raid maps feature
 * [ ] Treasure drop from Boss maps
 * [ ] New marketing Events: Player Referrer
 * [ ] Unlock Hero Level 7
-* [ ] Close Beta test on (Polygon test-net)&#x20;
 
 #### May (World Boss event)
 
-* [ ] World Boss event (Every one fight together to defeat this ridiculous strong Boss)
+* [ ] Release World Boss event feature (Every one fight together to defeat this ridiculous strong Boss)
+* [ ] Release MarketPlace feature
+* [ ] Close Beta test on (Polygon test-net)
 * [ ] Unlock Hero Level 8
-* [ ] Open Beta Test (Polygon test-net)
 * [ ] Test NFT bridge from BSC to Polygon
 
 #### June (Treasure of the Sea)
 
 * [ ] Release Treasure of the Sea item
 * [ ] Item Crafting feature
-* [ ] Staking farm feature
+* [ ] NFT Staking farm feature
 * [ ] Unlock Hero Level 9
+* [ ] Open Beta Test (Polygon test-net)
 * [ ] Launch game on Polygon main-net
