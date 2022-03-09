@@ -18,9 +18,9 @@ Back to planet **Earth**, more than 65 millions year has pass, the earth now has
 
 Learned from their mistake, this time all **Olympians gods** decided to stay instead of go back to their realm. They have created the human race all against from **Genesis** generation DNA and use their superior gene to breed with selected few to produce many **Demigods** which help them watch over the world, guiding human to evolve in a certain path. This is where our story begin at the year **66,002,022 AD**. A **Human** civilization on **Earth** has completely matured. They have spread to all continents, form cities, countries usually governed by **Demigods** and their descendant. Superior technologies, especially those at atomic level, are now forbidden by **Olympians** **gods**.
 
-Recently, out of nowhere, mass number of monster-like animals start to emerging from the sea and wreak havoc on the land of human. Even the **Olympians** **gods** doesn't know reason why, they've instructed many demigods **Heroes** to help protect human from these monsters. Our **PlayPoseidon NFT Heroes** are among these group of powerful Human, Demigod's descendant which protect their citizen at all cost.
+Recently, out of nowhere, mass number of strange hybrid aquatic animals start to emerging from the sea and wreak havoc on the land of human. Even the **Olympians** **gods** doesn't know reason why, they've instructed many demigods **Heroes** to help protect human from these sea monsters. Our **PlayPoseidon NFT Heroes** are among these group of powerful Human, Demigod's descendant which protect their citizen at all cost.
 
-Check this list for PlayPoseidon NFT first 9 heroes stories:
+Check this list for **PlayPoseidon NFT** first 9 heroes stories:
 
 1. [#yudon-prince-of-cinapura](heroes-background-story.md#yudon-prince-of-cinapura "mention")
 2. [#samihri-the-fox-goddess](heroes-background-story.md#samihri-the-fox-goddess "mention")
@@ -45,4 +45,4 @@ Along with the 4 continents above, there are now only 4 oceans in the world, nam
 * <mark style="color:blue;">**South-Blue:**</mark> The largest ocean, South of **Pangaea Proxima**
 * North-White: Smallest and mostly covered in Ice, (once named Arctic Ocean)
 * <mark style="color:yellow;">**East-Yellow:**</mark> East of **Pangaea Proxima**, This is actually a section of <mark style="color:blue;">**South-Blue**</mark> sea
-* <mark style="color:red;">**West-Red:**</mark> Divide **Pangaea Proxima** and the twin continents. Many naval battles happen here.
+* <mark style="color:red;">**West-Red:**</mark> Divide **Pangaea Proxima** and the twin continents **Normia**, **Somia**. Many great naval battles have happen here causing too many blood shed.
