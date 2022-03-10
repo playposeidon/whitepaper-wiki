@@ -22,13 +22,13 @@ The order is from Left to Right in the Photo above:
 
 ### 2. Flying Monster
 
-**Flying Octopus:** These monster are always spawn as a group and can can attack from a Ranged distance. These monster don't have wing so can't maneuver like other monster.
+**Flying Octopus:** These monster are always spawn as a group and can can attack from a Ranged distance. These monster don't have big wing so can't maneuver like other flying monster although fly speed is quite fast.
 
 **Flying Whale:** These monster are usually spawn solo or some time in a group. These monster are tanky due to a large HP pool. Can attack from a Ranged distance.
 
 **Flying Dolphin**: These monster are always spawn as a group, fly very fast and can can attack from a Ranged distance
 
-**Flying Dinosaur**: These monster are usually spawn solo. Similar to Flying Whale, these monster are tanky due to large HP pool. They can attack from a Ranged distance and their attack deal a **very large** **damage** to Hero.
+**Flying Shark**: These monster are usually spawn solo. Similar to Flying Whale, these monster are tanky due to large HP pool. They can attack from a Ranged distance and their attack deal a **very large** **damage** to Hero.
 
 
 
