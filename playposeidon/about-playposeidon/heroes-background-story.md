@@ -4,7 +4,9 @@ description: The stories of our Heroes
 
 # 📚 Heroes Background Story
 
-## ![](../../.gitbook/assets/hero-01.png)Yudon - Prince of Cinapura
+## Yudon - Prince of Cinapura
+
+![Yudon - Prince of Cinapura](<../../.gitbook/assets/Yudon - Prince of Cinapura.jpg>)
 
 He is a direct descendant from **Triton** demigod lineage. His royal family is currently ruling the kingdom of **Cinapura** located in the <mark style="color:blue;">**South-Blue**</mark> sea. He is a prince and also is the only heir to the throne. Instead of inheriting his family responsibility, he wants to travel around the world to find and collect **Mystic animals**. People say he's really an animal enthusiast. He wants to train these animal as companion pets, no matter how dangerous it might be. Even though he is always showing heart to his people and have all capability to become a king, he seems doesn't show any interested to become one.
 
