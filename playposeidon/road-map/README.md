@@ -20,7 +20,7 @@ description: Short Roadmap with dates
 #### February (Closed-Beta + Marketing events)
 
 * [x] 05/02/2022: Bootstrap Chinese player community
-* [ ] Bootstrap Philippines player community
+* [x] 11/03/2022: Bootstrap Philippines player community
 * [x] 16/02/2022: Closed-Beta Test
 * [x] 16/02/2022: Bug reporting program (NFT reward)
 * [x] 07/03/2022: Launch Airdrop Campaign 2 (Open-Beta)
@@ -42,21 +42,24 @@ description: Short Roadmap with dates
 #### April (Boss monster)
 
 * [ ] Release Free to Play feature
-* [ ] Release Boss monster raid maps feature
+* [ ] Release P2P NFT trading feature
+* [ ] Release Boss monster maps feature
 * [ ] Treasure drop from Boss maps
 * [ ] New marketing Events: Player Referrer
 * [ ] Unlock Hero Level 7
 
 #### May (World Boss event)
 
-* [ ] Release World Boss event feature (Every one fight together to defeat this ridiculous strong Boss)
-* [ ] Release MarketPlace feature
-* [ ] Close Beta test on (Polygon test-net)
+* [ ] Release Dungeon Raid Boss PvP feature&#x20;
+* [ ] Release Achievement feature&#x20;
+* [ ] Release Hero Ultimate Skill feature&#x20;
 * [ ] Unlock Hero Level 8
+* [ ] Release NFT MarketPlace feature
 * [ ] Test NFT bridge from BSC to Polygon
 
 #### June (Treasure of the Sea)
 
+* [ ] Release World Boss event feature (Every one fight together to defeat this ridiculous strong Boss)
 * [ ] Release Treasure of the Sea item
 * [ ] Item Crafting feature
 * [ ] NFT Staking farm feature

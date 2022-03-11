@@ -12,18 +12,18 @@ For player who play on behalf of NFT owner, he can use the Free-Play dashboard t
 
 ### 2. Shared farm-cap ratio
 
-This ratio can be set by the NFT owners with minimum ratio is varied by Hero Tier. Also there is a maximum duration for the offer expire times, which require NFT owner to re-offer again&#x20;
+This ratio can be set by the NFT owners with minimum ratio is varied by Hero Tier. Also there is a maximum duration for the offer expire times, which require NFT owner to re-offer again
 
-| Hero Tier                                     | Minium ratio | Max expires time  |
-| ---------------------------------------------- | ------------ | ----------------- |
-| <mark style="color:red;">**Tier S**</mark>    | ?            | 7 days            |
-| <mark style="color:yellow;">**Tier A**</mark> | 5%           | 2 days            |
-| <mark style="color:purple;">**Tier B**</mark> | 10%          | 24 hours          |
-| <mark style="color:green;">**Tier C**</mark>  | 20%          | 12 hours          |
+| Hero Tier                                     | Minium ratio | Max expires time |
+| --------------------------------------------- | ------------ | ---------------- |
+| <mark style="color:red;">**Tier S**</mark>    | ?            | ? days           |
+| <mark style="color:yellow;">**Tier A**</mark> | 2%           | 2 days           |
+| <mark style="color:purple;">**Tier B**</mark> | 10%          | 24 hours         |
+| <mark style="color:green;">**Tier C**</mark>  | 50%          | 12 hours         |
 
-### 3. Anti abuser punishment&#x20;
+### 3. Anti abuser punishment
 
-This feature have some certain rules that all player need to follow. Some will be enforce by system, some will be check by Game operation team if player is found to be abuser he will be punished.&#x20;
+This feature have some certain rules that all player need to follow. Some will be enforce by system, some will be check by Game operation team if player is found to be abuser he will be punished.
 
 This is a list of rule enforce by system:
 
@@ -33,4 +33,3 @@ This is a list of rule enforce by system:
 And this is rule check by Game operation using cheat/abuser detect tool, player whom violate these will be heavy punished:
 
 * Intentionally pick up Free Play offer then don't play and let the match LOST/TIMED OUT or not finishing the match. Continuously doing this kind of behavior will let your account being banned.
-
