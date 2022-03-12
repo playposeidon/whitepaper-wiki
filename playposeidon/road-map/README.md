@@ -42,7 +42,7 @@ description: Short Roadmap with dates
 #### April (Boss monster)
 
 * [ ] Release Free to Play feature
-* [ ] Release P2P NFT trading feature
+* [ ] Release NFT Gift feature
 * [ ] Release Boss monster maps feature
 * [ ] Treasure drop from Boss maps
 * [ ] New marketing Events: Player Referrer
