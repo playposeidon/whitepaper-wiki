@@ -45,6 +45,10 @@ Foundation: 0.15% (Remaining 0.15% Vesting 12m)
 
 75% of total amount's raised in **IDO Public Sale** round will be used to create the **Liquidity Pool** for **PPP/BNB** pair in [Pancake Swap DEX](https://pancakeswap.finance)
 
+### 1.2 Token Distribution Schedule
+
+![PPP Distribution Schedule](../.gitbook/assets/PPP\_Distribution\_schedule.JPG)
+
 ## 2. Deflationary mechanism
 
 **PPP** Token is a **Deflationary** token, it has a **transaction fee of 5%** whenever a transfer is made between holders' addresses. With a whitelist exception below:
