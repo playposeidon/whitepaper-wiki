@@ -34,10 +34,10 @@ By default, **Pet** will shoot out **Fire-ball** but some time your Pet will sho
 \*This Rarity class is not released yet.
 {% endhint %}
 
-| Skill Level | Fire-ball                        | Ice-ball       | Shield Hero                    |
-| ----------- | -------------------------------- | -------------- | ------------------------------ |
-| LV1         | Small explose                    | Slow 3s        | 500 SP, shield regen very slow |
-| LV2         | Large explose                    | Slow 5s        | 1000 SP, shield regen slow     |
-| LV3         | Large explose + Push back        | Strong Slow 5s | 2000 SP, shield regen medium   |
-| LV4         | Large explose + Strong Push back | Strong Slow 8s | 3500 SP, shield regen fast     |
+| Skill Level | Fire-ball                      | Ice-ball       | Shield Hero                  |
+| ----------- | ------------------------------ | -------------- | ---------------------------- |
+| LV1         | Small explosion                | Slow 3s        | 500 SP, shield regen slow    |
+| LV2         | Large explosion                | Slow 5s        | 1000 SP, shield regen slow   |
+| LV3         | High Damage + Large explosion  | Strong Slow 5s | 2000 SP, shield regen medium |
+| LV4         | High Damage + Large explosion  | Strong Slow 8s | 3500 SP, shield regen fast   |
 

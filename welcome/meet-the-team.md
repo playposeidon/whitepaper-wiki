@@ -75,14 +75,6 @@ description: PlayPoseidon Development Team
 * 5 years exp in Game Industry
 * 6 years exp in Drawing, Animation
 
-## Duc Nguyen
-
-👋  Lead Game Designer — 💌  duc.nguyen@playposeidon.io  — :flag\_vn:Vietnam (GMT+7)
-
-**Bio**
-
-* 5 years exp in Game Industry
-
 ## Giang Vu
 
 👋  Community Manager — 💌  giang.vu@playposeidon.io  — :flag\_vn:Vietnam (GMT+7)
