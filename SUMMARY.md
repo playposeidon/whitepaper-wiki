@@ -27,7 +27,8 @@
 
 * [🎮 How to Play](game-play/how-to-play/README.md)
   * [🦊 Metamask setup & login](game-play/how-to-play/metamask-setup-and-login.md)
-  * [How to get BNB for Beta Testing](game-play/how-to-play/how-to-get-bnb-for-closed-beta.md)
+  * [📱Metamask setup for mobile](game-play/how-to-play/metamask-setup-for-mobile.md)
+  * [💰How to get BNB for Beta Testing](game-play/how-to-play/how-to-get-bnb-for-closed-beta.md)
   * [🛒 How to buy Totems and Eggs](game-play/how-to-play/how-to-buy-totems-and-eggs.md)
   * [👁🗨 Pre-Fight](game-play/how-to-play/pre-fight.md)
   * [⚔ Fight battle](game-play/how-to-play/fight-battle.md)
