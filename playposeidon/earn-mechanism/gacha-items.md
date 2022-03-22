@@ -79,6 +79,9 @@ Below is the item drop rate table when open one **Normal Treasure**. 1 Treasure 
 | **Upgrade Scroll Level 7**                                                                               | 5%        | Open at least 2          | Unlock hero level 7          |
 | **Upgrade Scroll Level 8**                                                                               | 2%        | Open at least 5          | Unlock hero level 8          |
 | **Upgrade Scroll Level 9**                                                                               | 0.8%      | Open at least 10         | Unlock hero level 9          |
+| **Unlock Hero Ultimate Book**                                                                            | ???       |                          |                              |
+| **Pet Energy Bottle**                                                                                    | ???       |                          |                              |
+| **Hero Stamina Bottle**                                                                                  | ???       |                          |                              |
 | **Crafting Material**                                                                                    | ???       |                          | Used in crafting NFT feature |
 
 Each item listed above have independent event drop rate. That mean if player is very lucky he will be able to get all these items in a single open. If bad luck, the player may get none of the items.
