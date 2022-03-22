@@ -2,7 +2,7 @@
 description: Only for Beta Testing Players
 ---
 
-# How to get BNB for Beta Testing
+# 💰    How to get BNB for Beta Testing
 
 1\. Go to [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart)
 

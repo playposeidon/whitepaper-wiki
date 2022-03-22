@@ -1,8 +1,8 @@
 ---
-description: How to setup Metamask for mobile version
+description: How to setup Metamask and login to PlayPoseidon for mobile version
 ---
 
-# 📱Metamask setup for mobile
+# 📱    Metamask setup for mobile
 
 Metamask can be installed on [**Android**](https://play.google.com/store/apps/details?id=io.metamask\&hl=en\_US\&ref=producthunt&\_branch\_match\_id=739701339152755845)**.** Once MetaMask has been downloaded and installed, you may proceed to create an account.
 
@@ -25,16 +25,16 @@ PlayPoseidon devs and mods will never ask for your seed phrase and password.
 
 After you create an account on MetaMask, it will default to the Ethereum Mainnet.
 
-Play Poseidon requires your wallet to be set to the Binance Smart Chain Mainnet.
+PlayPoseidon requires your wallet to be set to the Binance Smart Chain Mainnet.
 
 The steps to add the BSC network are outlined below:
 
-1. Go to the Settings menu by clicking on the tab icon in the upper left hand side of the screen.
-2. Choose Network then Add Network
+* Go to the Settings menu by clicking on the tab icon in the upper left hand side of the screen.
+* Choose Network then Add Network
 
-![](../../.gitbook/assets/z3267257455113\_dd55cc326088db8d274b6858f713ecab.jpg)
+![](<../../.gitbook/assets/select network.png>)
 
-1. Input the following information
+* Input the following information:
 
 {% hint style="info" %}
 **Network Name:** Binance Smart Chain
@@ -48,13 +48,12 @@ The steps to add the BSC network are outlined below:
 **Block Explorer URL:** https://bscscan.com
 {% endhint %}
 
-4\. Click "Save" and return to the main menu.
+* Click "Save" and return to the main menu.
 
-5\. Verify that your MetaMask has been set to the **Binance Smart Chain** network in the upper middle of the screen.
+![](<../../.gitbook/assets/bsc network cropped.png>)
 
-![](../../.gitbook/assets/z3267257459768\_81ba795dcb6e0528bb602d0276decea2.jpg)
-
-Congratulations, you are now ready to receive **BNB** in your address and start earning **PPP** from **PlayPoseidon**
+* Verify that your MetaMask has been set to the **Binance Smart Chain** network in the upper middle of the screen.
+* Congratulations, you are now ready to receive **BNB** in your address and start earning **PPP** from **PlayPoseidon.**
 
 ## **Login to PlayPoseidon**
 
@@ -65,21 +64,41 @@ Congratulations, you are now ready to receive **BNB** in your address and start 
 
 Click Sign then Copy.
 
-![](../../.gitbook/assets/z3267257447383\_32794bf6092d5ff925a224bef21e017d.jpg)
+![](<../../.gitbook/assets/sign 1.png>)
 
 Return to the PlayPoseidon app.
 
 It will revert back to Metamask, click Sign again and Copy.
 
-![](../../.gitbook/assets/z3267257433484\_064bcd36d60cfb1151fe1d1652b2214a.jpg)
+![](<../../.gitbook/assets/sign 2.png>)
 
-Now return to PlayPoseidon app and you should see its main menu.
+Now return to PlayPoseidon app and you should see its main menu like this.
 
 ![](../../.gitbook/assets/z3267257424978\_a3e623d62d63147bcf7ae2b5a3d645f9.jpg)
 
-Click Play to join PlayPoseidon world!!!
+## Alternative login method by using OTP
 
+You can login to your mobile device with OTP from your web version.
 
+First, login to your web version using method in [#login-to-playposeidon](metamask-setup-and-login.md#login-to-playposeidon "mention")
+
+Click the Setting in the lower right hand side then Create OTP.
+
+![](<../../.gitbook/assets/create otp.png>)
+
+A random 6-digit number will appear and stay valid for 20 seconds.
+
+![](<../../.gitbook/assets/OTP guide for mobile.png>)
+
+Quickly open PlayPoseidon on your mobile device and click Login OTP in the upper right hand side.
+
+![](<../../.gitbook/assets/otp click.jpg>)
+
+Input your 6-digit number into the box and click Login.
+
+![](../../.gitbook/assets/z3267257424978\_a3e623d62d63147bcf7ae2b5a3d645f9.jpg)
+
+Now you can enter the world of PlayPoseidon !!!
 
 
 
