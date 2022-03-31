@@ -21,7 +21,7 @@
   * [🗓 2022](playposeidon/road-map/2022.md)
   * [🗓 2023](playposeidon/road-map/2023.md)
   * [🗓 2024](playposeidon/road-map/2024.md)
-* [💎 IDO](playposeidon/ido.md)
+* [💎 IDO - BSC](playposeidon/ido.md)
 
 ## Game Play
 
