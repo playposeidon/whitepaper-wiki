@@ -42,27 +42,28 @@ description: Short Roadmap with dates
 #### April (Boss monster)
 
 * [ ] Release Free to Play feature
-* [ ] Release NFT Gift feature
 * [ ] Release Boss monster maps feature
 * [ ] Treasure drop from Boss maps
 * [ ] New marketing Events: Player Referrer
+* [ ] Release Hero Ultimate Skill feature&#x20;
 * [ ] Unlock Hero Level 7
+* [ ] Release GameItem: Energy Bottle
 
 #### May (World Boss event)
 
 * [ ] Release Dungeon Raid Boss PvP feature&#x20;
 * [ ] Release Achievement feature&#x20;
-* [ ] Release Hero Ultimate Skill feature&#x20;
+* [ ] Release more GameItem: HP Bottle, Stamina Bottle
 * [ ] Unlock Hero Level 8
 * [ ] Release NFT MarketPlace feature
 * [ ] Test NFT bridge from BSC to Polygon
 
 #### June (Treasure of the Sea)
 
-* [ ] Release World Boss event feature (Every one fight together to defeat this ridiculous strong Boss)
+* [ ] Release World Boss feature (Every one fight together to defeat this ridiculous strong Boss)
 * [ ] Release Treasure of the Sea item
 * [ ] Item Crafting feature
-* [ ] NFT Staking farm feature
+* [ ] NFT Farm + PPP Staking feature
 * [ ] Unlock Hero Level 9
 * [ ] Open Beta Test (Polygon test-net)
 * [ ] Launch game on Polygon main-net
