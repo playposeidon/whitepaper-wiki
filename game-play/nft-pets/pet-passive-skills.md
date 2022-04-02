@@ -6,13 +6,13 @@ A Pet may have many skills depend on its rarity level. And can be categories int
 
 Currently in PlayPoseidon game, there are 2 shooting skills for Pet:
 
-**Fire-ball**: ![](../../.gitbook/assets/Fire.png) Deal damage to monster in AOE, damage is scaled with Pet base-damage. High level Fire-ball skill can provide larger explosion with Push back effect. Push back effect is depend on the movement speed of the monster and level of this skill. &#x20;
-
-
+**Fire-ball**: ![](../../.gitbook/assets/Fire.png) Deal damage to monster in AOE, damage is scaled with Pet base-damage. Fire-ball deal 2x Pet's base damage in a large AOE explosion. The level of this skill will heavily impact the AOE of the explosion.
 
 **Ice-ball**: ![](../../.gitbook/assets/Ice.png) Also deal AOE damage to monster. Will deal less damage but can slow down monsters movement speed. The level of this skill will impact the duration of the slow and the movement speed of monster when being slowed.
 
-By default, **Pet** will shoot out **Fire-ball** but some time your Pet will shoot out **Ice-ball** based on the chance mentioned here:  [pet-attributes.md](pet-attributes.md "mention")
+**Pet** will shoot out **Fire-ball** or **Ice-ball** or **all of the shooting skill mentioned above** based on the chance mentioned here:  [pet-attributes.md](pet-attributes.md "mention")&#x20;
+
+Note: **Pet** may shoot out an energy sparkle which deal 1x base-damage to a single monster hit if none of the Shooting skill is triggered.&#x20;
 
 ### 2. Non Shooting skills
 
@@ -34,10 +34,10 @@ By default, **Pet** will shoot out **Fire-ball** but some time your Pet will sho
 \*This Rarity class is not released yet.
 {% endhint %}
 
-| Skill Level | Fire-ball                      | Ice-ball       | Shield Hero                  |
-| ----------- | ------------------------------ | -------------- | ---------------------------- |
-| LV1         | Small explosion                | Slow 3s        | 500 SP, shield regen slow    |
-| LV2         | Large explosion                | Slow 5s        | 1000 SP, shield regen slow   |
-| LV3         | High Damage + Large explosion  | Strong Slow 5s | 2000 SP, shield regen medium |
-| LV4         | High Damage + Large explosion  | Strong Slow 8s | 3500 SP, shield regen fast   |
+| Skill Level | Fire-ball                      | Ice-ball                         | Shield Hero                  |
+| ----------- | ------------------------------ | -------------------------------- | ---------------------------- |
+| LV1         | Medium chance                  | Small Chance, Slow 2s            | 500 SP, shield regen slow    |
+| LV2         | Medium chance                  | Medium Chance, Slow 2s           | 1000 SP, shield regen slow   |
+| LV3         | High Chance + Large explosion  | High Chance + Large AOE, Slow 4s | 2000 SP, shield regen medium |
+| LV4         | High Chance + Large explosion  | High Chance + Large AOE, Slow 5s | 3500 SP, shield regen fast   |
 
