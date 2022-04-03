@@ -8,7 +8,9 @@ coverY: 333.820873427091
 
 ## **Symbol: PPP Icon:** ![](../.gitbook/assets/Icon\_PPP\_Small.png)
 
-The main currency of the **PlayPoseidon** game is **PPP** (Play Poseidon Pearl). This token is a **Deflationary** token follow **ERC-20** standard with the total supply is capped at **100,000,000** token.
+The main currency of the **PlayPoseidon** game is **PPP** (Play Poseidon Pearl). This token is a **Deflationary** token follow **ERC-20/BEP-20** standard with the total supply is capped at **100,000,000** token.
+
+**BSC** address: [**0xcE355300B9d7909f577640A3FB179Cf911a23fBb**](https://bscscan.com/token/0xcE355300B9d7909f577640A3FB179Cf911a23fBb)
 
 {% hint style="info" %}
 **Deflationary:** Deflationary tokens are tokens fashioned to reduce in supply over time. This is due to a burn mechanism is executed when ever a transaction happen. This mechanism improving the value of the token over time.
@@ -20,16 +22,16 @@ Read: [https://ethereum.org/en/developers/docs/standards/tokens/erc-20/](https:/
 
 ## **1. Tokenomics Breakdown Table**
 
-| Stage                                                        | Percentage | Amount(PPP) | Vesting Period                                                                                              |
-| ------------------------------------------------------------ | :--------: | ----------- | ----------------------------------------------------------------------------------------------------------- |
-| Seed Sale <mark style="color:yellow;">**$0.025**</mark>      |    2.5%    | 2,500,000   | TGE 5% then Linear Vesting in 12 months after TGE                                                           |
-| Private Sale <mark style="color:yellow;">**$0.045**</mark>   |     6%     | 6,000,000   | 30% unlock 3 hours after IDO then Linear Vesting in 12 months                                               |
-| Public Sale IDO <mark style="color:yellow;">**$0.06**</mark> |     4%     | 4,000,000   | 30% released after token listing, then 10% every month for 7 months                                         |
-| Core Team                                                    |     10%    | 10,000,000  | **Full-Lock** for 6 month after TGE then Cliff 5%, remaining Linear Vesting for 12 months                   |
-| Marketing Fund                                               |     10%    | 10,000,000  | 15% unlock at TGE then release over 18 months. Unused amount will be transferred to Foundation              |
-| <p>In-Game Treasury</p><p>(P2E Reward)</p>                   |     50%    | 50,000,000  | 10% of the initial Treasury is unlock at TGE then release over 18 months                                    |
-| Liquidity Pool reserves                                      |     15%    | 15,000,000  | 20% added right after IDO then 8% monthly during 10 months. Unused amount will be transferred to Foundation |
-| Airdrop & Foundation                                         |    2.5%    | 2,500,000   | 20% unlock at TGE then release over 18 months. Unused amount will be transferred to In-Game Treasury        |
+| Stage                                                                               | Percentage | Amount(PPP) | Vesting Period                                                                                              |
+| ----------------------------------------------------------------------------------- | :--------: | ----------- | ----------------------------------------------------------------------------------------------------------- |
+| <p>Seed Sale<br><mark style="color:yellow;"><strong>$0.025</strong></mark></p>      |    2.5%    | 2,500,000   | TGE 5% then Linear Vesting in 12 months after TGE                                                           |
+| <p>Private Sale <br><mark style="color:yellow;"><strong>$0.045</strong></mark></p>  |     6%     | 6,000,000   | 30% unlock 3 hours after IDO then Linear Vesting in 12 months                                               |
+| <p>Public Sale IDO<br><mark style="color:yellow;"><strong>$0.06</strong></mark></p> |     4%     | 4,000,000   | 30% released after token listing, then 10% every month for 7 months                                         |
+| Core Team                                                                           |     10%    | 10,000,000  | **Full-Lock** for 6 month after TGE then Cliff 5%, remaining Linear Vesting for 12 months                   |
+| Marketing Fund                                                                      |     10%    | 10,000,000  | 15% unlock at TGE then release over 18 months. Unused amount will be transferred to Foundation              |
+| <p>In-Game Treasury</p><p>(P2E Reward)</p>                                          |     50%    | 50,000,000  | 10% of the initial Treasury is unlock at TGE then release over 18 months                                    |
+| Liquidity Pool reserves                                                             |     15%    | 15,000,000  | 20% added right after IDO then 8% monthly during 10 months. Unused amount will be transferred to Foundation |
+| Airdrop & Foundation                                                                |    2.5%    | 2,500,000   | 20% unlock at TGE then release over 18 months. Unused amount will be transferred to In-Game Treasury        |
 
 ### 1.1 Initial Unlocked Supply after IDO
 
