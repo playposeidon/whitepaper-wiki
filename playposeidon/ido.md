@@ -8,28 +8,14 @@ coverY: 96.46852122986823
 
 The Public Sale of PPP token at will be launched on below IDO platform:
 
-## 1.Milky Way Exchange IDO:
 
-### 1.1 PlayPoseidon Whitelisted Member
 
-Total Allocation: 80K BUSD\
-Min/Max contribution: $250 - $500\
-Price: 0.06 BUSD/PPP\
-Date: 06/04/2022\
-Where to buy: [https://launchpad.milkywayex.finance/](https://launchpad.milkywayex.finance)
+## 1.PlayPoseidon IDO launched on ERAX <a href="#3b32" id="3b32"></a>
 
-### 1.2 MILKY Holder:
+> Total pool: USD 60k\
+> IDO Price : 0.06 BUSD\
+> Time: **11th April at 13:00 UTC to 12th April at 13:00 UTC**
+>
+> Project Token: [https://coinmarketcap.com/currencies/playposeidon-nft/](https://coinmarketcap.com/currencies/playposeidon-nft/)
 
-Total Allocation: 75K BUSD\
-Min/Max contribution: $250 - $500\
-Price: 0.06 BUSD/PPP\
-Date: 06/04/2022\
-Where to buy: [https://launchpad.milkywayex.finance/](https://launchpad.milkywayex.finance)
-
-## 2. Degem Launch Pad IDO:
-
-Total Allocation: 30K BUSD\
-Min/Max contribution: $250 - $500\
-Price: 0.06 BUSD/PPP\
-Date: 08/04/2022\
-Where to buy: [https://ido.degem.tech/](https://ido.degem.tech)
+Link to buy: [https://erax.io/#/ido-detail/0x795750148916f086bc748b9ec4254052e7c171c8](https://erax.io/#/ido-detail/0x795750148916f086bc748b9ec4254052e7c171c8)
