@@ -22,7 +22,7 @@ This is the secondary **NFT** of the game which is an **ERC-721** token that all
 | <mark style="color:blue;">**Rare**</mark>        | 0-9.99%                    | 30 (24 Hours)                  |
 | <mark style="color:purple;">**Epic**</mark>      | 10-19.99%                  | 40 (24 Hours)                  |
 | <mark style="color:yellow;">**Legendary**</mark> | 20-24.99%                  | 50 (12 Hours)                  |
-| <mark style="color:red;">**Mythical**</mark>     | 25-30%                     | 60 (6 Hours)                   |
+| <mark style="color:red;">**Mythical**</mark>     | 25-30%                     | 50 (6 Hours)                   |
 
 #### 1. Hero Attributes buff
 
