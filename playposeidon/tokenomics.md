@@ -16,9 +16,9 @@ The main currency of the **PlayPoseidon** game is **PPP** (Play Poseidon Pearl).
 **Deflationary:** Deflationary tokens are tokens fashioned to reduce in supply over time. This is due to a burn mechanism is executed when ever a transaction happen. This mechanism improving the value of the token over time.
 
 **ERC-20**: This is a standard for Fungible Tokens represent on Ethereum compatible blockchain (ex: ETH, BSC, Polygon,..)
-
-Read: [https://ethereum.org/en/developers/docs/standards/tokens/erc-20/](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 {% endhint %}
+
+Details of team vesting wallets and all contracts address can be found in this article: [https://blog.playposeidon.io/playposeidon-nft-main-net-deployment-is-completed-efefd8b45c59](https://blog.playposeidon.io/playposeidon-nft-main-net-deployment-is-completed-efefd8b45c59)
 
 ## **1. Tokenomics Breakdown Table**
 
