@@ -24,7 +24,7 @@ When summon a **Hero** using **Totem** there is a chance involve in which you ma
 
 An Egg can be open to spawn a NFT Pet with random rarity. Check out this [nft-pets](../../game-play/nft-pets/ "mention") page to understand the impact of different pet rarity. One Egg is only able to spawn 1 NFT Pet.
 
-#### 2.1 Common Egg ![](../../.gitbook/assets/Egg\_common\_icon.png)
+#### 2.1 Common Egg <img src="../../.gitbook/assets/Egg_common_icon.png" alt="" data-size="line">
 
 Below is the spawn chance table when open one **Common Egg**.
 
@@ -38,7 +38,7 @@ Below is the spawn chance table when open one **Common Egg**.
 
 **Common Egg** can be purchased from In-Game Shop
 
-#### <mark style="color:blue;">2.2 Rare Egg</mark> ![](../../.gitbook/assets/Egg\_Rare\_icon.png)
+#### <mark style="color:blue;">2.2 Rare Egg</mark> <img src="../../.gitbook/assets/Egg_Rare_icon.png" alt="" data-size="line">
 
 Below is the spawn chance table when open <mark style="color:blue;">**Rare Egg**</mark>. This item will not spawn **Common** Pet, the spawn chance for the rest is higher. And there is special Guaranteed mechanism if player open many Rare Egg in a single spawn (open at least 5 at once).
 
@@ -52,7 +52,7 @@ Below is the spawn chance table when open <mark style="color:blue;">**Rare Egg**
 
 <mark style="color:blue;">**Rare Egg**</mark> can be purchased from In-Game Shop but only with BNB. Price of Rare Egg in the shop is about 5 times of Common Egg
 
-#### <mark style="color:yellow;">2.3 Legendary Egg</mark> ![](../../.gitbook/assets/Egg\_Legendary\_icon.png)
+#### <mark style="color:yellow;">2.3 Legendary Egg</mark> <img src="../../.gitbook/assets/Egg_Legendary_icon.png" alt="" data-size="line">
 
 Below is the spawn chance table when open one <mark style="color:yellow;">**Legendary Egg**</mark>. There is no special Guaranteed mechanism for this one. But the chance to spawn high rarity level Pet is significant higher.
 
@@ -72,17 +72,17 @@ A Treasure is a loot box item dropped when defeat **Boss** monster. Player can o
 
 Below is the item drop rate table when open one **Normal Treasure**. 1 Treasure can drop multiple item at the same time but certain items start to drop only if player open multiple treasure in a single unbox.
 
-| Item Name                                                                                                | Drop rate | Treasure Require to Drop | Note                         |
-| -------------------------------------------------------------------------------------------------------- | --------- | ------------------------ | ---------------------------- |
-| <mark style="color:blue;">**Rare Egg**</mark> ![](../../.gitbook/assets/Egg\_Rare\_icon.png)             | 10%       |                          |                              |
-| <mark style="color:yellow;">**Legendary Egg**</mark> ![](../../.gitbook/assets/Egg\_Legendary\_icon.png) | 0.6%      | Open at least 20         |                              |
-| **Upgrade Scroll Level 7**                                                                               | 5%        | Open at least 2          | Unlock hero level 7          |
-| **Upgrade Scroll Level 8**                                                                               | 2%        | Open at least 5          | Unlock hero level 8          |
-| **Upgrade Scroll Level 9**                                                                               | 0.8%      | Open at least 10         | Unlock hero level 9          |
-| **Unlock Hero Ultimate Book**                                                                            | ???       |                          |                              |
-| **Pet Energy Bottle**                                                                                    | ???       |                          |                              |
-| **Hero Stamina Bottle**                                                                                  | ???       |                          |                              |
-| **Crafting Material**                                                                                    | ???       |                          | Used in crafting NFT feature |
+| Item Name                                                                                                                             | Drop rate | Treasure Require to Drop | Note                         |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------ | ---------------------------- |
+| <mark style="color:blue;">**Rare Egg**</mark> <img src="../../.gitbook/assets/Egg_Rare_icon.png" alt="" data-size="line">             | 10%       |                          |                              |
+| <mark style="color:yellow;">**Legendary Egg**</mark> <img src="../../.gitbook/assets/Egg_Legendary_icon.png" alt="" data-size="line"> | 0.6%      | Open at least 20         |                              |
+| **Upgrade Scroll Level 7**                                                                                                            | 5%        | Open at least 2          | Unlock hero level 7          |
+| **Upgrade Scroll Level 8**                                                                                                            | 2%        | Open at least 5          | Unlock hero level 8          |
+| **Upgrade Scroll Level 9**                                                                                                            | 0.8%      | Open at least 10         | Unlock hero level 9          |
+| **Unlock Hero Ultimate Book**                                                                                                         | ???       |                          |                              |
+| **Pet Energy Bottle**                                                                                                                 | ???       |                          |                              |
+| **Hero Stamina Bottle**                                                                                                               | ???       |                          |                              |
+| **Crafting Material**                                                                                                                 | ???       |                          | Used in crafting NFT feature |
 
 Each item listed above have independent event drop rate. That mean if player is very lucky he will be able to get all these items in a single open. If bad luck, the player may get none of the items.
 

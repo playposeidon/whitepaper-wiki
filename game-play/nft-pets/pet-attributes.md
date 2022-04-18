@@ -6,17 +6,17 @@ Pet attributes consist of:
 
 **Fire-rate**: The rate which the Pet can shoot out. This is equivalent to how many Fire-ball/Ice-ball in one second.&#x20;
 
-**Chance to shoot Ice-ball**: Some time your pet can shoot out Ice-ball instead of Fire-ball. This is the % chance an Ice-ball occurred when pet shoot one.
+**Energy**: Affect on utilization of the Pet. When Pet energy is zero. It need to rest and can't be used for any action.
 
 
 
-| Pet Rarity                                       | Base Damage | Fire-rate | Ice-ball Chance |
-| ------------------------------------------------ | ----------- | --------- | --------------- |
-| **Common**                                       | 20          | 0.24      | 20%             |
-| <mark style="color:blue;">**Rare**</mark>        | 30          | 0.3       | 25%             |
-| <mark style="color:purple;">**Epic**</mark>      | 45          | 0.38      | 30%             |
-| <mark style="color:yellow;">**Legendary**</mark> | 75          | 0.5       | 30%             |
-| <mark style="color:red;">**Mythical**</mark>     | 115         | 0.66      | 30%             |
+| Pet Rarity                                       | Base Damage | Fire-rate | Energy |
+| ------------------------------------------------ | ----------- | --------- | ------ |
+| **Common**                                       | 20          | 0.24      | 20     |
+| <mark style="color:blue;">**Rare**</mark>        | 30          | 0.3       | 30     |
+| <mark style="color:purple;">**Epic**</mark>      | 45          | 0.38      | 40     |
+| <mark style="color:yellow;">**Legendary**</mark> | 75          | 0.46      | 50     |
+| <mark style="color:red;">**Mythical**</mark>     | 115         | 0.54      | 50     |
 
 ![Pet size comparison](<../../.gitbook/assets/9 pets size by size.png>)
 
