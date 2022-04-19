@@ -10,20 +10,20 @@ In PlayPoseidon, due to **Daily Income Tier** system (Hero Tier), High score is 
 
 #### 2.1 <mark style="color:yellow;">Hero</mark> <mark style="color:yellow;">**Tier A**</mark>
 
-| Map Level (Stages)           | PPP Reward                    | Reward Items for each Stage                                                                                    |
-| ---------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **LV1** (1-1, 1-2, 1-3, 1-4) | 4x daily farm-cap of Hero LV1 | 10 Common Egg                                                                                                  |
-| **LV1** (1-5, 1-6)           | 8x daily farm-cap of Hero LV1 | 10 Common Egg                                                                                                  |
-| **LV2** (2-1, 2-2, 2-3, 2-4) | 4x daily farm-cap of Hero LV2 | 4 <mark style="color:blue;">**Rare Egg**</mark>                                                                |
-| **LV2** (2-5, 2-6)           | 8x daily farm-cap of Hero LV2 | 4 <mark style="color:blue;">**Rare Egg**</mark>                                                                |
-| **LV3** (3-1, 3-2, 3-3, 3-4) | 4x daily farm-cap of Hero LV3 | 8 <mark style="color:blue;">**Rare Egg**</mark>                                                                |
-| **LV3** (3-5, 3-6)           | 8x daily farm-cap of Hero LV3 | 8 <mark style="color:blue;">**Rare Egg**</mark>                                                                |
-| **LV4** (4-1, 4-2, 4-3, 4-4) | 4x daily farm-cap of Hero LV4 | 12 <mark style="color:blue;">**Rare Egg**</mark>                                                               |
-| **LV4** (4-5, 4-6)           | 8x daily farm-cap of Hero LV4 | 12 <mark style="color:blue;">**Rare Egg**</mark>                                                               |
-| **LV5** (5-1, 5-2, 5-3, 5-4) | 4x daily farm-cap of Hero LV5 | 16 <mark style="color:blue;">**Rare Egg**</mark>                                                               |
-| **LV5** (5-5, 5-6)           | 8x daily farm-cap of Hero LV5 | 16 <mark style="color:blue;">**Rare Egg**</mark>                                                               |
-| **LV6** (6-1, 6-2, 6-3, 6-4) | 4x daily farm-cap of Hero LV6 | 1 <mark style="color:yellow;">**Totem Tier A**</mark> + 2 <mark style="color:yellow;">**Legendary Egg**</mark> |
-| **LV6** (6-5, 6-6)           | 8x daily farm-cap of Hero LV6 | 1 <mark style="color:yellow;">**Totem Tier A**</mark> + 2 <mark style="color:yellow;">**Legendary Egg**</mark> |
+| Map Level (Stages)                | PPP Reward                     | Reward Items for each Stage                             |
+| --------------------------------- | ------------------------------ | ------------------------------------------------------- |
+| **LV1** (1-1, 1-2, 1-3, 1-4, 1-5) | 6x daily farm-cap of Hero LV1  | 2 Common Egg                                            |
+| **LV1** (1-6)                     | 12x daily farm-cap of Hero LV1 | 1 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV2** (2-1, 2-2, 2-3, 2-4, 2-5) | 6x daily farm-cap of Hero LV2  | 1 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV2** (2-6)                     | 12x daily farm-cap of Hero LV2 | 2 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV3** (3-1, 3-2, 3-3, 3-4, 3-5) | 6x daily farm-cap of Hero LV3  | 2 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV3** (3-6)                     | 12x daily farm-cap of Hero LV3 | 4 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV4** (4-1, 4-2, 4-3, 4-4, 4-5) | 6x daily farm-cap of Hero LV4  | 4 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV4** (4-6)                     | 12x daily farm-cap of Hero LV4 | 8 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV5** (5-1, 5-2, 5-3, 5-4, 5-5) | 6x daily farm-cap of Hero LV5  | 8 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV5** (5-6)                     | 12x daily farm-cap of Hero LV5 | 1  <mark style="color:yellow;">**Legendary Egg**</mark> |
+| **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 6x daily farm-cap of Hero LV6  | 1  <mark style="color:yellow;">**Legendary Egg**</mark> |
+| **LV6** (6-6)                     | 12x daily farm-cap of Hero LV6 | 2 <mark style="color:yellow;">**Legendary Egg**</mark>  |
 
 **PPP** reward in the above table follow Daily farm-cap of <mark style="color:yellow;">**Hero Tier A**</mark>
 
@@ -31,20 +31,20 @@ Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is
 
 #### 2.2 <mark style="color:purple;">Hero Tier B</mark>
 
-| Map Level (Stages)           | PPP Reward                     | Reward Items for each Stage                                                                             |
-| ---------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| **LV1** (1-1, 1-2, 1-3, 1-4) | 6x daily farm-cap of Hero LV1  | No                                                                                                      |
-| **LV1** (1-5, 1-6)           | 12x daily farm-cap of Hero LV1 | No                                                                                                      |
-| **LV2** (2-1, 2-2, 2-3, 2-4) | 6x daily farm-cap of Hero LV2  | 2 Common Egg                                                                                            |
-| **LV2** (2-5, 2-6)           | 12x daily farm-cap of Hero LV2 | 2 Common Egg                                                                                            |
-| **LV3** (3-1, 3-2, 3-3, 3-4) | 6x daily farm-cap of Hero LV3  | 4 Common Egg                                                                                            |
-| **LV3** (3-5, 3-6)           | 12x daily farm-cap of Hero LV3 | 4 Common Egg                                                                                            |
-| **LV4** (4-1, 4-2, 4-3, 4-4) | 6x daily farm-cap of Hero LV4  | 2 <mark style="color:blue;">**Rare Egg**</mark>                                                         |
-| **LV4** (4-5, 4-6)           | 12x daily farm-cap of Hero LV4 | 2 <mark style="color:blue;">**Rare Egg**</mark>                                                         |
-| **LV5** (5-1, 5-2, 5-3, 5-4) | 6x daily farm-cap of Hero LV5  | 4 <mark style="color:blue;">**Rare Egg**</mark>                                                         |
-| **LV5** (5-5, 5-6)           | 12x daily farm-cap of Hero LV5 | 4 <mark style="color:blue;">**Rare Egg**</mark>                                                         |
-| **LV6** (6-1, 6-2, 6-3, 6-4) | 8x daily farm-cap of Hero LV6  | 1 <mark style="color:purple;">**Totem Tier B**</mark> + 6 <mark style="color:blue;">**Rare Egg**</mark> |
-| **LV6** (6-5, 6-6)           | 12x daily farm-cap of Hero LV6 | 1 <mark style="color:yellow;">**Totem Tier A**</mark> + 6 <mark style="color:blue;">**Rare Egg**</mark> |
+| Map Level (Stages)                | PPP Reward                     | Reward Items for each Stage                     |
+| --------------------------------- | ------------------------------ | ----------------------------------------------- |
+| **LV1** (1-1, 1-2, 1-3, 1-4, 1-5) | 6x daily farm-cap of Hero LV1  | No                                              |
+| **LV1** (1-6)                     | 12x daily farm-cap of Hero LV1 | 1 Common Egg                                    |
+| **LV2** (2-1, 2-2, 2-3, 2-4, 2-5) | 6x daily farm-cap of Hero LV2  | 1 Common Egg                                    |
+| **LV2** (2-6)                     | 12x daily farm-cap of Hero LV2 | 2 Common Egg                                    |
+| **LV3** (3-1, 3-2, 3-3, 3-4, 3-5) | 6x daily farm-cap of Hero LV3  | 2 Common Egg                                    |
+| **LV3** (3-6)                     | 12x daily farm-cap of Hero LV3 | 1 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV4** (4-1, 4-2, 4-3, 4-4, 4-5) | 6x daily farm-cap of Hero LV4  | 1 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV4** (4-6)                     | 12x daily farm-cap of Hero LV4 | 2 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV5** (5-1, 5-2, 5-3, 5-4, 5-5) | 6x daily farm-cap of Hero LV5  | 2 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV5** (5-6)                     | 12x daily farm-cap of Hero LV5 | 4 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 6x daily farm-cap of Hero LV6  | 4 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV6** (6-6)                     | 12x daily farm-cap of Hero LV6 | 8 <mark style="color:blue;">**Rare Egg**</mark> |
 
 **PPP** reward in the above table follow Daily farm-cap of <mark style="color:purple;">**Hero Tier B**</mark>
 
@@ -52,20 +52,20 @@ Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark>\*\
 
 #### 2.3 <mark style="color:green;">Hero Tier C</mark>
 
-| Map Level (Stages)           | PPP Reward                     | Reward Items for each Stage                                                                             |
-| ---------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| **LV1** (1-1, 1-2, 1-3, 1-4) | 6x daily farm-cap of Hero LV1  | No                                                                                                      |
-| **LV1** (1-5, 1-6)           | 12x daily farm-cap of Hero LV1 | No                                                                                                      |
-| **LV2** (2-1, 2-2, 2-3, 2-4) | 6x daily farm-cap of Hero LV2  | No                                                                                                      |
-| **LV2** (2-5, 2-6)           | 12x daily farm-cap of Hero LV2 | No                                                                                                      |
-| **LV3** (3-1, 3-2, 3-3, 3-4) | 6x daily farm-cap of Hero LV3  | No                                                                                                      |
-| **LV3** (3-5, 3-6)           | 12x daily farm-cap of Hero LV3 | No                                                                                                      |
-| **LV4** (4-1, 4-2, 4-3, 4-4) | 6x daily farm-cap of Hero LV4  | 2 Common Egg                                                                                            |
-| **LV4** (4-5, 4-6)           | 12x daily farm-cap of Hero LV4 | 2 Common Egg                                                                                            |
-| **LV5** (5-1, 5-2, 5-3, 5-4) | 6x daily farm-cap of Hero LV5  | 1 <mark style="color:blue;">**Rare Egg**</mark>                                                         |
-| **LV5** (5-5, 5-6)           | 12x daily farm-cap of Hero LV5 | 1 <mark style="color:blue;">**Rare Egg**</mark>                                                         |
-| **LV6** (6-1, 6-2, 6-3, 6-4) | 6x daily farm-cap of Hero LV6  | 1 <mark style="color:purple;">**Totem Tier B**</mark> + 1 <mark style="color:blue;">**Rare Egg**</mark> |
-| **LV6** (6-5, 6-6)           | 12x daily farm-cap of Hero LV6 | 1 <mark style="color:purple;">**Totem Tier B**</mark> + 2 <mark style="color:blue;">**Rare Egg**</mark> |
+| Map Level (Stages)                | PPP Reward                     | Reward Items for each Stage                     |
+| --------------------------------- | ------------------------------ | ----------------------------------------------- |
+| **LV1** (1-1, 1-2, 1-3, 1-4, 1-5) | 6x daily farm-cap of Hero LV1  | No                                              |
+| **LV1** (1-6)                     | 12x daily farm-cap of Hero LV1 | No                                              |
+| **LV2** (2-1, 2-2, 2-3, 2-4, 2-5) | 6x daily farm-cap of Hero LV2  | No                                              |
+| **LV2** (2-6)                     | 12x daily farm-cap of Hero LV2 | No                                              |
+| **LV3** (3-1, 3-2, 3-3, 3-4, 3-6) | 6x daily farm-cap of Hero LV3  | No                                              |
+| **LV3** (3-6)                     | 12x daily farm-cap of Hero LV3 | No                                              |
+| **LV4** (4-1, 4-2, 4-3, 4-4, 4-5) | 6x daily farm-cap of Hero LV4  | 1 Common Egg                                    |
+| **LV4** (4-6)                     | 12x daily farm-cap of Hero LV4 | 2 Common Egg                                    |
+| **LV5** (5-1, 5-2, 5-3, 5-4, 5-5) | 6x daily farm-cap of Hero LV5  | 2 Common Egg                                    |
+| **LV5** (5-6)                     | 12x daily farm-cap of Hero LV5 | 1 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 6x daily farm-cap of Hero LV6  | 1 <mark style="color:blue;">**Rare Egg**</mark> |
+| **LV6** (6-6)                     | 12x daily farm-cap of Hero LV6 | 2 <mark style="color:blue;">**Rare Egg**</mark> |
 
 **PPP** reward in the above table follow Daily farm-cap of <mark style="color:green;">**Hero Tier C**</mark>
 
