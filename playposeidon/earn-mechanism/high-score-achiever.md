@@ -27,7 +27,13 @@ In PlayPoseidon, due to **Daily Income Tier** system (Hero Tier), High score is 
 
 **PPP** reward in the above table follow Daily farm-cap of <mark style="color:yellow;">**Hero Tier A**</mark>
 
-Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is roughly equal **1/2** of Monthly High Score Prize and Rewards items does not include <mark style="color:yellow;">**Totem Tier A**</mark>
+Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is roughly equal **1/4** of Monthly High Score Prize **and only Stages below have reward item:**
+
+1-6 to 3-5: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg\
+3-6 to 5-5: number of <mark style="color:blue;">**Rare Egg**</mark> is reduced by 4 times\
+5-6 to 6-6: 1 <mark style="color:yellow;">**Legendary Egg**</mark> is replaced by 4 <mark style="color:blue;">**Rare Egg**</mark>
+
+<mark style="color:yellow;">****</mark>
 
 #### 2.2 <mark style="color:purple;">Hero Tier B</mark>
 
@@ -48,7 +54,10 @@ Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is
 
 **PPP** reward in the above table follow Daily farm-cap of <mark style="color:purple;">**Hero Tier B**</mark>
 
-Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark>\*\* **is equal 1/2 of Monthly High Score Prize and Rewards items does not include **<mark style="color:yellow;">**Totem Tier A**</mark>** nor** \*\*<mark style="color:purple;">**Totem Tier B**</mark>
+Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark> **is roughly equal 1/4 of Monthly High Score Prize and only Stages below have reward item:**
+
+3-6 to 5-5: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg\
+****5-6 to 6-6: number of <mark style="color:blue;">**Rare Egg**</mark> is reduced by 4 times
 
 #### 2.3 <mark style="color:green;">Hero Tier C</mark>
 
@@ -69,7 +78,9 @@ Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark>\*\
 
 **PPP** reward in the above table follow Daily farm-cap of <mark style="color:green;">**Hero Tier C**</mark>
 
-Weekly High Score Prize of <mark style="color:green;">**Hero Tier C**</mark> is equal **1/3** of Monthly High Score Prize and doesn't have any Rewards items (Only **PPP**)
+Weekly High Score Prize of <mark style="color:green;">**Hero Tier C**</mark> **is roughly equal 1/4 of Monthly High Score Prize and doesn't not have any Reward Item except:**&#x20;
+
+5-6 to 6-6: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg
 
 #### Note: All HighScore prizes mentioned above are subjected to changes by Game operation team
 

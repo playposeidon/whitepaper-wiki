@@ -23,9 +23,9 @@ Hero attributes is scaled by Hero Level follow the table below:
 | Hero LV1   | 800          | 50          | 50 (+5.5/s -10/t)                    |
 | Hero LV2   | 1500         | 50          | 50 (+7.5/s -10/t)                    |
 | Hero LV3   | 2700         | 50          | 50 (+9/s -9.9/t)                     |
-| Hero LV4   | 4600         | 60          | 50 (+10/s -9.7/t)                    |
+| Hero LV4   | 4600         | 60          | 55 (+10/s -9.7/t)                    |
 | Hero LV5   | 7000         | 60          | 60 (+10/s -9.4/t)                    |
-| Hero LV6   | 10000        | 75          | 60 (+10/s -9.0/t)                    |
+| Hero LV6   | 10000        | 75          | 65 (+10/s -9.0/t)                    |
 | Hero LV7   | ?            | ?           | ? (+?/s -?/t)                        |
 | Hero LV8   | ?            | ?           | ? (+?/s -?/t)                        |
 | Hero LV9   | ?            | ?           | ? (+?/s -?/t)                        |
