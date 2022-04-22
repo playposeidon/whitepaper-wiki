@@ -23,7 +23,7 @@ description: >-
 | 11 :aquarius:   | Aquarius    | January 20–February 18  | Air :cloud\_lightning: |
 | 12 :pisces:     | Pisces      | February 19–March 20    | Water :ocean:          |
 
-During **NFT Hero** minting, each hero will be granted a sets of **Zodiac Signs.**  Usually 3 for  Tier A ,B  (max is Tier S have 4,  Tier C,D have 2, Tier E,F have 1). If hero have multiple sign of the same zodiac, it will give enormous reward during period.&#x20;
+During **NFT Hero** minting, each hero will be granted a sets of **Zodiac Signs.** Usually 3 for Tier A ,B (max is Tier S have 4, Tier C,D have 2, Tier E,F have 1). If hero have multiple sign of the same zodiac, it will give enormous reward during period.
 
 For example, during **March 21 to April 19**. If your Hero have one or more **Aries** sign, the daily income reward will be increased according to below:
 
@@ -37,7 +37,7 @@ This zodiac property is creating more value to **NFT Hero** with **Double**, **T
 #### Equivalent Number of month income per Year
 
 | Hero Tier                                     | Double       | Triple       | Quadruple | Other combinations                    |
-| ---------------------------------------------- | ------------ | ------------ | --------- | ------------------------------------- |
+| --------------------------------------------- | ------------ | ------------ | --------- | ------------------------------------- |
 | <mark style="color:red;">**Tier S**</mark>    | 13.5 months  | 14.25 months | 15 months | 13 months (Two-Double give 14 months) |
 | <mark style="color:yellow;">**Tier A**</mark> | 13.25 months | 14 months    | N/A       | 12.75 months                          |
 | <mark style="color:purple;">**Tier B**</mark> | 13.25 months | 14 months    | N/A       | 12.75 months                          |
@@ -48,17 +48,17 @@ Check out **Gacha** page in totem section here: [#1.-totem](../../playposeidon/e
 
 ### 2. Zodiac Element
 
-Each Zodiac is corresponding to one of 4 element:&#x20;
+Each Zodiac is corresponding to one of 4 element:
 
 * Earth :rock:
 * Water :ocean:
 * Fire :fire:
 * Air :cloud\_lightning:
 
-Since **Hero** have multiple Zodiac signs, each one may correspond to a different element. Hence **Hero** may have multiple **elements attribute**.&#x20;
+Since **Hero** have multiple Zodiac signs, each one may correspond to a different element. Hence **Hero** may have multiple **elements attribute**.
 
-These **elements attribute** will make a different when your Hero is fighting elemental **Boss** monster (in Q2-2022).&#x20;
+These **elements attribute** will make a different when your Hero is fighting elemental **Boss** monster (in Q2-2022).
 
-Also will allow your Hero to equip elemental **NFT Weapon Orb** to significant boosting its strength and earn more reward. (in Q3-2022)
+Also will allow your **NFT** **Hero** to use _elemental_ **NFT Weapon Orb** to its max potential, significant boosting your hero strength and earn more reward. (in Q3-2022)
 
-Details on utilized Hero elements attribute will be revealed when the time come.    &#x20;
+Details on Hero elements attribute will be revealed when the time come.
