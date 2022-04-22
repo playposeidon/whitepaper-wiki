@@ -76,29 +76,5 @@ Now return to PlayPoseidon app and you should see its main menu like this.
 
 ![](../../.gitbook/assets/z3267257424978\_a3e623d62d63147bcf7ae2b5a3d645f9.jpg)
 
-## Alternative login method by using OTP
-
-You can login to your mobile device with OTP from your web version.
-
-First, login to your web version using method in [#login-to-playposeidon](metamask-setup-and-login.md#login-to-playposeidon "mention")
-
-Click the Setting in the lower right hand side then Create OTP.
-
-![](<../../.gitbook/assets/create otp.png>)
-
-A random 6-digit number will appear and stay valid for 20 seconds.
-
-![](<../../.gitbook/assets/OTP guide for mobile.png>)
-
-Quickly open PlayPoseidon on your mobile device and click Login OTP in the upper right hand side.
-
-![](<../../.gitbook/assets/otp click.jpg>)
-
-Input your 6-digit number into the box and click Login.
-
-![](../../.gitbook/assets/z3267257424978\_a3e623d62d63147bcf7ae2b5a3d645f9.jpg)
-
-Now you can enter the world of PlayPoseidon !!!
-
 
 

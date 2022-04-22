@@ -45,7 +45,7 @@ The steps to add the BSC network are outlined below:
 
 ![](../../.gitbook/assets/metamask\_setup\_2.png)
 
-3\. Input the following information:
+3\. Input the following information for **Mainnet**:
 
 {% hint style="success" %}
 **Network Name:** Binance Smart Chain
