@@ -14,12 +14,12 @@ For player who play on behalf of NFT owner, he can use the Free-Play dashboard t
 
 This ratio can be set by the NFT owners with minimum ratio is varied by Hero Tier. Also there is a maximum duration for the offer expire times, which require NFT owner to re-offer again
 
-| Hero Tier                                     | Minimum Share Ratio | Max expires time |
-| --------------------------------------------- | ------------------- | ---------------- |
-| <mark style="color:red;">**Tier S**</mark>    | ?                   | ? days           |
-| <mark style="color:yellow;">**Tier A**</mark> | 2%                  | 9 days           |
-| <mark style="color:purple;">**Tier B**</mark> | 10%                 | 3 days           |
-| <mark style="color:green;">**Tier C**</mark>  | 50%                 | 24 hours         |
+| Hero Tier                                     | Minimum Share Ratio     | Max expires time |
+| --------------------------------------------- | ----------------------- | ---------------- |
+| <mark style="color:red;">**Tier S**</mark>    | 0%                      | 30 days          |
+| <mark style="color:yellow;">**Tier A**</mark> | 2% - 0.2% \* (HeroLV-1) | 9 days           |
+| <mark style="color:purple;">**Tier B**</mark> | 10% - 1% \* (HeroLV-1)  | 3 days           |
+| <mark style="color:green;">**Tier C**</mark>  | 50% - 5% \* (HeroLV-1)  | 24 hours         |
 
 ### 3. Anti abuser punishment
 
