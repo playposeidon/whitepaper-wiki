@@ -25,8 +25,6 @@ In PlayPoseidon, due to **Daily Income Tier** system (Hero Tier), High score is 
 | **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 3990 PPP   | 1  <mark style="color:yellow;">**Legendary Egg**</mark> |
 | **LV6** (6-6)                     | 6650 PPP   | 2 <mark style="color:yellow;">**Legendary Egg**</mark>  |
 
-**PPP** reward in the above table follow Daily farm-cap of <mark style="color:yellow;">**Hero Tier A**</mark>
-
 Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is roughly equal **1/4** of Monthly High Score Prize **and only Stages below have reward item:**
 
 1-6 to 3-5: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg\
@@ -52,8 +50,6 @@ Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is
 | **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 798 PPP    | 4 <mark style="color:blue;">**Rare Egg**</mark> |
 | **LV6** (6-6)                     | 1330 PPP   | 8 <mark style="color:blue;">**Rare Egg**</mark> |
 
-**PPP** reward in the above table follow Daily farm-cap of <mark style="color:purple;">**Hero Tier B**</mark>
-
 Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark> **is roughly equal 1/4 of Monthly High Score Prize and only Stages below have reward item:**
 
 3-6 to 5-5: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg\
@@ -68,15 +64,13 @@ Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark> **
 | **LV2** (2-1, 2-2, 2-3, 2-4, 2-5) | 11.4 PPP   | No                                              |
 | **LV2** (2-6)                     | 19 PPP     | No                                              |
 | **LV3** (3-1, 3-2, 3-3, 3-4, 3-6) | 21.6 PPP   | No                                              |
-| **LV3** (3-6)                     | 36 PPP     | No                                              |
+| **LV3** (3-6)                     | 36 PPP     | 1 Common Egg                                    |
 | **LV4** (4-1, 4-2, 4-3, 4-4, 4-5) | 42 PPP     | 1 Common Egg                                    |
 | **LV4** (4-6)                     | 70 PPP     | 2 Common Egg                                    |
 | **LV5** (5-1, 5-2, 5-3, 5-4, 5-5) | 81.9 PPP   | 2 Common Egg                                    |
 | **LV5** (5-6)                     | 136.5 PPP  | 1 <mark style="color:blue;">**Rare Egg**</mark> |
 | **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 159.6 PPP  | 1 <mark style="color:blue;">**Rare Egg**</mark> |
 | **LV6** (6-6)                     | 266 PPP    | 2 <mark style="color:blue;">**Rare Egg**</mark> |
-
-**PPP** reward in the above table follow Daily farm-cap of <mark style="color:green;">**Hero Tier C**</mark>
 
 Weekly High Score Prize of <mark style="color:green;">**Hero Tier C**</mark> **is roughly equal 1/4 of Monthly High Score Prize and doesn't not have any Reward Item except:**&#x20;
 
