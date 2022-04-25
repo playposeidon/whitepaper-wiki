@@ -80,6 +80,10 @@ Weekly High Score Prize of <mark style="color:green;">**Hero Tier C**</mark> **i
 
 ### 3. Claim prize and anti abuser rules
 
+**Weekly High Score Prize must be claimed in 5 days** starting from the moment the Weekly HighScore Leaderboard is finalized on **Monday at 0AM UTC**\
+**Monthly High Score Prize must be claimed in 20 days** starting from the moment the Monthly HighScore Leaderboard is finalized on **First day of the month at 0AM UTC**\
+****If you forget to claim your prize in the above time window, your HighScore Prize will be forfeited and you will not be able to claim it afterward.
+
 To ensure every player have fair chance to achieve High Score, each player can only claim **1 Monthly High Score Prize per month** and **2 Weekly High Score Prize per week** (regardless of how many Stages/Hero Tier which he achieved high score).
 
 Also player can't use high **Hero Level** to participate in High Score competition of lower **Map Level** difficulty with more than 1 level gap, for example Hero of **Level 5** can only participate in High Score competition of Map **Level 4** and above (**LV4**, **LV5**, **LV6**).
