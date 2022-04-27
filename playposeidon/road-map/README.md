@@ -28,12 +28,12 @@ description: Short Roadmap with dates
 #### March (Open-Beta + IDO + BSC Launch)
 
 * [x] 04/03/2022: Open Beta Test (BSC test-net)
-* [x] 03/03/2022: Bootstrap Brazil player community.&#x20;
-* [ ] PPP token IDO (BSC main-net)
-* [ ] Pancake Swap Token Listing
-* [ ] Game Launch on BSC main-net
-
-
+* [x] 03/03/2022: Bootstrap Brazil player community.
+* [x] 09/03/2022: Bootstrap Japanese player community.
+* [x] 15/03/2022: Game contracts source code audited by Certik
+* [x] 25/03/2022: PPP token IDO plan released
+* [x] 29/03/2022: PPP and all game contracts deployed (BSC main-net)
+* [x] 30/03/2022: PPP contract fully audited by Certik
 
 
 
@@ -41,6 +41,12 @@ description: Short Roadmap with dates
 
 #### April (Boss monster)
 
+* [x] 04/04/2022: Bootstrap Turkey player community.
+* [x] 07/04/2022: PPP token IDO on ERAX.io
+* [x] 11/04/2022: PPP token IDO on ERAX.io
+* [x] 14/03/2022: PPP fair-launch on PinkSale
+* [x] 17/04/2022: Pancake Swap Token Listing
+* [x] 18/04/2022: Game Launch on BSC main-net
 * [ ] Release Free to Play feature
 * [ ] Release Boss monster maps feature
 * [ ] Treasure drop from Boss maps
@@ -51,11 +57,11 @@ description: Short Roadmap with dates
 
 #### May (World Boss event)
 
-* [ ] Release Dungeon Raid Boss PvP feature&#x20;
+* [ ] Release Dungeon Raid Boss PvEvP feature&#x20;
 * [ ] Release Achievement feature&#x20;
 * [ ] Release more GameItem: HP Bottle, Stamina Bottle
 * [ ] Unlock Hero Level 8
-* [ ] Release NFT MarketPlace feature
+* [ ] Release InGame NFT MarketPlace feature
 * [ ] Test NFT bridge from BSC to Polygon
 
 #### June (Treasure of the Sea)
