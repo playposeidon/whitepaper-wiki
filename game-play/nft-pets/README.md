@@ -8,7 +8,7 @@ coverY: 0
 
 ### Intro
 
-This is the secondary **NFT** of the game which is an **ERC-721** token that allow Player to level up their NFT Hero and help deal AOE damage, slow effect to monster when fighting battle in **PlayPoseidon** game. Without fight along with a Pet your Hero will **not gain any EXP**. And starting from Map difficulty LV3, You must have a Pet to fight along with your Hero, these Stages from this level and above are too difficult for a NFT Hero to fight alone.
+This is the secondary **NFT** of the game which is an **ERC-721** token that allow Player to level up their NFT Hero and help deal AOE damage, slow effect to monster when fighting battle in **PlayPoseidon** game. During battle, player must have a Pet to fight along with the Hero.
 
 **NFT Pets** need to be spawned from an **Egg** item. Egg items is **Gacha** type item, You can read this section: [#2.-egg](../../playposeidon/earn-mechanism/gacha-items.md#2.-egg "mention") from Gacha page to check the details on spawn chances.
 

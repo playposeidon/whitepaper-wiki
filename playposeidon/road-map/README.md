@@ -23,13 +23,15 @@ description: Short Roadmap with dates
 * [x] 11/03/2022: Bootstrap Philippines player community
 * [x] 16/02/2022: Closed-Beta Test
 * [x] 16/02/2022: Bug reporting program (NFT reward)
-* [x] 07/03/2022: Launch Airdrop Campaign 2 (Open-Beta)
+* [x] 25/02/2022: Bootstrap Indonesia player community.
 
 #### March (Open-Beta + IDO + BSC Launch)
 
-* [x] 04/03/2022: Open Beta Test (BSC test-net)
 * [x] 03/03/2022: Bootstrap Brazil player community.
+* [x] 04/03/2022: Open Beta Test (BSC test-net)
+* [x] 07/03/2022: Launch Airdrop Campaign 2 (Open-Beta)
 * [x] 09/03/2022: Bootstrap Japanese player community.
+* [x] 12/03/2022: Bootstrap Korean player community.
 * [x] 15/03/2022: Game contracts source code audited by Certik
 * [x] 25/03/2022: PPP token IDO plan released
 * [x] 29/03/2022: PPP and all game contracts deployed (BSC main-net)
