@@ -10,7 +10,7 @@ In **PlayPoseidon** there are many **Gacha** type items, but can be categorized 
 
 ### 1. Totem
 
-When summon a **Hero** using **Totem** there is a chance involve in which you may be able to summon **super rare Hero** which can receive Double, Triple, Quadruple daily income during a particular month in a year. Check out this page: [zodiac-signs.md](../../game-play/nft-heroes/zodiac-signs.md "mention") for details on income increase.
+When summon a **Hero** using **Totem** there is a chance involve in which you may be able to summon **super rare Hero** which can receive Double, Triple, Quadruple daily income during a particular month in a year. Check out this page: [zodiac-signs.md](../../gameplay-guide/nft-heroes/zodiac-signs.md "mention") for details on income increase.
 
 | Totem Grade                                                                                  | Double (Zodiac Signs) | Triple (Zodiac Signs) | Quadruple (Zodiac Signs) | Two-Double (Zodiac Signs) |
 | -------------------------------------------------------------------------------------------- | --------------------- | --------------------- | ------------------------ | ------------------------- |
@@ -22,7 +22,7 @@ When summon a **Hero** using **Totem** there is a chance involve in which you ma
 
 ### 2. Egg
 
-An Egg can be open to spawn a NFT Pet with random rarity. Check out this [nft-pets](../../game-play/nft-pets/ "mention") page to understand the impact of different pet rarity. One Egg is only able to spawn 1 NFT Pet.
+An Egg can be open to spawn a NFT Pet with random rarity. Check out this [nft-pets](../../gameplay-guide/nft-pets/ "mention") page to understand the impact of different pet rarity. One Egg is only able to spawn 1 NFT Pet.
 
 #### 2.1 Common Egg <img src="../../.gitbook/assets/Egg_common_icon.png" alt="" data-size="line">
 

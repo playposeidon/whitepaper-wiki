@@ -12,6 +12,6 @@ Each **NFT Hero** in Play-Poseidon can allow NFT owner to earn **PPP** by defeat
 Hero Daily farm-cap
 {% endembed %}
 
-**Annual ROI** may also get significant increased by **Zodiac Signs** of NFT Hero, for example a super rare **Triple** zodiac sign **Hero** <mark style="color:purple;">**Tier B**</mark> Level 4 get triple daily income (**105** **PPP**/day instead of **35 PPP**/day) during 1 month period. Check out: [zodiac-signs.md](../../game-play/nft-heroes/zodiac-signs.md "mention")
+**Annual ROI** may also get significant increased by **Zodiac Signs** of NFT Hero, for example a super rare **Triple** zodiac sign **Hero** <mark style="color:purple;">**Tier B**</mark> Level 4 get triple daily income (**105** **PPP**/day instead of **35 PPP**/day) during 1 month period. Check out: [zodiac-signs.md](../../gameplay-guide/nft-heroes/zodiac-signs.md "mention")
 
 Note: There is a Quick upgrade feature which can allow quick level up but in-exchange for double investment cost (merge two NFT Hero of same level)
