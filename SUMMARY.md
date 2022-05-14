@@ -38,7 +38,7 @@
   * [🌠 Hero Attributes](gameplay-guide/nft-heroes/hero-attributes.md)
   * [🏹 Hero Skills](gameplay-guide/nft-heroes/hero-skills.md)
   * [🆙 Upgrade Hero LV](gameplay-guide/nft-heroes/upgrade-hero-lv.md)
-* [🐼 NFT Pets](gameplay-guide/nft-pets/README.md)
+* [🦁 NFT Pets](gameplay-guide/nft-pets/README.md)
   * [✨ Pet Attributes](gameplay-guide/nft-pets/pet-attributes.md)
   * [❄ Pet Passive Skills](gameplay-guide/nft-pets/pet-passive-skills.md)
 * [🎒 NFT Items](gameplay-guide/nft-items/README.md)
@@ -47,7 +47,9 @@
 * [🌌 Stage & Monster](gameplay-guide/stage-and-monster/README.md)
   * [🗺 Map Difficulty System](gameplay-guide/stage-and-monster/map-difficulty-system.md)
   * [🦈 Monsters](gameplay-guide/stage-and-monster/monsters.md)
-  * [🐲 Boss Monster](gameplay-guide/stage-and-monster/boss-monster.md)
+  * [🐉 Boss Monster](gameplay-guide/stage-and-monster/boss-monster.md)
+* [🐲 Boss System](gameplay-guide/boss-system/README.md)
+  * [💢 Casual Boss](gameplay-guide/boss-system/casual-boss.md)
 
 ## GG WP
 
