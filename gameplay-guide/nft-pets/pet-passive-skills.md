@@ -6,15 +6,15 @@ A Pet may have many skills depend on its rarity level. And can be categories int
 
 Currently in PlayPoseidon game, there are 2 shooting skills for Pet:
 
-**Fire-ball**: <img src="../../.gitbook/assets/Fire.png" alt="" data-size="original"> Deal huge damage to monster in AOE, damage is scaled with Pet base-damage. Fire-ball deal 2x Pet's base damage in a large AOE explosion. The level of this skill will heavily impact the AOE of the explosion.
+**Fire-ball**: <img src="../../.gitbook/assets/Fire.png" alt="" data-size="original"> Deal huge damage to monster in AOE, damage is scaled with Pet base-damage. Fire-ball deal **2x Pet's base damage** in a large AOE explosion. The level of this skill will heavily impact the AOE of the explosion.
 
-**Ice-ball**: ![](../../.gitbook/assets/Ice.png) Deal small AOE damage to monster. Will deal 1x Pet's base damage but can slow down monsters movement speed. The level of this skill will impact the duration of the slow and the movement speed of monster when being slowed.
+**Ice-ball**: ![](../../.gitbook/assets/Ice.png) Deal small AOE damage to monster. Will deal **1x Pet's base damage** but can slow down monsters movement speed and attack speed via _<mark style="color:blue;">Slow</mark>_ effect. The level of this skill will impact the duration of the slow and the speed of monster when being slowed.
 
-**Tornado-ball**: <img src="../../.gitbook/assets/Storm skill.png" alt="" data-size="line"> Deal small AOE damage to monster. Will deal 1s Pet's base damage but can provide the _KnockBack_ effect <img src="../../.gitbook/assets/Skill_Pet_Air_Knockback.png" alt="" data-size="line"> when explode which push monsters away from base. The level of this skill will impact the distance of _KnockBack._
+**Wind-ball**: <img src="../../.gitbook/assets/Storm skill.png" alt="" data-size="line"> Deal small AOE damage to monster. Will deal **1x Pet's base damage** but can provide the _<mark style="color:blue;">KnockBack</mark>_ effect <img src="../../.gitbook/assets/Skill_Pet_Air_Knockback.png" alt="" data-size="line"> when explode which push monsters away from base. The level of this skill will impact the distance of _KnockBack._
 
-**Pet** will shoot out **Fire-ball** or **Ice-ball** or **Tornador-ball** or **all of the shooting skill mentioned above .** The chance for each skill to be triggered will increase along with the level of skill.
+**Pet** will shoot out **Fire-ball** or **Ice-ball** or **Wind-ball** or **all of the shooting skill mentioned above .** The chance for each skill to be triggered will increase along with the level of skill.
 
-Note: **Pet** may shoot out an energy sparkle which deal 1x base-damage to a single monster hit if none of the Shooting skill is triggered.&#x20;
+Note: **Pet** may shoot out an energy sparkle which deal **1x base-damage** to a single monster hit if none of the Shooting skill is triggered.&#x20;
 
 ### 2. Non Shooting skills
 

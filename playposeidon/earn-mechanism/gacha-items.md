@@ -68,9 +68,9 @@ Below is the spawn chance table when open one <mark style="color:yellow;">**Lege
 
 A Treasure is a loot box item dropped when defeat **Boss** monster. Player can open this loot box and get a bunch of Item. 1 Treasure box can drop multiple items at the same time.
 
-#### 3.1 Normal Treasure (Common)
+#### 3.1 Common Treasure
 
-Below is the item drop rate table when open one **Normal Treasure**. 1 Treasure can drop multiple item at the same time but certain items start to drop only if player open multiple treasure in a single unbox.
+Below is the item drop rate table when open one **Common Treasure**. A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox. A **Common Treasure** can also be combined from **100 Treasure Shards**&#x20;
 
 | Item Name                                                                                                                             | Drop rate | Treasure Require to Drop | Note                         |
 | ------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------ | ---------------------------- |
@@ -86,10 +86,14 @@ Below is the item drop rate table when open one **Normal Treasure**. 1 Treasure 
 
 Each item listed above have independent event drop rate. That mean if player is very lucky he will be able to get all these items in a single open. If bad luck, the player may get none of the items.
 
-#### <mark style="color:blue;">3.2 Treasure of the Sea (Rare)</mark>
+#### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark>
 
-This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 1 **PPP** then let it grow in a farm (**NFT Farming**). This treasure have some unique feature such as: Locked staking for PPP, Guaranteed to receive back 1 in-game **PPP** when unbox it. Details for this item <mark style="color:blue;">**Treasure of the Sea**</mark> will be released later.
+This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP** then let it grow in a farm (**NFT Farming**). This treasure have some unique feature such as: Locked staking for **PPP**, Guaranteed to receive back 12 in-game **PPP** when unbox it. Details for this item will be released later.
 
-#### <mark style="color:yellow;">3.3 Locked Legendary Treasure</mark>
+#### <mark style="color:purple;">3.3 Hidden Epic Treasure</mark>
 
-This is a special type of treasure which require player to purchase a <mark style="color:yellow;">**Golden Key**</mark> to open. This treasure will give a small portion of in-game **PPP** when open. Also this treasure have a unique feature which is it can drop all type of Item even when open just one <mark style="color:yellow;">**Locked Legendary Treasure**</mark> (drop requirement is removed). Details for this item will be released later.
+This is a special type of treasure which require player to purchase an <mark style="color:purple;">**Epic Key**</mark> to open. This treasure have an unique feature is when player is not receiving any item from treasure (worst case scenario), he will receive a big amount of On-Chain **PPP** instead. Details for this item will be released later.
+
+#### <mark style="color:yellow;">3.4 Hidden Legendary Treasure</mark>
+
+This is a special type of treasure which require player to purchase a <mark style="color:yellow;">**Golden Key**</mark> to open. This treasure will give a lot more items when open, also item drop rate is 5x higher. Details for this item will be released later.
