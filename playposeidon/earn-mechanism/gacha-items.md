@@ -50,7 +50,7 @@ Below is the spawn chance table when open <mark style="color:blue;">**Rare Egg**
 | <mark style="color:yellow;">**Legendary**</mark> | 1.5%         | N/A                 |
 | <mark style="color:red;">**Mythical**</mark>     | 0.1%         | N/A                 |
 
-<mark style="color:blue;">**Rare Egg**</mark> can be purchased from In-Game Shop but only with BNB. Price of Rare Egg in the shop is about 5 times of Common Egg
+<mark style="color:blue;">**Rare Egg**</mark> can be purchased from In-Game Store but only with **BNB**. Price of <mark style="color:blue;">**Rare Egg**</mark> is about 5 times of **Common Egg**
 
 #### <mark style="color:yellow;">2.3 Legendary Egg</mark> <img src="../../.gitbook/assets/Egg_Legendary_icon.png" alt="" data-size="line">
 
@@ -70,20 +70,32 @@ A Treasure is a loot box item dropped when defeat **Boss** monster. Player can o
 
 #### 3.1 Common Treasure
 
-Below is the item drop rate table when open one **Common Treasure**. A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox. A **Common Treasure** can also be combined from **100 Treasure Shards**&#x20;
+Below is the item drop rate table when open one **Common Treasure**. A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox. A **Common Treasure** can also be combined from **100 Treasure Shards** \
 
-_An excel file contain all item Drop Rate inside a_ **Common Treasure** _will be shared later._\
-\
+
+{% embed url="https://docs.google.com/spreadsheets/d/1hxv8OUb7zfI5nu0pPO0Fpw9lWX5Xh7Nw9zC9KjzVzjM/edit?usp=sharing" %}
+
 Each item listed above have independent event drop rate. That mean if player is very lucky he will be able to get all these items in a single open. If bad luck, the player may get none of the items.
 
 #### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark>
 
-This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP** then let it grow in a farm (**NFT Farming**). This treasure have some unique feature such as: Locked staking for **PPP**, Guaranteed to receive back 12 in-game **PPP** when unbox it. Details for this item will be released later.
+This is a special type treasure can be acquired by combine 1 **Normal Treasure** or **100 Treasure Shards** with 12 **PPP**. This treasure have 2 unique features: \
+1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** from this treasure. \
+2\. Can be put to Locked staking to earn _in-game_ **PPP** \
+Details about unique features of this item will be released later.
 
 #### <mark style="color:purple;">3.3 Hidden Epic Treasure</mark>
 
-This is a special type of treasure which require player to purchase an <mark style="color:purple;">**Epic Key**</mark> to open. This treasure have an unique feature is when player is not receiving any item from treasure (worst case scenario), he will receive a big amount of On-Chain **PPP** instead. Details for this item will be released later.
+This is a special type of treasure which require player to have an <mark style="color:purple;">**Epic Key**</mark> to open. This treasure have 2 unique features:\
+1\. All drop condition are removed\
+2.When player is not receiving any item from treasure (worst case scenario), he will receive a big amount of _On-Chain_ **PPP** instead. \
+This treasure can be acquired by participate in fighting <mark style="color:purple;">**Epic Boss**</mark>** ** in dungeon raid or random drop from **Common Treasure**. <mark style="color:purple;">**Epic Key**</mark> can be purchased in the In-Game Store with **PPP**. Details on the amount of _On-Chain_ **PPP** and price of <mark style="color:purple;">**Epic Key**</mark> will be released later.
 
 #### <mark style="color:yellow;">3.4 Hidden Legendary Treasure</mark>
 
-This is a special type of treasure which require player to purchase a <mark style="color:yellow;">**Golden Key**</mark> to open. This treasure will give a lot more items when open, also item drop rate is 5x higher. Details for this item will be released later.
+This is a special type of treasure which require player to have a <mark style="color:yellow;">**Legendary Key**</mark> to open. This treasure will give a lot more items when open (check the second Sheet of the above table): \
+1\. All drop condition are removed\
+2\. A few item are guaranteed to drop\
+3\. Most item will drop at x2 quantity. \
+4\. Drop rate for all item is 5x higher compare to other treasure. \
+This treasure can be acquired by participate in fighting <mark style="color:yellow;">**Legendary Boss**</mark>  in dungeon raid or random drop from **Common Treasure**.  <mark style="color:yellow;">**Legendary Key**</mark>** **<mark style="color:purple;">****</mark> can be purchased in the In-Game Store with **BNB**. Details on the price of <mark style="color:yellow;">**Legendary Key**</mark> will be released later.
