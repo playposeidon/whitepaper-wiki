@@ -4,13 +4,13 @@ description: Boss Casual - Random Encounter
 
 # 🐲 Boss System
 
-Defeating **Boss** monster will give **Treasure** or **Treasure Shards** (can be combine into Treasure). This Treasure reward is an extra reward, and not accounting to your daily **Hero Farm-cap.**&#x20;
+Defeating **Boss** monster will give **Treasure** or **Treasure Shards** (can be combine into Treasure). This Treasure reward is an extra reward, and not accounting to your daily **Hero Farm-cap.** Open a **Treasure** will give many **NFT Items** and some time even **PPP.** You can **** check out this page for the list of item drop from opening a Treasure: [#3.1-common-treasure](../../playposeidon/earn-mechanism/gacha-items.md#3.1-common-treasure "mention")
 
 ### 1. Casual Boss
 
 This type of Boss will randomly appear when Player fight battles from **Map LV4** **and above**. The level of the Boss is equal to the Map LV and it's power is increased by Map LV as well. For example, the Casual Boss LV5 player encounter in Map LV5 will be stronger and more difficult to defeat than the same Boss LV4 player encounter in Map LV4.&#x20;
 
-For this type of boss, there are 3 rarity boss level: <mark style="color:green;">**VeryRare Boss**</mark>, <mark style="color:purple;">**Epic Boss**</mark>, <mark style="color:yellow;">**Legendary Boss**</mark> with different in power also in the treasure reward + EXP given to player&#x20;
+For this type of boss, there are 3 rarity boss level: <mark style="color:green;">**VeryRare Boss**</mark>, <mark style="color:purple;">**Epic Boss**</mark>, <mark style="color:yellow;">**Legendary Boss**</mark> with different in power also in the treasure reward + EXP given to player.
 
 ### 2. Dungeon Raid Boss
 
