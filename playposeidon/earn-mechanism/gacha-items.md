@@ -72,18 +72,8 @@ A Treasure is a loot box item dropped when defeat **Boss** monster. Player can o
 
 Below is the item drop rate table when open one **Common Treasure**. A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox. A **Common Treasure** can also be combined from **100 Treasure Shards**&#x20;
 
-| Item Name                                                                                                                             | Drop rate | Treasure Require to Drop | Note                         |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------ | ---------------------------- |
-| <mark style="color:blue;">**Rare Egg**</mark> <img src="../../.gitbook/assets/Egg_Rare_icon.png" alt="" data-size="line">             | 10%       |                          |                              |
-| <mark style="color:yellow;">**Legendary Egg**</mark> <img src="../../.gitbook/assets/Egg_Legendary_icon.png" alt="" data-size="line"> | 0.6%      | Open at least 20         |                              |
-| **Upgrade Scroll Level 7**                                                                                                            | 5%        | Open at least 2          | Unlock hero level 7          |
-| **Upgrade Scroll Level 8**                                                                                                            | 2%        | Open at least 5          | Unlock hero level 8          |
-| **Upgrade Scroll Level 9**                                                                                                            | 0.8%      | Open at least 10         | Unlock hero level 9          |
-| **Unlock Hero Ultimate Book**                                                                                                         | ???       |                          |                              |
-| **Pet Energy Bottle**                                                                                                                 | ???       |                          |                              |
-| **Hero Stamina Bottle**                                                                                                               | ???       |                          |                              |
-| **Crafting Material**                                                                                                                 | ???       |                          | Used in crafting NFT feature |
-
+_An excel file contain all item Drop Rate inside a_ **Common Treasure** _will be shared later._\
+\
 Each item listed above have independent event drop rate. That mean if player is very lucky he will be able to get all these items in a single open. If bad luck, the player may get none of the items.
 
 #### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark>
