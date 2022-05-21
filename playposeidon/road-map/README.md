@@ -41,7 +41,7 @@ description: Short Roadmap with dates
 
 ### Q2 2022 (01/04/2022 - 30/06/2022)
 
-#### April (Boss monster)
+#### April (Launch)
 
 * [x] 04/04/2022: Bootstrap Turkey player community.
 * [x] 07/04/2022: PPP token IDO on ERAX.io
@@ -49,24 +49,24 @@ description: Short Roadmap with dates
 * [x] 14/03/2022: PPP fair-launch on PinkSale
 * [x] 17/04/2022: Pancake Swap Token Listing
 * [x] 18/04/2022: Game Launch on BSC main-net
-* [ ] Release Free to Play feature
+
+
+
+#### May (Boss monster)
+
+* [x] 01/05/2022: Release Hero Ultimate Skill feature&#x20;
+* [x] 08/05/2022: Release Free to Play feature
 * [ ] Release Boss monster maps feature
 * [ ] Treasure drop from Boss maps
 * [ ] New marketing Events: Player Referrer
-* [ ] Release Hero Ultimate Skill feature&#x20;
 * [ ] Unlock Hero Level 7
-* [ ] Release GameItem: Energy Bottle
-
-#### May (World Boss event)
-
 * [ ] Release Dungeon Raid Boss PvEvP feature&#x20;
-* [ ] Release Achievement feature&#x20;
-* [ ] Release more GameItem: HP Bottle, Stamina Bottle
+* [ ] LP Staking Program&#x20;
 * [ ] Unlock Hero Level 8
 * [ ] Release InGame NFT MarketPlace feature
 * [ ] Test NFT bridge from BSC to Polygon
 
-#### June (Treasure of the Sea)
+#### June (Dungeon Boss/World Boss)
 
 * [ ] Release World Boss feature (Every one fight together to defeat this ridiculous strong Boss)
 * [ ] Release Treasure of the Sea item
