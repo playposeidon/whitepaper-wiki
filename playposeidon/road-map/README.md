@@ -60,18 +60,16 @@ description: Short Roadmap with dates
 * [ ] Treasure drop from Boss maps
 * [ ] New marketing Events: Player Referrer
 * [ ] Unlock Hero Level 7
-* [ ] Release Dungeon Raid Boss PvEvP feature&#x20;
 * [ ] LP Staking Program&#x20;
-* [ ] Unlock Hero Level 8
-* [ ] Release InGame NFT MarketPlace feature
 * [ ] Test NFT bridge from BSC to Polygon
 
 #### June (Dungeon Boss/World Boss)
 
+* [ ] Release Dungeon Raid Boss PvEvP feature
 * [ ] Release World Boss feature (Every one fight together to defeat this ridiculous strong Boss)
-* [ ] Release Treasure of the Sea item
+* [ ] Unlock Hero Level 8
 * [ ] Item Crafting feature
 * [ ] NFT Farm + PPP Staking feature
-* [ ] Unlock Hero Level 9
 * [ ] Open Beta Test (Polygon test-net)
 * [ ] Launch game on Polygon main-net
+* [ ] Release In-Game NFT MarketPlace feature
