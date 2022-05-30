@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/9 pets horizontal.png
 coverY: 0
 ---
 
-# 🐼 NFT Pets
+# 🦁 NFT Pets
 
 ### Intro
 

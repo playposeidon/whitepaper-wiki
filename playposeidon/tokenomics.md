@@ -44,7 +44,7 @@ Initial Unlocked Supply after IDO: **3,145,000 PPP (3.145%)**\
 0.125% (Seed Sale) + 1.56% (Private Sale) + 0.66% (IDO Public Sale) + 0.6% (FairLaunch) + 0.2% (AirDrop) = 3.145%
 {% endhint %}
 
-75% of total amount's raised in **FairLaunch PinkSale + Pre-Sale IDO** round are used to create the **Liquidity Pool** for **PPP/BNB** pair in [Pancake Swap DEX](https://pancakeswap.finance)
+75% of total amount's raised in **FairLaunch PinkSale + Pre-Sale IDO** round are used to create the **Liquidity Pool** for **PPP/BNB** pair in [Pancake Swap DEX](https://pancakeswap.finance/)
 
 ### 1.2 Token Distribution Schedule
 

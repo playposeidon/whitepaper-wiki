@@ -8,5 +8,15 @@ description: Boss - Treasure - Treasure Shards
 
 ### 1. Casual Boss
 
-![Boss Dragon](<../../.gitbook/assets/boss 1.png>)
+#### 1.1 Boss Scylla
+
+Rarity Level: <mark style="color:purple;">**Epic**</mark>
+
+![](../../.gitbook/assets/Boss01-Epic.png)
+
+#### 1.2 Boss Karkinos
+
+Rarity Level: <mark style="color:green;">**VeryRare**</mark>
+
+![](../../.gitbook/assets/Boss02-VeryRare.png)
 

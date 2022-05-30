@@ -2,7 +2,7 @@
 
 ## Downloading and Installing MetaMask
 
-[MetaMask](https://metamask.io) can be downloaded as a browser extension on any compatible browser.
+[MetaMask](https://metamask.io/) can be downloaded as a browser extension on any compatible browser.
 
 The links to download MetaMask can be found here for [**Chrome Web Store**](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn), [**Firefox Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/), and [**Edge Add-ons**](https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm).
 
