@@ -4,6 +4,10 @@ description: Random Encounter - Casual Boss
 
 # 💢 Casual Boss
 
+{% hint style="info" %}
+In Casual Boss's Match, Pet's energy will always be deducted regardless of Win or Lose.
+{% endhint %}
+
 ### 1. Encounter Chance
 
 Casual Boss will randomly appear when Player fight battles from **Map LV4** **and above**. The chance to encounter casual boss is based on these factors below:

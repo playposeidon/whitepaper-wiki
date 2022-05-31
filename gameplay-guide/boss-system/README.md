@@ -10,7 +10,7 @@ Defeating **Boss** monster will give **Treasure** or **Treasure Shards** (can be
 
 This type of Boss will randomly appear when Player fight battles from **Map LV4** **and above**. The level of the Boss is equal to the Map LV and it's power is increased by Map LV as well. For example, the Casual Boss LV5 player encounter in Map LV5 will be stronger and more difficult to defeat than the same Boss LV4 player encounter in Map LV4.&#x20;
 
-For this type of boss, there are 3 rarity boss level: <mark style="color:green;">**VeryRare Boss**</mark>, <mark style="color:purple;">**Epic Boss**</mark>, <mark style="color:yellow;">**Legendary Boss**</mark> with different in power also in the treasure reward + EXP given to player.
+For this type of boss, there are 3 rarity boss level: <mark style="color:green;">**VeryRare Boss**</mark>, <mark style="color:purple;">**Epic Boss**</mark>, <mark style="color:yellow;">**Legendary Boss**</mark> with different in power also in the treasure reward + bonus EXP given to player. For Casual Boss match, Pet's energy will always be deducted regardless of Win or Lose.
 
 ### 2. Dungeon Raid Boss
 
