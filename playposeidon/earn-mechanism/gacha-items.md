@@ -24,7 +24,7 @@ When summon a **Hero** using **Totem** there is a chance involve in which you ma
 
 An Egg can be open to spawn a NFT Pet with random rarity. Check out this [nft-pets](../../gameplay-guide/nft-pets/ "mention") page to understand the impact of different pet rarity. One Egg is only able to spawn 1 NFT Pet.
 
-#### 2.1 Common Egg <img src="../../.gitbook/assets/Egg_common_icon.png" alt="" data-size="line">
+### 2.1 Common Egg <img src="../../.gitbook/assets/Egg_common_icon.png" alt="" data-size="original">
 
 Below is the spawn chance table when open one **Common Egg**.
 
@@ -38,7 +38,7 @@ Below is the spawn chance table when open one **Common Egg**.
 
 **Common Egg** can be purchased from In-Game Shop
 
-#### <mark style="color:blue;">2.2 Rare Egg</mark> <img src="../../.gitbook/assets/Egg_Rare_icon.png" alt="" data-size="line">
+### <mark style="color:blue;">2.2 Rare Egg</mark> <img src="../../.gitbook/assets/Egg_Rare_icon.png" alt="" data-size="original">
 
 Below is the spawn chance table when open <mark style="color:blue;">**Rare Egg**</mark>. This item will not spawn **Common** Pet, the spawn chance for the rest is higher. And there is special Guaranteed mechanism if player open many Rare Egg in a single spawn (open at least 5 at once).
 
@@ -52,7 +52,7 @@ Below is the spawn chance table when open <mark style="color:blue;">**Rare Egg**
 
 <mark style="color:blue;">**Rare Egg**</mark> can be purchased from In-Game Store but only with **BNB**. Price of <mark style="color:blue;">**Rare Egg**</mark> is about 5 times of **Common Egg**
 
-#### <mark style="color:yellow;">2.3 Legendary Egg</mark> <img src="../../.gitbook/assets/Egg_Legendary_icon.png" alt="" data-size="line">
+### <mark style="color:yellow;">2.3 Legendary Egg</mark> <img src="../../.gitbook/assets/Egg_Legendary_icon.png" alt="" data-size="original">
 
 Below is the spawn chance table when open one <mark style="color:yellow;">**Legendary Egg**</mark>. There is no special Guaranteed mechanism for this one. But the chance to spawn high rarity level Pet is significant higher.
 
@@ -66,36 +66,38 @@ Below is the spawn chance table when open one <mark style="color:yellow;">**Lege
 
 ### 3. Treasure (in Q2-2022)
 
-A Treasure is a loot box item dropped when defeat **Boss** monster. Player can open this loot box and get a bunch of Item. 1 Treasure box can drop multiple items at the same time.
+A Treasure is a loot box item dropped when defeat **Boss** monster. Player can open this loot box and get a bunch of Item. 1 Treasure box can drop multiple items at the same time. But it is recommended to open as many **Treasure** at the same time as possible to unlock all potential item drop.
 
-#### 3.1 Common Treasure
+### 3.1 Common Treasure ![](../../.gitbook/assets/chest\_common.png)
 
-Below is the item drop rate table when open one **Common Treasure**. A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox. A **Common Treasure** can also be combined from **100 Treasure Shards** \
-
+A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox. A **Common Treasure** can also be combined from **100 Treasure Shards** <img src="../../.gitbook/assets/treasure_shard.png" alt="" data-size="original">\
+Below is the item drop rate table when open one **Common Treasure:**
 
 {% embed url="https://docs.google.com/spreadsheets/d/1hxv8OUb7zfI5nu0pPO0Fpw9lWX5Xh7Nw9zC9KjzVzjM/edit?usp=sharing" %}
 
 Each item listed above have independent event drop rate. That mean if player is very lucky he will be able to get all these items in a single open. If bad luck, the player may get none of the items.
 
-#### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark>
+### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark> ![](../../.gitbook/assets/Chest\_rare.png)<mark style="color:blue;"></mark>
 
 This is a special type treasure can be acquired by combine 1 **Normal Treasure** or **100 Treasure Shards** with 12 **PPP**. This treasure have 2 unique features: \
 1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** from this treasure. \
 2\. Can be put to Locked staking to earn _in-game_ **PPP** \
 Details about unique features of this item will be released later.
 
-#### <mark style="color:purple;">3.3 Hidden Epic Treasure</mark>
+### <mark style="color:purple;">3.3 Hidden Epic Treasure</mark> ![](../../.gitbook/assets/Chest\_epic.png)<mark style="color:purple;"></mark>
 
-This is a special type of treasure which require player to have an <mark style="color:purple;">**Epic Key**</mark> to open. This treasure have 2 unique features:\
+This is a special type of treasure which require player to have an <mark style="color:purple;">**Epic Key**</mark> ![](../../.gitbook/assets/key\_epic.png)to open. \
+This treasure have 2 unique features:\
 1\. All drop condition are removed\
 2.When player is not receiving any item from treasure (worst case scenario), he will receive a big amount of _On-Chain_ **PPP** instead. \
 This treasure can be acquired by participate in fighting <mark style="color:purple;">**Epic Boss**</mark>** ** in dungeon raid or random drop from **Common Treasure**. <mark style="color:purple;">**Epic Key**</mark> can be purchased in the In-Game Store with **PPP**. Details on the amount of _On-Chain_ **PPP** and price of <mark style="color:purple;">**Epic Key**</mark> will be released later.
 
-#### <mark style="color:yellow;">3.4 Hidden Legendary Treasure</mark>
+### <mark style="color:yellow;">3.4 Hidden Legendary Treasure</mark> ![](../../.gitbook/assets/Chest\_legendary.png)<mark style="color:yellow;"></mark>
 
-This is a special type of treasure which require player to have a <mark style="color:yellow;">**Legendary Key**</mark> to open. This treasure will give a lot more items when open (check the second Sheet of the above table): \
+This is a special type of treasure which require player to have a <mark style="color:yellow;">**Legendary Key**</mark> ![](../../.gitbook/assets/key\_legendary.png)to open. \
+This treasure will give a lot more number of items when open (check the second Sheet of the Treasure drop-rate table above): \
 1\. All drop condition are removed\
 2\. A few item are guaranteed to drop\
 3\. Most item will drop at x2 quantity. \
-4\. Drop rate for all item is 5x higher compare to other treasure. \
-This treasure can be acquired by participate in fighting <mark style="color:yellow;">**Legendary Boss**</mark>  in dungeon raid or random drop from **Common Treasure**.  <mark style="color:yellow;">**Legendary Key**</mark>** **<mark style="color:purple;">****</mark> can be purchased in the In-Game Store with **BNB**. Details on the price of <mark style="color:yellow;">**Legendary Key**</mark> will be released later.
+4\. Drop rate for all item is 5x higher compare to other treasure.\
+5\. Can drop special Item such as: <mark style="color:purple;">**Epic Key**</mark> , <mark style="color:yellow;">**Legendary Key**</mark>\ <mark style="color:yellow;">****</mark>\ <mark style="color:yellow;">****</mark>This treasure can be acquired by participate in fighting <mark style="color:yellow;">**Legendary Boss**</mark>  in dungeon raid or random drop from **Common Treasure**.  <mark style="color:yellow;">**Legendary Key**</mark>** **<mark style="color:purple;">****</mark> can be purchased in the In-Game Store with **BNB**. Details on the price of <mark style="color:yellow;">**Legendary Key**</mark> will be released later.
