@@ -64,5 +64,7 @@ Once the game finish its first quarter. The targeted price **P1** will be automa
 
 {% hint style="info" %}
 Note: The targeted price **P1,** **P2** may some time will be keep constant and not tracking Moving Average price of **PPP** token on purpose to keep the economy stable.\
-Currently the targeted price **P1** is set to **0.2$** and **P2** is set to **0.4$** by the team
+Currently the targeted prices are set by the team:\
+**P1** is set to **0.15$** (this is the price of **PPP** that the team want to achieve)  ****  \
+**P2** is set to **0.072$** (**PPP** price was stable at this level for a month now)  **** &#x20;
 {% endhint %}

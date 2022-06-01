@@ -12,24 +12,24 @@ In PlayPoseidon, due to **Daily Income Tier** system (Hero Tier), High score is 
 
 | Map Level (Stages)                | PPP Reward | Reward Items for each Stage                             |
 | --------------------------------- | ---------- | ------------------------------------------------------- |
-| **LV1** (1-1, 1-2, 1-3, 1-4, 1-5) | 150 PPP    | 2 Common Egg                                            |
-| **LV1** (1-6)                     | 250 PPP    | 1 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV2** (2-1, 2-2, 2-3, 2-4, 2-5) | 285 PPP    | 1 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV2** (2-6)                     | 475 PPP    | 2 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV3** (3-1, 3-2, 3-3, 3-4, 3-5) | 540 PPP    | 2 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV3** (3-6)                     | 900 PPP    | 4 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV4** (4-1, 4-2, 4-3, 4-4, 4-5) | 1050 PPP   | 4 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV4** (4-6)                     | 1750 PPP   | 8 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV5** (5-1, 5-2, 5-3, 5-4, 5-5) | 2047.5 PPP | 8 <mark style="color:blue;">**Rare Egg**</mark>         |
-| **LV5** (5-6)                     | 3412.5 PPP | 1  <mark style="color:yellow;">**Legendary Egg**</mark> |
-| **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 3990 PPP   | 1  <mark style="color:yellow;">**Legendary Egg**</mark> |
-| **LV6** (6-6)                     | 6650 PPP   | 2 <mark style="color:yellow;">**Legendary Egg**</mark>  |
+| **LV1** (1-1, 1-2, 1-3, 1-4, 1-5) | 120 PPP    | 2 Common Egg                                            |
+| **LV1** (1-6)                     | 200 PPP    | 1 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV2** (2-1, 2-2, 2-3, 2-4, 2-5) | 228 PPP    | 1 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV2** (2-6)                     | 380 PPP    | 2 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV3** (3-1, 3-2, 3-3, 3-4, 3-5) | 432 PPP    | 2 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV3** (3-6)                     | 720 PPP    | 4 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV4** (4-1, 4-2, 4-3, 4-4, 4-5) | 840 PPP    | 4 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV4** (4-6)                     | 1400 PPP   | 8 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV5** (5-1, 5-2, 5-3, 5-4, 5-5) | 1638 PPP   | 8 <mark style="color:blue;">**Rare Egg**</mark>         |
+| **LV5** (5-6)                     | 2730 PPP   | 1  <mark style="color:yellow;">**Legendary Egg**</mark> |
+| **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 3192 PPP   | 1  <mark style="color:yellow;">**Legendary Egg**</mark> |
+| **LV6** (6-6)                     | 5320 PPP   | 2 <mark style="color:yellow;">**Legendary Egg**</mark>  |
 
-Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is roughly equal **1/4** of Monthly High Score Prize **and only Stages below have reward item:**
+Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> in **PPP** is equal **1/5** of Monthly High Score Prize **and only Stages below have reward item:**
 
 1-6 to 3-5: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg\
 3-6 to 5-5: number of <mark style="color:blue;">**Rare Egg**</mark> is reduced by 4 times\
-5-6 to 6-6: 1 <mark style="color:yellow;">**Legendary Egg**</mark> is replaced by 4 <mark style="color:blue;">**Rare Egg**</mark>
+5-6 to 6-6: 1 <mark style="color:yellow;">**Legendary Egg**</mark> is replaced by 3 <mark style="color:blue;">**Rare Egg**</mark>
 
 <mark style="color:yellow;">****</mark>
 
@@ -50,7 +50,7 @@ Weekly High Score Prize of <mark style="color:yellow;">**Hero Tier A**</mark> is
 | **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 798 PPP    | 4 <mark style="color:blue;">**Rare Egg**</mark> |
 | **LV6** (6-6)                     | 1330 PPP   | 8 <mark style="color:blue;">**Rare Egg**</mark> |
 
-Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark> **is roughly equal 1/4 of Monthly High Score Prize and only Stages below have reward item:**
+Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark> in **PPP** is equal **1/5** of Monthly High Score Prize **and only Stages below have reward item:**
 
 3-6 to 5-5: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg\
 ****5-6 to 6-6: number of <mark style="color:blue;">**Rare Egg**</mark> is reduced by 4 times
@@ -72,7 +72,7 @@ Weekly High Score Prize of <mark style="color:purple;">**Hero Tier B**</mark> **
 | **LV6** (6-1, 6-2, 6-3, 6-4, 6-5) | 159.6 PPP  | 1 <mark style="color:blue;">**Rare Egg**</mark> |
 | **LV6** (6-6)                     | 266 PPP    | 2 <mark style="color:blue;">**Rare Egg**</mark> |
 
-Weekly High Score Prize of <mark style="color:green;">**Hero Tier C**</mark> **is roughly equal 1/4 of Monthly High Score Prize and doesn't not have any Reward Item except:**&#x20;
+Weekly High Score Prize of <mark style="color:green;">**Hero Tier C**</mark> in **PPP** is equal **1/5** of Monthly High Score Prize **and doesn't not have any Reward Item except:**&#x20;
 
 5-6 to 6-6: <mark style="color:blue;">**Rare Egg**</mark> will be replaced with Common Egg
 
