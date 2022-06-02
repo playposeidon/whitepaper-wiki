@@ -63,7 +63,7 @@ Higher Hero Tier will require more number of **Upgrade Scroll** than lower tier 
 | Hero Tier                                     | Normal Upgrade | Quick Upgrade |
 | --------------------------------------------- | -------------- | ------------- |
 | <mark style="color:red;">**S-Tier**</mark>    | ?              | ?             |
-| <mark style="color:yellow;">**A-Tier**</mark> | 16             | 32            |
+| <mark style="color:yellow;">**A-Tier**</mark> | 12             | 24            |
 | <mark style="color:purple;">**B-Tier**</mark> | 4              | 8             |
 | <mark style="color:green;">**C-Tier**</mark>  | 2              | 4             |
 | <mark style="color:blue;">**D-Tier**</mark>   | 1              | 2             |

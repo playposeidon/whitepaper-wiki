@@ -70,7 +70,7 @@ A Treasure is a loot box item dropped when defeat **Boss** monster. Player can o
 
 ### 3.1 Common Treasure ![](../../.gitbook/assets/chest\_common.png)
 
-A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox. A **Common Treasure** can also be combined from **100 Treasure Shards** <img src="../../.gitbook/assets/treasure_shard.png" alt="" data-size="original">\
+A single Treasure can drop multiple items at the same time but certain items start to drop only if player open multiple treasure in a single unbox (check Drop Condition). When player is able to acquires **100 Treasure Shards** <img src="../../.gitbook/assets/treasure_shard.png" alt="" data-size="original"> , it will be auto converted to one **Common Treasure**\
 Below is the item drop rate table when open one **Common Treasure:**
 
 {% embed url="https://docs.google.com/spreadsheets/d/1hxv8OUb7zfI5nu0pPO0Fpw9lWX5Xh7Nw9zC9KjzVzjM/edit?usp=sharing" %}
@@ -79,7 +79,7 @@ Each item listed above have independent event drop rate. That mean if player is 
 
 ### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark> ![](../../.gitbook/assets/Chest\_rare.png)<mark style="color:blue;"></mark>
 
-This is a special type treasure can be acquired by combine 1 **Normal Treasure** or **100 Treasure Shards** with 12 **PPP**. This treasure have 2 unique features: \
+This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP**. This treasure have 2 unique features: \
 1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** from this treasure. \
 2\. Can be put to Locked staking to earn _in-game_ **PPP** \
 Details about unique features of this item will be released later.

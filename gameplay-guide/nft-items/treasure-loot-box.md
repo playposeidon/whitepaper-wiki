@@ -8,8 +8,7 @@ A Treasure is a loot box item dropped when defeat **Boss** monster. Player can o
 
 ### 1. Common Treasure ![](../../.gitbook/assets/chest\_common.png)
 
-&#x20;A **Common Treasure** can be combined from **100 Treasure Shards** <img src="../../.gitbook/assets/treasure_shard.png" alt="" data-size="original">\
-The item drop rate table when open one **Common Treasure** can be find in this **Gacha** page**:** [#3.1-common-treasure](../../playposeidon/earn-mechanism/gacha-items.md#3.1-common-treasure "mention")****
+When player is able to acquires **100 Treasure Shards** <img src="../../.gitbook/assets/treasure_shard.png" alt="" data-size="original"> , it will be auto converted to one **Common Treasure.** The item drop rate table when open  **Common Treasure** can be find in this **Gacha** page**:** [#3.1-common-treasure](../../playposeidon/earn-mechanism/gacha-items.md#3.1-common-treasure "mention")****
 
 ### <mark style="color:blue;">2 Rare Treasure of the Sea</mark> ![](../../.gitbook/assets/Chest\_rare.png)
 
