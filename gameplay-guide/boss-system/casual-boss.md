@@ -16,13 +16,15 @@ Casual Boss will randomly appear when Player fight battles from **Map LV4** **an
 * The number of **consecutive win** of the current Hero at the boss Map Level: Each consecutive win will **double** the encounter rate, This will be **reset** if player **lost** a match or after fight Boss.
 * The rarity of the Boss: For example, player will encounter <mark style="color:green;">**VeryRare**</mark> boss more than <mark style="color:purple;">**Epic**</mark>/<mark style="color:yellow;">**Legendary**</mark> Boss
 * The **Tier** of the current Hero: <mark style="color:yellow;">**A-Tier**</mark> and <mark style="color:purple;">**B-Tier**</mark> have a better chance to encounter Boss than <mark style="color:green;">**C-Tier**</mark>
-* The **Rarity** of the current Pet: <mark style="color:purple;">**Epic**</mark>/<mark style="color:yellow;">**Legendary**</mark>/<mark style="color:red;">**Mythical**</mark> Pet will increase the chance to encounter <mark style="color:purple;">**Epic**</mark>/<mark style="color:yellow;">**Legendary**</mark> Boss.
+* The **Rarity** of the current Pet: <mark style="color:purple;">**Epic**</mark>/<mark style="color:yellow;">**Legendary**</mark>/<mark style="color:red;">**Mythical**</mark> Pet will increase the chance to encounter <mark style="color:purple;">**Epic**</mark>/<mark style="color:yellow;">**Legendary**</mark> Boss. While **Common** Pet will decrease chance to encounter all Boss (No chance to encounter <mark style="color:yellow;">**Legendary Boss**</mark> with a **Common** Pet) &#x20;
+
+The details on encounter chance can be find the excel file at the bottom of this page.&#x20;
 
 ### 2. Boss Reward
 
 The reward is given when player able to defeat the Boss consist of:\
 1.Treasure Shard: Can be combined into a Common Treasure\
-2.Bonus EXP to Hero\
+2.Bonus EXP to Hero (Along with normal match EXP)\
 3.Bonus Treasure: If the Hero win rate vs Casual Boss is high enough
 
 Each NFT Hero can encounter Casual Boss an unlimited number of battles per day (reward less of Win or Lost). But only the first **12 Casual Boss**  (**6** **for** <mark style="color:green;">**C-Tier**</mark> **Hero**) **** encounters give treasure shards (1) when defeated, after that Boss will not give any more treasure shards but only bonus EXP to Hero (2). Furthermore if Hero is able to defeat a high enough number of **Boss** in those first **12 (or 6 for** <mark style="color:green;">**C-Tier**</mark> **Hero)**, player will receive bonus treasure (3). This boss treasure reward limit will be reset at 0:00 AM UTC every day.

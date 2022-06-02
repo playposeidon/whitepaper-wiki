@@ -20,7 +20,7 @@ Price of **Common Egg** will be pegged to USD with the price of **36 BUSD**/egg.
 
 ### <mark style="color:blue;">**2. Rare Egg:**</mark> <img src="../../.gitbook/assets/Egg_Rare.png" alt="" data-size="line">
 
-This item can be purchased from the **In-Game Shop** but player need to spend **BNB** in order to purchase it instead of PPP. When a player open one <mark style="color:blue;">**Rare Egg**</mark>, it will hatched and spawn 1 **Pet** with a random rarity level from: <mark style="color:blue;">**Rare**</mark> up to <mark style="color:red;">**Mythical**</mark>** **<mark style="color:yellow;">****</mark> , Common pet will not be spawned when open this item. (Check this for spawn chances: [#2.2-rare-egg](../../playposeidon/earn-mechanism/gacha-items.md#2.2-rare-egg "mention"))
+This item can be purchased from the **In-Game Shop** but player need to spend **BNB** in order to purchase it instead of PPP. When a player open one <mark style="color:blue;">**Rare Egg**</mark>, it will hatched and spawn 1 **Pet** with a random rarity level from: <mark style="color:blue;">**Rare**</mark> up to <mark style="color:red;">**Mythical**</mark>** **<mark style="color:yellow;">****</mark> , Common pet will not be spawned when open this item. (Check this for spawn chances: [#2.2-rare-egg](../../playposeidon/earn-mechanism/gacha-items.md#2.2-rare-egg "mention")) It also have a guarantee mechanism when open 5 <mark style="color:blue;">**Rare Egg**</mark>, player will receive at least 1 <mark style="color:purple;">**Epic**</mark> Pet
 
 Price of **Rare Egg** will be revealed during the event when it is available for purchase. This item will not be available for purchase all the time.
 

@@ -44,6 +44,8 @@
 * [🎒 NFT Items](gameplay-guide/nft-items/README.md)
   * [🗿 Totem (Summon Hero)](gameplay-guide/nft-items/totem-summon-hero.md)
   * [🥚 Egg (Spawn Pets)](gameplay-guide/nft-items/egg-spawn-pets.md)
+  * [🎁 Treasure (Loot Box)](gameplay-guide/nft-items/treasure-loot-box.md)
+  * [📜 Upgrade Scroll (Level Up)](gameplay-guide/nft-items/upgrade-scroll-level-up.md)
 * [🌌 Stage & Monster](gameplay-guide/stage-and-monster/README.md)
   * [🗺 Map Difficulty System](gameplay-guide/stage-and-monster/map-difficulty-system.md)
   * [🦈 Monsters](gameplay-guide/stage-and-monster/monsters.md)
