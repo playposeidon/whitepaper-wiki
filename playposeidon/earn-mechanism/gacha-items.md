@@ -81,8 +81,13 @@ Each item listed above have independent event drop rate. That mean if player is 
 
 This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP**. This treasure have 2 unique features: \
 1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** from this treasure. \
-2\. Can be put to Locked staking to earn _in-game_ **PPP** \
-Details about unique features of this item will be released later.
+2\. If player hold at least 12 _on-chain_ **PPP** (per Rare Treasure), he will receive an amount of in-game **PPP** as **Staking Income** with an APY of about 380% from 24 (12+12) **PPP** which is 0.25 **PPP** per day for one Rare Treasure
+
+{% hint style="info" %}
+\+The in-game **PPP** amount of staking reward will be given on an hourly basis (1/24 of full day)\
+\+APY is subjected to changes by the team depend on price action of **PPP**\
+****+In the futures, Rare Treasure may be required to put in a Farm and on-chain PPP may be required to stake in a Smart Contract in order to receive Staking Income
+{% endhint %}
 
 ### <mark style="color:purple;">3.3 Hidden Epic Treasure</mark> ![](../../.gitbook/assets/Chest\_epic.png)<mark style="color:purple;"></mark>
 
