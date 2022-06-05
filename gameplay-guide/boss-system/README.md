@@ -10,6 +10,9 @@ Defeating **Boss** monster will give **Treasure** or **Treasure Shards** (can be
 
 This type of Boss will randomly appear when Player fight battles from **Map LV4** **and above**. The level of the Boss is equal to the Map LV and it's power is increased by Map LV as well. For example, the Casual Boss LV5 player encounter in Map LV5 will be stronger and more difficult to defeat than the same Boss LV4 player encounter in Map LV4.&#x20;
 
+The recommended Hero Level for Boss Fight is **Hero Level 6** with the power spike come from the Hero Ultimate skill. Player should be able to use Hero LV6 to kill Boss LV4 LV5 easily.\
+The recommended Pet Rarity for Boss Fight is <mark style="color:purple;">**Epic Pet**</mark> or **higher **<mark style="color:purple;">****</mark> due to the shield that the pet provided to the Hero. This Pet's skill is very useful during long boss battle. And when paired with an <mark style="color:purple;">**Epic Pet**</mark>  , a Hero LV5 should be able to kill Boss LV4.
+
 For this type of boss, there are 3 rarity boss level: <mark style="color:green;">**VeryRare Boss**</mark>, <mark style="color:purple;">**Epic Boss**</mark>, <mark style="color:yellow;">**Legendary Boss**</mark> with different in power also in the treasure reward + bonus EXP given to player. For Casual Boss match, Pet's energy will always be deducted regardless of Win or Lose.
 
 ### 2. Dungeon Raid Boss
