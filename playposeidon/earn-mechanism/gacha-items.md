@@ -80,13 +80,15 @@ Each item listed above have independent event drop rate. That mean if player is 
 ### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark> ![](../../.gitbook/assets/Chest\_rare.png)<mark style="color:blue;"></mark>
 
 This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP**. This treasure have 2 unique features: \
-1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** from this treasure. \
-2\. If player hold at least 12 _on-chain_ **PPP** (per Rare Treasure), he will receive an amount of in-game **PPP** as **Staking Income** with an APY of about 380% from 24 (12+12) **PPP** which is 0.25 **PPP** per day for one Rare Treasure
+1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** of the original amount that player used to craft it. \
+2\. If player hold at least 24 _on-chain_ **PPP** (per Rare Treasure), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 100% to 500% from the staked amount: 36 (12 _in-game_ + 24 _on-chain_) **PPP**
+
+For example: when this feature is release it will give the maximum 506.94% APY which is equivalent to **0.5** **PPP/day** Staking Income per **Rare Treasure** to players who take advantage of this.&#x20;
 
 {% hint style="info" %}
 \+The in-game **PPP** amount of staking reward will be given on an hourly basis (1/24 of full day)\
 \+APY is subjected to changes by the team depend on price action of **PPP**\
-****+In the futures, Rare Treasure may be required to put in a Farm and on-chain PPP may be required to stake in a Smart Contract in order to receive Staking Income
+****+In the futures, **Rare Treasure** may be required to put in a Farm inside a City and the on-chain **PPP** amount may be required to stake in a Smart Contract in order to receive Staking Income
 {% endhint %}
 
 ### <mark style="color:purple;">3.3 Hidden Epic Treasure</mark> ![](../../.gitbook/assets/Chest\_epic.png)<mark style="color:purple;"></mark>
