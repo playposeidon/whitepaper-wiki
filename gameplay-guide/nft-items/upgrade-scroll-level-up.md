@@ -4,7 +4,7 @@ description: Upgrade Scroll - Upgrade Hero Level - Upgrade NFT Weapon Orb Level
 
 # 📜 Upgrade Scroll (Level Up)
 
-This item is used to Upgrade the Hero Level starting from Hero LV6. Player need to acquired the Upgrade Scroll of the corresponding Level. The number of scroll required maybe varied depend on the Tier of the Hero
+This item is used to Upgrade the Hero Level starting from Hero LV6. Player need to acquired the Upgrade Scroll of the corresponding Level. The number of scroll required maybe varied depend on the Tier of the Hero. Check out **NFT Hero** Leveling Up **** here**:** [#1.3-upgrade-scroll-requirement](../nft-heroes/upgrade-hero-lv.md#1.3-upgrade-scroll-requirement "mention")
 
 ### Upgrade Scroll Level 7 ![](../../.gitbook/assets/exp\_scroll\_lv7.png)
 
