@@ -57,15 +57,6 @@ description: PlayPoseidon Development Team
 * 4 years exp of marketing in Crypto industry.
 * Crypto Marketing expert, help growing multiple crypto startup to success.
 
-## Leon Nguyen
-
-👋  Marketing Lead — 💌  leon.nguyen@playposeidon.io  — :flag\_au:Australia (GMT+11)
-
-**Bio**
-
-* 5 years exp in Digital Marketing.
-* MA in Economics, current PhD candidate in Economics
-
 ## Long Nguyen
 
 👋  Artist Lead — 💌  long.nguyen@playposeidon.io  — :flag\_vn:Vietnam (GMT+7)
