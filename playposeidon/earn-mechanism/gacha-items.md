@@ -96,8 +96,8 @@ For example: when this feature is release it will give the maximum 506.94% APY w
 This is a special type of treasure which require player to have an <mark style="color:purple;">**Epic Key**</mark> ![](../../.gitbook/assets/key\_epic.png)to open. \
 This treasure have 2 unique features:\
 1\. All drop condition are removed\
-2.When player is not receiving any item from treasure (worst case scenario), he will receive a big amount of _On-Chain_ **PPP** instead. \
-This treasure can be acquired by participate in fighting <mark style="color:purple;">**Epic Boss**</mark>** ** in dungeon raid or random drop from **Common Treasure**. <mark style="color:purple;">**Epic Key**</mark> can be purchased in the In-Game Store with **PPP**. Details on the amount of _On-Chain_ **PPP** and price of <mark style="color:purple;">**Epic Key**</mark> will be released later.
+2.When player is not receiving any item from treasure (worst case scenario), he will receive a big amount of **1200** _On-Chain_ **PPP** instead. \
+This treasure can be acquired by participate in fighting <mark style="color:purple;">**Epic Boss**</mark>** ** in dungeon raid or random drop from **Common Treasure**. <mark style="color:purple;">**Epic Key**</mark> can be purchased in the In-Game Store with **200** **PPP**.
 
 ### <mark style="color:yellow;">3.4 Hidden Legendary Treasure</mark> ![](../../.gitbook/assets/Chest\_legendary.png)<mark style="color:yellow;"></mark>
 
@@ -106,5 +106,4 @@ This treasure will give a lot more number of items when open (check the second S
 1\. All drop condition are removed\
 2\. A few item are guaranteed to drop\
 3\. Most item will drop at x2 quantity. \
-4\. Drop rate for all item is 5x higher compare to other treasure.\
-5\. Can drop special Item such as: <mark style="color:purple;">**Epic Key**</mark> , <mark style="color:yellow;">**Legendary Key**</mark>\ <mark style="color:yellow;">****</mark>\ <mark style="color:yellow;">****</mark>This treasure can be acquired by participate in fighting <mark style="color:yellow;">**Legendary Boss**</mark>  in dungeon raid or random drop from **Common Treasure**.  <mark style="color:yellow;">**Legendary Key**</mark>** **<mark style="color:purple;">****</mark> can be purchased in the In-Game Store with **BNB**. Details on the price of <mark style="color:yellow;">**Legendary Key**</mark> will be released later.
+4\. Drop rate for all item is 5x higher compare to other treasure.\ <mark style="color:yellow;">****</mark>\ <mark style="color:yellow;">****</mark>This treasure can be acquired by participate in fighting <mark style="color:yellow;">**Legendary Boss**</mark>  in dungeon raid or random drop from **Common Treasure**.  <mark style="color:yellow;">**Legendary Key**</mark>** **<mark style="color:purple;">****</mark> can be purchased in the In-Game Store with **0.1** **BNB**.
