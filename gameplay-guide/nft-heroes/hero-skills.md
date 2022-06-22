@@ -50,7 +50,7 @@ Below are the throw skills and Hero level scaling table:
 
 ## 2. Cast skill
 
-When the Hero equipped the NFT Weapon Orb (2022 Q2), he/she will be granted a cast skill which deal a lot of AOE damage. For example: meteors rain down from the sky, earthquake, tornado, sea waves... etc. Details will be released soon.&#x20;
+When the Hero equipped the NFT Ancient Relic (2022 Q3), he/she will be granted a cast skill which deal a lot of AOE damage. For example: meteors rain down from the sky, earthquake, tornado, sea waves... etc. Details will be released soon.&#x20;
 
 ## 3. Ultimate Skill
 

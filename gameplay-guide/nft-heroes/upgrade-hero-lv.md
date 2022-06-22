@@ -17,13 +17,13 @@ Each individual Hero that you owned have an Experience bar. In order to level up
 | Hero LV3   | 200 EXP (LV2 -> LV3)                                        | 1200 EXP    |
 | Hero LV4   | 960 EXP (LV3 -> LV4)                                        | 5200 EXP    |
 | Hero LV5   | 4000 EXP (LV4 -> LV5)                                       | 18000 EXP   |
-| Hero LV6   | 12800 EXP (LV5 -> LV6)                                      | 50000 EXP\* |
-| Hero LV7\* | 32000 EXP LV6 -> LV7)                                       | ?           |
+| Hero LV6   | 12800 EXP (LV5 -> LV6)                                      | 50000 EXP   |
+| Hero LV7   | 32000 EXP LV6 -> LV7)                                       | 99999       |
 | Hero LV8\* | ? EXP (LV7 -> LV8)                                          | ?           |
 | Hero LV9\* | ? EXP (LV8 -> LV9)                                          | ?           |
 
 {% hint style="info" %}
-\*Hero LV7 LV8 LV9 is not yet enabled, how ever Hero LV6 can keep gaining experience to prepare for LV7 upgrade\
+\*LV8 LV9 is not yet enabled, however Hero LV7 can keep gaining experience to prepare for LV8 upgrade\
 \*Hero LV7 LV8 LV9 will also require **Upgrade Scroll Level 7 8 9** in order to normal upgrade. (Check out **1.3**)
 {% endhint %}
 
@@ -33,17 +33,17 @@ To upgrade Hero to next level once your Hero have full EXP bar, you also need to
 
 | Upgrade Hero Level | Tier A       | Tier B       | Tier C       |
 | ------------------ | ------------ | ------------ | ------------ |
-| LV1 -> LV2         | 16x farm-cap | 16x farm-cap | 10x farm-cap |
-| LV2 -> LV3         | 20x farm-cap | 20x farm-cap | 22x farm-cap |
-| LV3 -> LV4         | 24x farm-cap | 24x farm-cap | 26x farm-cap |
-| LV4 -> LV5         | 26x farm-cap | 26x farm-cap | 28x farm-cap |
-| LV5 -> LV6         | 24x farm-cap | 24x farm-cap | 26x farm-cap |
-| LV6 -> LV7\*       | 24x farm-cap | 24x farm-cap | 25x farm-cap |
+| LV1 -> LV2         | 16x farm-cap | 16x farm-cap | 16x farm-cap |
+| LV2 -> LV3         | 20x farm-cap | 20x farm-cap | 20x farm-cap |
+| LV3 -> LV4         | 24x farm-cap | 24x farm-cap | 24x farm-cap |
+| LV4 -> LV5         | 26x farm-cap | 26x farm-cap | 26x farm-cap |
+| LV5 -> LV6         | 24x farm-cap | 24x farm-cap | 24x farm-cap |
+| LV6 -> LV7         | 24x farm-cap | 24x farm-cap | 24x farm-cap |
 | LV7 -> LV8\*       | ?            | ?            | ?            |
 | LV8 -> LV9\*       | ?            | ?            | ?            |
 
 {% hint style="info" %}
-\*Hero LV7 LV8 LV9 is not yet enabled
+\*LV8 LV9 is not yet enabled
 {% endhint %}
 
 #### 1.3 Upgrade Scroll Requirement
@@ -80,11 +80,11 @@ This is an alternative way to quickly upgrade your Hero Level without the need t
 | Hero LV4   | 2xHero LV3 -> 1 Hero LV4               |                                                 |
 | Hero LV5   | 2xHero LV4 -> 1 Hero LV5               |                                                 |
 | Hero LV6   | 2xHero LV5 -> 1 Hero LV6               |                                                 |
-| Hero LV7\* | 2xHero LV6 -> 1 Hero LV7               | Need 2x more Upgrade Scroll than Normal upgrade |
+| Hero LV7   | 2xHero LV6 -> 1 Hero LV7               | Need 2x more Upgrade Scroll than Normal upgrade |
 | Hero LV8\* | 2xHero LV7 -> 1 Hero LV8               | Need 2x more Upgrade Scroll than Normal upgrade |
 | Hero LV9\* | 2xHero LV8 -> 1 Hero LV9               | Need 2x more Upgrade Scroll than Normal upgrade |
 
 {% hint style="info" %}
-\*Hero LV7 LV8 LV9 is not yet enabled\
+\*Hero LV8 LV9 is not yet enabled\
 \*Hero LV7 LV8 LV9 will also require **Upgrade Scroll Level 7 8 9** in order to normal upgrade. (Check out **1.3**)
 {% endhint %}
