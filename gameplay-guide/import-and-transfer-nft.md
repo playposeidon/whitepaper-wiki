@@ -6,7 +6,15 @@ description: >-
 
 # 📤 Import & Transfer NFT
 
-## **HOW TO IMPORT YOUR NFT TO YOUR WALLET**
+## 1. Transfer NFT using in-game function
+
+![](<../.gitbook/assets/image (2).png>)
+
+![](../.gitbook/assets/image.png)
+
+![](<../.gitbook/assets/image (1).png>)
+
+## 2. **Import NFT to MetaMask wallet and Send**
 
 * On mobile game screen >> Import (located below Claim button);
 
