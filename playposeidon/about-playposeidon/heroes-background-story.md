@@ -122,9 +122,9 @@ Although unable to leave the cave, **Orange** and **Kudon** were still able to s
 **Assassin Brotherhood: The Faceless Men** a big secret organization which people have very little information about it. Members of this group always act alone and seem to communicate with other members secretly via a cryptic mechanism.
 {% endhint %}
 
-## Shana - Empress of the seas
+## Shana - Empress of the Seas
 
-![](<../../.gitbook/assets/Shana - Empress of the seas.jpg>)
+![Shana - Empress of the Seas](../../.gitbook/assets/Shana.jpg)
 
 Daughter of the Legendary Pirate **Shanks.** She is currently the leader of **Redhair Pirate,** hundreds of ships in the pirate crews are all under her command. She is a fearsome name among other pirates. Losing one of her eye in an intense battle with another pirate ship, she went on to destroy the entire fleet of that pirate crews, leaving no survivor, erase the crews name from the four seas forever.
 
@@ -138,7 +138,7 @@ She also harbored great ambition, her mind full of plans and ideas. Indeed a rem
 
 ## Kaiya Paddley - Miss Navy
 
-![](<../../.gitbook/assets/Kaiya Paddley - Miss Navy.jpg>)
+![Kaiya Paddley - Miss Navy](<../../.gitbook/assets/Kaiya Paddley.jpg>)
 
 She is known to be the most beautiful woman in the Navy and also in the entire **Somia** continent. Not just being a beauty, she is also a capable navy commander. She is currently a Fleet Captain in the **UETC Royal Navy.** Under her command is a fleet of 30 ships and a large Imperial Warship named after her great grandfather **Samual Paddley - The Legend**. These ship are the best of **UETC Royal Navy,** all the most advance weapon and technology of **UETC** are harnessed to built this fleet. Each ship is worth ten times more than other navy ship. Her family has built a fortune around providing trade route security to those rich countries in the <mark style="color:blue;">**South-Blue**</mark> sea against pirates.
 
@@ -164,7 +164,7 @@ As of now **UETC** and **Solheim** still remain rival countries, both are the st
 
 ## Freya Aloy - The Magitek Queen
 
-![](<../../.gitbook/assets/Freya Aloy - The Magitek Queen.jpg>)
+![Freya Aloy - The Magitek Queen](<../../.gitbook/assets/Freya Aloy.jpg>)
 
 Her story started when she was very young, she and her little sister along with her parent migrated to **Yuerratica** as part of a group of rebellious humans. These people refused to be controlled under the strict authority of **UETC**. Since the mainland (**Pangaea Proxima**) is too expensive to live, the new continent was the only suitable place to go for these people . Many of them settle here, formed towns and citadels. In one summer (ice melting season), a tragedy struck, both of her parents died when a big chunk of ice slid from the **Great Icy Wall** and rolled over her parent vehicle. After the incident, she and her little sister were adopted by a technician named **Rust** who treated them as his own daughters.
 
