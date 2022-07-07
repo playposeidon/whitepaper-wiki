@@ -6,7 +6,7 @@ description: The stories of our Heroes
 
 ## Yudon - Prince of Cinapura
 
-![Yudon - Prince of Cinapura](<../../.gitbook/assets/Yudon - Prince of Cinapura.jpg>)
+![Yudon - Prince of Cinapura](../../.gitbook/assets/Yudon.jpg)
 
 He is a direct descendant from **Triton** demigod lineage. His royal family is currently ruling the kingdom of **Cinapura** located in the <mark style="color:blue;">**South-Blue**</mark> sea. He is a prince and also is the only heir to the throne. Instead of inheriting his family responsibility, he wants to travel around the world to find and collect **Mystic animals**. People say he's really an animal enthusiast. He wants to train these animal as companion pets, no matter how dangerous it might be. Even though he is always showing heart to his people and have all capability to become a king, he seems doesn't show any interested to become one.
 
@@ -26,7 +26,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 
 ## **Samihri - The Fox** Goddess
 
-![](<../../.gitbook/assets/Samihri - The Fox Goddess.jpg>)
+![Samihri - The Fox Goddess](../../.gitbook/assets/Samihri.jpg)
 
 She was born in a hunter tribe from the northern part of **Pangea Proxima**, on a day when the **Canis Minor constellation** suddenly shines brightest then becomes dimmed. People in the north say this infant has been possessed by the spirit of the **Teumessian Fox**. Her mother died in labor, her father, while in great grief, was being persuaded by the Tribe's elders to cast her away as she is a cursed child.
 
@@ -52,7 +52,7 @@ The northern part of **Pangea Proxima** is a big rural area where all kind of da
 
 ## Mu Qing - The Man Killer
 
-![](<../../.gitbook/assets/Mu Qing - The Man Killer.jpg>)
+![Mu Qing - The Man Killer](<../../.gitbook/assets/Mu Qing.jpg>)
 
 She is an orphan, raised by her master **Qin Luo** **- Asura Blade.** She is taught by her master to never trust any man. She must cover her face all the time and if any man happens to see her face, she must kill that man immediately or marry him. That is the reason people call her by that nickname.
 
@@ -70,7 +70,7 @@ She is a master of hidden weapons, able to swiftly kill people from a far distan
 
 ## **Sirilla - The White Witch**
 
-![](<../../.gitbook/assets/Sirilla - The White Witch.jpg>)
+![Sirilla - The White Witch](../../.gitbook/assets/Siri.jpg)
 
 **Sirilla** or commonly known as **Siri**, is the princess of **Sinatra .** Carrying in her blood is the Demigod gene of **Hecate.** Her family was known for mastering witchcraft and sorcery centuries ago and currently ruling the kingdom of **Sinatra**. When she was young she has been in an arranged marriage to the **Cinapura**'s prince - **Kudon**. She is the mother of our main character **Yudon** and has been living with the **Royal Family** in **Cinapura Royal Palace** since.
 
@@ -79,7 +79,7 @@ In **Cinapura Royal Palace**, she only loves her husband, her son, and shows res
 The king and her husband know about this bad habit of **Siri** but choose to ignore it since they want a good relationship with her family to get more protection for **Cinapura** from **Sinatra** kingdom. Recently after discovering her husband's unfaithful relationship with other ladies, she got really mad and fly to a witch temple near the border of **Cinapura** and **Sinatra** to live by herself and practice more witchcraft. She still loves her son **Yudon** very much though.
 
 {% hint style="info" %}
-**Sinatra:** The kingdom of witches and sorcerers, a neighbor country of **Cinapura.** All of the great sorcerers and witches are from here, a lot of people also come here to practice witchcraft and sorcery in thousand years old temples of magic.
+**Sinatra:** The kingdom of witches and sorcerers, a neighbor country of **Cinapura.** All of the greatest sorcerers and witches are from here, a lot of people also come here to practice witchcraft and sorcery in many thousand years old temples across the country.
 
 **Kudon**: younger brother of the King of **Cinapura.** He is father of **Yudon,** and **Siri**'s husband. He is well-known for his charm and handsomeness. He is usually tasked by his brother to deal with **Cinapura** international affair.
 
@@ -88,13 +88,13 @@ The king and her husband know about this bad habit of **Siri** but choose to ign
 
 ## Mikasa - The Royalist
 
-![](<../../.gitbook/assets/ Mikasa - The Royalist.jpg>)
+![Mikasa - The Royalist](../../.gitbook/assets/Mikasa.jpg)
 
-She is one of the best among **The King of Cinapura**'s personal body guard squad, also served as maids in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age. Every one of them have their name given by the Royal family. They are brainwashed to the point they are willing to die to protect the Royal family member.
+She is one of the best among **The King of Cinapura**'s personal body guard squad, also served as maids in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age. Every one of them have their name given by the Royal family. They are brainwashed to the point they are willing to die to protect the Royal family members.
 
 Their training includes mastering hand to hand close combat as well as using weapon such as gun, knife. They sometimes are given order by the King to handle domestic affair, for example working as a spy to collect information. Their main purpose is to ensure the longevity of the monarchy and protect the **Royal Family** at all cost.
 
-After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to go find and persuade him to come back to the Royal Palace to start the process of inheriting the throne.
+After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to go find and persuade him to come back to the Royal Palace to start the process of inheriting the throne. This is because **Mikasa** is actually grew up and befriend with **Yudon** since childhood. To her he is the young master and also secretly in-love with him. For **Yudon**, he think she is like a close friend whom grew up in a same place with him.
 
 {% hint style="info" %}
 **The King of Cinapura:** His name is **Mingdon,** he and his younger brother **Kudon** is together ruling the kingdom of **Cinapura.** For some unknown reason he was not capable of having children. Because **Yudon** is the only son of his brother **Kudon**, **Yudon** is the only heir to the throne and are destined to rule **Cinapura**.
@@ -102,7 +102,7 @@ After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to g
 
 ## Arya Xu - Fortune Assassin
 
-![](<../../.gitbook/assets/Arya Xu - Fortune Assassin.jpg>)
+![Arya Xu - Fortune Assassin](<../../.gitbook/assets/Arya Xu.jpg>)
 
 Her family was once a well know noble in **Cinapura** but due to a dispute with the Royal family, they have been exiled from the country. Afraid of being assassinated by the King, his father **Edd Xu** decides to hide his entire family inside a big mountain cave. **Arya** was born and raised in this cave unaware of the world outside. As a child, she was always felt bored at home and wanted to go out to discover.
 
