@@ -10,12 +10,12 @@ description: The stories of our Heroes
 
 He is a direct descendant from **Triton** demigod lineage. His royal family is currently ruling the kingdom of **Cinapura** located in the <mark style="color:blue;">**South-Blue**</mark> sea. He is a prince and also is the only heir to the throne. Instead of inheriting his family responsibility, he wants to travel around the world to find and collect **Mystic animals**. People say he's really an animal enthusiast. He wants to train these animal as companion pets, no matter how dangerous it might be. Even though he is always showing heart to his people and have all capability to become a king, he seems doesn't show any interested to become one.
 
-**Yudon** is the main character of our Game Lore. At the starting point of the game, he has ran way from the **Royal Palace** avoiding his responsibility and currently traveling the mainland (**Pangaea Proxima** continent) cities, countries, and jungles to find and capture more **Mystic animals.** On his journey, he will meet all other characters of the game. And even make a close relationship with many of them. He also have a **Journal** which keep track of every friend, foe, or Mystic animal he encounter while traveling.
+**Yudon** is the main character of our Game Lore. At the starting point of the game, he has ran way from the **Royal Palace** avoiding his responsibility and currently traveling the mainland (**Pangaea Proxima** continent) cities, countries, and jungles to find and capture more **Mystic animals.** On his journey, he will meet all other characters of the game. And even make a close relationship with many of them. He also have a **Journal** which keep track of every friend, foe, or Mystic animals he encountered while traveling.
 
 {% hint style="info" %}
-**Triton** is the only son of **Poseidon** (one of 12 Olympians gods) and **Amphitrite** (Goddess Queen of the sea)
+**Triton** is the first son of **Poseidon** (one of 12 Olympians gods) and **Amphitrite** (Goddess Queen of the sea)
 
-**Cinapura** is not a big country but become the richest country in **Pangaea Proxima** by hosting the most busy harbors and ports in the world. It is among the most developed countries in <mark style="color:blue;">**South-Blue**</mark> sea, the citizen of **Cinapura** most are merchants and have business all over the world.
+**Cinapura** is a very small country but become the richest country in **Pangaea Proxima** by hosting the most busy ports in the world. It is among the most developed countries in <mark style="color:blue;">**South-Blue**</mark> sea, the citizen of **Cinapura** most are merchants and have business all over the world.
 
 **Mystic animals** are special kind of animal which can use magic power naturally. Unlike human which relied on special equipment to harness power of magic.
 
@@ -32,7 +32,7 @@ She was born in a hunter tribe from the northern part of **Pangea Proxima**, on 
 
 The infant was then left abandoned on a prairie full of dangerous animals where no human live. Out of coincident, just when the Olympian god **Artemis** was traveling the area in her aircraft to investigate an abnormality. She found the infant and picked her up. Finding out this infant was not a normal human, she decided to bring her back to **Mount Olympus** to investigate further. After confirmation that the infant is indeed a mutant, human but carrying gene of a mystic animal. **Zeus** orders **Artemis** to get rid of her by putting her back where she was picked up. Being merciful to the child, after putting her back, **Artemis** was secretly informed one tribe in the north which worship her to go to the location and save the infant.
 
-After being rescued by the tribe people, she was brought to the tribe and the name **Samihri** was given by the tribe elder. She was then raised by everyone in the tribe. They teach her how to hunt and act like a human being even though her appearance is different. The more she grows the more she becomes faster and stronger. In one occasion, She is able to defeat **Cerberus** a strong mystic animal to protect her tribe which made the tribe people and nearby tribes start to adore and worship **Samihri** like a god of their own.
+After being rescued by the tribe people, she was brought to the tribe and the name **Samihri** was given by the tribe elder. She was then raised by everyone in the tribe. They teach her how to hunt and act like a human being even though her appearance is different. The more she grows the more she becomes faster and stronger. In one occasion, She is able to defeat **Cerberus** a very strong mystic animal to protect her tribe which made the tribe people and nearby tribes start to adore and worship **Samihri** like a god of their own.
 
 {% hint style="info" %}
 **Canis Minor:** is a small constellation in the northern celestial hemisphere.
@@ -45,7 +45,7 @@ After being rescued by the tribe people, she was brought to the tribe and the na
 
 **Mount Olympus:** a place in a high mountain where all Olympians God keep their advance equipment and also when they usually meet and discuss matter.
 
-**Cerberus:** A multi-headed dog that is descendant of the hell monsters **Echidna** and **Typhon**
+**Cerberus:** A three-headed dog that is descendant of the hell monsters **Echidna** and **Typhon**
 
 The northern part of **Pangea Proxima** is a big rural area where all kind of dangerous animal are roaming around. Not many people live here and they usually forming tribes. These people are not living in a same place but always travel to avoid danger and also to hunt animals for food.
 {% endhint %}
@@ -65,14 +65,14 @@ She is a master of hidden weapons, able to swiftly kill people from a far distan
 
 **Kunai**: a small dagger which can throw, a type of hidden weapons.
 
-**Katana**: A type of sword, single-edged blade, very sharp and durable. Can only be forged by high skilled Bladesmith.
+**Katana**: A type of sword, single-edged blade, very sharp and durable. Can only be forged by a high skilled Bladesmith.
 {% endhint %}
 
 ## **Sirilla - The White Witch**
 
 ![Sirilla - The White Witch](../../.gitbook/assets/Siri.jpg)
 
-**Sirilla** or commonly known as **Siri**, is the princess of **Sinatra .** Carrying in her blood is the Demigod gene of **Hecate.** Her family was known for mastering witchcraft and sorcery centuries ago and currently ruling the kingdom of **Sinatra**. When she was young she has been in an arranged marriage to the **Cinapura**'s prince - **Kudon**. She is the mother of our main character **Yudon** and has been living with the **Royal Family** in **Cinapura Royal Palace** since.
+**Sirilla** or commonly known as **Siri**, is the princess of **Sinatra .** Carrying in her blood is the **Demigod gene\*** of **Hecate.** Her family was known for mastering witchcraft and sorcery centuries ago and currently ruling the kingdom of **Sinatra**. When she was young she has been in an arranged marriage to the **Cinapura**'s prince - **Kudon**. She is the mother of our main character **Yudon** and has been living with the **Royal Family** in **Cinapura Royal Palace** since.
 
 In **Cinapura Royal Palace**, she only loves her husband, her son, and shows respect for the King. To all others, she is very grumpy causing everyone to hate her. She casually casts a curse to any commoner who disrespects her, which makes their eyes turn completely white as punishment. The person then can see only white color, become temporarily blind for a few days or even weeks. Hence people giving her the nickname but no one dare to say it in front of her.
 
@@ -84,6 +84,8 @@ The king and her husband know about this bad habit of **Siri** but choose to ign
 **Kudon**: younger brother of the King of **Cinapura.** He is father of **Yudon,** and **Siri**'s husband. He is well-known for his charm and handsomeness. He is usually tasked by his brother to deal with **Cinapura** international affair.
 
 **Hecate:** is the goddess of magic, witchcraft, sorcery, necromancy, the night and the moon. She is a third generation titaness, daughter of **Asteria** and **Perses**
+
+**\*Female** with a **Demigod gene** usually stop aging in their 20s while Man with Demigod gene stop aging at a random age between 30 to 70. These demigod gene carrying human are not immortal they can still die from wound and able to live for very long but not forever.
 {% endhint %}
 
 ## Mikasa - The Royalist
@@ -94,10 +96,10 @@ She is one of the best among **The King of Cinapura**'s personal body guard squa
 
 Their training includes mastering hand to hand close combat as well as using weapon such as gun, knife. They sometimes are given order by the King to handle domestic affair, for example working as a spy to collect information. Their main purpose is to ensure the longevity of the monarchy and protect the **Royal Family** at all cost.
 
-After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to go find and persuade him to come back to the Royal Palace to start the process of inheriting the throne. This is because **Mikasa** is actually grew up and befriend with **Yudon** since childhood. To her he is the young master and also secretly in-love with him. For **Yudon**, he think she is like a close friend whom grew up in a same place with him.
+After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to go find and persuade him to come back to the Royal Palace to start the process of inheriting the throne. This is because **Mikasa** is actually grew up and befriend with **Yudon** since childhood. To **Mikasa**, **Yudon** is the young master and also she is secretly in-love with him. To **Yudon**, **Mikasa** is the closest friend whom grew up in a same palace with him.
 
 {% hint style="info" %}
-**The King of Cinapura:** His name is **Mingdon,** he and his younger brother **Kudon** is together ruling the kingdom of **Cinapura.** For some unknown reason he was not capable of having children. Because **Yudon** is the only son of his brother **Kudon**, **Yudon** is the only heir to the throne and are destined to rule **Cinapura**.
+**The King of Cinapura:** His name is **Mingdon,** he and his younger brother **Kudon** is together ruling the kingdom of **Cinapura.** For an unknown reason he was not capable of having children. Because **Yudon** is the only son of his brother **Kudon**, **Yudon** is the only heir to the throne and are destined to rule **Cinapura**.
 {% endhint %}
 
 ## Arya Xu - Fortune Assassin
@@ -111,11 +113,11 @@ By the age of 10, she decided to leave her cave to venture into the outside worl
 **Arya** is now 18 and become a skilled female assassin for hire. She has a habit of tossing a coin whenever she receives a job offer. If the coin is not in her favor she will not do the job no matter how much the money is.
 
 {% hint style="info" %}
-**Edd Xu** hates and also afraid the **Cinapura Royal Family** so much that he would kill any one related to them if they ever step foot inside his cave. Meanwhile his wife **Orange Li** only wants her noble life back, she doesn't want to live in this cave forever. That why just after the family move inside the mountain cave, she used her connection to help her contact the King younger brother **Kudon.**
+**Edd Xu** hates and also afraid the **Cinapura Royal Family** so much that he would kill any one related to them if they ever step foot inside his cave. Meanwhile his wife **Orange Li** only wants her noble life back, she doesn't want to live in the cave forever. That why just after the family move inside the mountain cave, she used her connection to help her contact the King younger brother **Kudon.**
 
 **Orange Li** has secretly visiting **Kudon** to help her settle the dispute between the King and her husband. **Kudon** at that time has already married to **Siri**, but being impressed by **Orange** beauty and lovely voice, while **Orange** being impressed by his charm, they have fallen in love with each other knowing it not the right thing. Soon with the help of **Kudon**, the dispute is settled, and the family is forgiven by the King.
 
-When **Orange** comes back to the cave to tell her husband, he doesn't believe it but thinking that it may be a trick to lure him out to assassinate him. **Edd Xu** felt betrayed by his wife but still loved her so much, decided to forbidden her to leave the cave. During her time living in the mountain cave, she was pregnant and gave birth to **Arya.**
+When **Orange** comes back to the cave to tell her husband, he doesn't believe it but thinking that it may be a trick to lure him out to assassinate him. **Edd Xu** felt betrayed by his wife but still loved her so much, decided to forbidden her to leave the cave. Then after that, During her time living with-in the mountain cave, she was pregnant and gave birth to **Arya.**
 
 Although unable to leave the cave, **Orange** and **Kudon** were still able to secretly meet each other time to time via a secret under water tunnel which **Kudon** can easily swim through with his Demigod gene of **Triton**.
 
@@ -149,7 +151,7 @@ Her family has big reputation in **UETC** army. She is the only daughter of **UE
 
 **Samual Paddley** is the legendary general whom help united the twin continents under the regime of **UETC**.
 
-**UETC:** **United Empire of the Twin Continents.** an united group of countries founded after the war between people of **Normia** and people of **Somia** in 66,001,865 AD. **UETC** are governed by a board consist of 12 persons, 6 senators come from the original Royal families that gave up their power to form **UETC**, 3 human elders and 3 appointed governors. Most matters are decided by the **3** **Elders**, then **6 Senators** discuss, vote for rejection or draft execution plan. **3 Governors** will go on to execute the plan accordingly. When an **Elder** pass away or retired, the most experienced **Governor** will succeed his role and a new **Governor** will be appointed by the board. **** This government system has been formed from the very beginning of the empire and proven to be a successful ruling system for more than 150 years.
+**UETC:** **United Empire of the Twin Continents.** an united group of countries founded after the war between people of **Normia** and people of **Somia** in 66,001,865 AD. **UETC** are governed by a board consist of 12 persons, 6 senators come from the original Royal families that gave up their power to form **UETC**, 3 human elders and 3 appointed governors. Most matters are decided by the **3** **Elders**, then **6 Senators** discuss, vote for rejection or make changes to execution plan. **3 Governors** will go on to execute that plan accordingly. When an **Elder** pass away or retired, the most experienced **Governor** will succeed his role and a new **Governor** will be appointed by the board. **** This government system has been formed from the very beginning of the empire and proven to be a successful ruling system for more than 150 years.
 
 **UETC** **Royal Navy** is the most powerful navy in the world. Its main job is to protect the **UETC** from any foreign threats. They also do provide protection service to ships in trade routes in all most every oceans (except North-White) from pirates.
 
