@@ -19,7 +19,7 @@ He is a direct descendant from **Triton** demigod lineage. His royal family is c
 
 **Mystic animals** are special kind of animal which can use magic power naturally. Unlike human which relied on special equipment to harness power of magic.
 
-<mark style="color:blue;">**South-Blue**</mark> sea, **Pangaea Proxima** continent checkout: [#the-world-map-in-66-002-022-ad](game-lore.md#the-world-map-in-66-002-022-ad "mention")
+For location of <mark style="color:blue;">**South-Blue**</mark> sea, **Pangaea Proxima** continent, checkout this map: [#the-world-map-in-66-002-022-ad](game-lore.md#the-world-map-in-66-002-022-ad "mention")
 
 **Yudon's Journal:** Please subscribe to our [blog.playposeidon.io](https://blog.playposeidon.io) to read this **Journal**.
 {% endhint %}
@@ -56,7 +56,7 @@ The northern part of **Pangea Proxima** is a big rural area where all kind of da
 
 She is an orphan, raised by her master **Qin Luo** **- Asura Blade.** She is taught by her master to never trust any man. She must cover her face all the time and if any man happens to see her face, she must kill that man immediately or marry him. That is the reason people call her by that nickname.
 
-She is a master of hidden weapons, able to swiftly kill people from a far distance with just a **Kunai** throw. Her sword skill is also very good as her master is the greatest **Katana** user in **Pangea Proxima**. Besides her combat skill, she also has a very beautiful body that omitted a natural scent like a sweet flower. Even though she is known to be extremely dangerous, men often get attracted to her then usually being killed if tried to see her face.
+She is a master of hidden weapons, able to swiftly kill people from a far distance with just a **Kunai** throw. Her sword skill is also very good as her master is the greatest **Katana** user in **Pangea Proxima**. Besides her combat skill, she also has a very beautiful body that omitted a natural scent like a sweet flower. Even though she is known to be extremely dangerous, men often get attracted to her then usually get killed trying to peek at her face.
 
 {% hint style="info" %}
 **Qin Luo:** nickname **Asura Blade**, famous for her dual **Katana** skill which no other Katana user in mainland can match. When she is young, she used to be in a relationship with prince **Kudon** of **Cinapura** but was not able to marry him since she is just a commoner human not carrying any royal blood. After **Kudon**'s royal wedding with **Siri**, she then vow to never married, put herself through immense training and become **Asura Blade**. She seems to have strong hatred toward men which translate to how she raised and taught her only student **Mu Qing.**
@@ -74,9 +74,9 @@ She is a master of hidden weapons, able to swiftly kill people from a far distan
 
 **Sirilla** or commonly known as **Siri**, is the princess of **Sinatra .** Carrying in her blood is the **Demigod gene\*** of **Hecate.** Her family was known for mastering witchcraft and sorcery centuries ago and currently ruling the kingdom of **Sinatra**. When she was young she has been in an arranged marriage to the **Cinapura**'s prince - **Kudon**. She is the mother of our main character **Yudon** and has been living with the **Royal Family** in **Cinapura Royal Palace** since.
 
-In **Cinapura Royal Palace**, she only loves her husband, her son, and shows respect for the King. To all others, she is very grumpy causing everyone to hate her. She casually casts a curse to any commoner who disrespects her, which makes their eyes turn completely white as punishment. The person then can see only white color, become temporarily blind for a few days or even weeks. Hence people giving her the nickname but no one dare to say it in front of her.
+While living in **Cinapura** royal palace, she only loves her husband, her son, and shows respect for the King. To all others people, she is very grumpy causing everyone to hate her. She casually casts a curse to any one who disrespects her, which makes their eyes turn completely white as punishment. The person then can see only white color, become temporarily blind for a few days or even weeks. Hence people giving her the nickname but no one dare to say it in front of her. The king and her husband know about this bad habit of **Siri** but choose to ignore it since they want a good relationship with her family to get more protection for their country from **Sinatra** kingdom.
 
-The king and her husband know about this bad habit of **Siri** but choose to ignore it since they want a good relationship with her family to get more protection for **Cinapura** from **Sinatra** kingdom. Recently after discovering her husband's unfaithful relationship with other ladies, she got really mad and fly to a witch temple near the border of **Cinapura** and **Sinatra** to live by herself and practice more witchcraft. She still loves her son **Yudon** very much though.
+Recently after discovering her husband's unfaithful relationship with other ladies, she got really mad and fly to a witch temple near the border of **Cinapura** and **Sinatra** to live by herself and practice witchcraft. She still loves her son **Yudon** very much though.
 
 {% hint style="info" %}
 **Sinatra:** The kingdom of witches and sorcerers, a neighbor country of **Cinapura.** All of the greatest sorcerers and witches are from here, a lot of people also come here to practice witchcraft and sorcery in many thousand years old temples across the country.
@@ -94,7 +94,7 @@ The king and her husband know about this bad habit of **Siri** but choose to ign
 
 She is one of the best among **The King of Cinapura**'s personal body guard squad, also served as maids in **Cinapura** Royal Household. All member of this squad are female orphan, usually was adopted at infant or very young age. Every one of them have their name given by the Royal family. They are brainwashed to the point they are willing to die to protect the Royal family members.
 
-Their training includes mastering hand to hand close combat as well as using weapon such as gun, knife. They sometimes are given order by the King to handle domestic affair, for example working as a spy to collect information. Their main purpose is to ensure the longevity of the monarchy and protect the **Royal Family** at all cost.
+Their training includes mastering hand to hand close combat as well as using weapon such as gun, knife. They sometimes are given order by the King to handle domestic affair, for example working as a spy to collect information. Their main purpose is to ensure the longevity of the monarchy and protect the royal family member at all cost.
 
 After **Yudon** ran away, **Mikasa** was tasked by **The King of Cinapura** to go find and persuade him to come back to the Royal Palace to start the process of inheriting the throne. This is because **Mikasa** is actually grew up and befriend with **Yudon** since childhood. To **Mikasa**, **Yudon** is the young master and also she is secretly in-love with him. To **Yudon**, **Mikasa** is the closest friend whom grew up in a same palace with him.
 
@@ -135,7 +135,7 @@ She also harbored great ambition, her mind full of plans and ideas. Indeed a rem
 {% hint style="info" %}
 **Shanks:** the legendary pirate known for his unique natural red color hair. He has founded the **Redhair Pirate** when he was just 24 year olds. For 40 years, he lead the crews to become the largest and strongest pirate crews in the world. He has retired from sailing as pirate 6 years ago and leave the command of his **Redhair Pirate** to his only daughter.
 
-**Redhair Pirate:** They are currently the largest and strongest pirate crews in the world and dominate all over the trade routes from and to <mark style="color:blue;">**South-Blue**</mark> sea. **Redhair Pirate** pirates and **UETC Royal Navy** frequently battle each other but there has never been an all-out war. The big center sections of <mark style="color:blue;">**South-Blue**</mark> sea are under their control while leaving the shore and rest of the four oceans to **UETC Royal Navy**
+**Redhair Pirate:** They are currently the largest and strongest pirate crews in the world and dominate all over the trade routes from and to <mark style="color:blue;">**South-Blue**</mark> sea. **Redhair Pirate** pirates and **UETC Royal Navy** frequently battle each other but there has never been an all-out war. The big center sections of <mark style="color:blue;">**South-Blue**</mark> sea are under their control while leaving the shore and rest of the four oceans to **UETC Royal Navy** protection.
 {% endhint %}
 
 ## Kaiya Paddley - Miss Navy
