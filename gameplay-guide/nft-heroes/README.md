@@ -8,7 +8,7 @@ coverY: 0
 
 ### Intro
 
-This is the main NFT of the game which is an **ERC-721** token that allow Player to earn income (PPP) from fighting battle in **PlayPoseidon** game.
+This is the main NFT of the game which is an **ERC-721** token that allow Player to earn income (PPP) from fighting battle in **PlayPoseidon** game. You can find the all Heroes back-story and theirs NFT art here: [heroes-background-story.md](../../playposeidon/about-playposeidon/heroes-background-story.md "mention")
 
 **NFT Heroes** need to be summoned by using a totem item. Totem is have different Tier and is also sell at different price according to Daily Income Tier system, read this page:
 
@@ -28,7 +28,7 @@ Each **Hero Tier** contain 2-3 different hero (name and character model is diffe
 | <mark style="color:green;">**Tier C**</mark>  | <mark style="color:green;">**Totem Tier C**</mark> ![](../../.gitbook/assets/Totem\_C\_icon.png)  | 1 **PPP**                        | 3                         |
 | <mark style="color:blue;">**Tier D**</mark>   | <mark style="color:blue;">**Totem Tier D**</mark>                                                 | 0.2 **PPP**                      | ?                         |
 
-<mark style="color:yellow;">**Tier A**</mark> **,** <mark style="color:purple;">**Tier B**</mark>, <mark style="color:green;">**Tier C**</mark> are released when the game first launch. <mark style="color:red;">**Tier S**</mark> will be launched later after 1 month during an Event which a limited number of <mark style="color:red;">**Totem Tier S**</mark> is for sale. For <mark style="color:blue;">**Tier D**</mark>, it will be released when the price of **PPP** increased at least **5x.** This income tier system allow a low entry cost to **PlayPoseidon** game which help abstract many players even when the token price **sky-rocketed**
+<mark style="color:yellow;">**Tier A**</mark> **,** <mark style="color:purple;">**Tier B**</mark>, <mark style="color:green;">**Tier C**</mark> are released when the game first launch. <mark style="color:red;">**Tier S**</mark> will be launched as an Event (TBA) and with a limited number of totem. For <mark style="color:blue;">**Tier D**</mark>, it will be released when the price of **PPP** increased at least **5x.** This income tier system allow a low entry cost to **PlayPoseidon** game which help abstract many players even when the token price **sky-rocketed**
 
 Each hero will have a daily farm-cap which is based on the Hero Tier and Hero Level. This farm-cap will gradually recover during the day (fully recover within **24 hours**) and increase based on Hero Level.
 
