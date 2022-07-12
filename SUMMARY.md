@@ -38,6 +38,7 @@
   * [🌠 Hero Attributes](gameplay-guide/nft-heroes/hero-attributes.md)
   * [🏹 Hero Skills](gameplay-guide/nft-heroes/hero-skills.md)
   * [🆙 Upgrade Hero LV](gameplay-guide/nft-heroes/upgrade-hero-lv.md)
+  * [💊 Curse of Poseidon](gameplay-guide/nft-heroes/curse-of-poseidon.md)
 * [🦁 NFT Pets](gameplay-guide/nft-pets/README.md)
   * [✨ Pet Attributes](gameplay-guide/nft-pets/pet-attributes.md)
   * [❄ Pet Passive Skills](gameplay-guide/nft-pets/pet-passive-skills.md)

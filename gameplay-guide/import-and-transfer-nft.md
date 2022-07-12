@@ -8,7 +8,7 @@ description: >-
 
 ## 1. Transfer NFT using in-game function
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ![](../.gitbook/assets/image.png)
 
