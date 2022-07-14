@@ -10,8 +10,6 @@ A Treasure is a loot box item dropped when defeat **Boss** monster. Player can o
 
 When player is able to acquires **100 Treasure Shards** <img src="../../.gitbook/assets/treasure_shard.png" alt="" data-size="original"> , it will be auto converted to one **Common Treasure.** The item drop rate table when open  **Common Treasure** can be find in this **Gacha** page**:** [#3.1-common-treasure](../../playposeidon/earn-mechanism/gacha-items.md#3.1-common-treasure "mention")****
 
-_This_ **Common Treasure** _item is Non-Tradable Item_
-
 ### <mark style="color:blue;">2 Rare Treasure of the Sea</mark> ![](../../.gitbook/assets/Chest\_rare.png)
 
 Open to get Item at the same Drop Rate as **Common Treasure**. See [#3.2-rare-treasure-of-the-sea](treasure-loot-box.md#3.2-rare-treasure-of-the-sea "mention")

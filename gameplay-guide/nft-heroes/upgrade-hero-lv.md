@@ -52,11 +52,11 @@ In order to upgrade Hero to LV7 LV8 LV9 and above, player will be required to ha
 
 &#x20;****&#x20;
 
-| Upgrade Hero Level | Item Requirement                                | Note                                                              |
-| ------------------ | ----------------------------------------------- | ----------------------------------------------------------------- |
-| LV6 -> LV7\*       | ![](../../.gitbook/assets/exp\_scroll\_lv7.png) | **Upgrade Scroll Level 7** can be acquired from **Boss Treasure** |
-| LV7 -> LV8\*       | ![](../../.gitbook/assets/exp\_scroll\_lv8.png) | **Upgrade Scroll Level 8** can be acquired from **Boss Treasure** |
-| LV8 -> LV9\*       | ![](../../.gitbook/assets/exp\_scroll\_lv9.png) | **Upgrade Scroll Level 9** can be acquired from **Boss Treasure** |
+| Upgrade Hero Level | Item Requirement                                      | Note                                                              |
+| ------------------ | ----------------------------------------------------- | ----------------------------------------------------------------- |
+| LV6 -> LV7\*       | ![](<../../.gitbook/assets/exp\_scroll\_lv7 (1).png>) | **Upgrade Scroll Level 7** can be acquired from **Boss Treasure** |
+| LV7 -> LV8\*       | ![](../../.gitbook/assets/exp\_scroll\_lv8.png)       | **Upgrade Scroll Level 8** can be acquired from **Boss Treasure** |
+| LV8 -> LV9\*       | ![](<../../.gitbook/assets/exp\_scroll\_lv9 (1).png>) | **Upgrade Scroll Level 9** can be acquired from **Boss Treasure** |
 
 Higher Hero Tier will require more number of **Upgrade Scroll** than lower tier according to the table below. For ex: <mark style="color:yellow;">**A-Tier**</mark>** Hero** **LV6** will require 16 **Upgrade Scroll Level 7** to normal upgrade to **LV7** and 16 **Upgrade Scroll Level 8** to normal upgrade to **LV8**
 
