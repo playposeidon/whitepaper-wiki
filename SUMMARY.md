@@ -15,6 +15,7 @@
   * [🆓 Free-Play F2E service (Scholar)](playposeidon/earn-mechanism/free-play-f2e-service-scholar.md)
   * [🎲 Gacha Items](playposeidon/earn-mechanism/gacha-items.md)
   * [🏆 High Score achiever](playposeidon/earn-mechanism/high-score-achiever.md)
+  * [💌 Become Referrer (Refer Friend)](playposeidon/earn-mechanism/become-referrer-refer-friend.md)
 * [💹 Game Economics](playposeidon/game-economics/README.md)
   * [💰 Claim Reward and Tax](playposeidon/game-economics/claim-reward-and-tax.md)
 * [📆 Road Map](playposeidon/road-map/README.md)

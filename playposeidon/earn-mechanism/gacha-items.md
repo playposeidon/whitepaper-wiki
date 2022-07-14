@@ -8,7 +8,7 @@ description: Gacha - Egg - Treasure - Roll - Gamble
 
 In **PlayPoseidon** there are many **Gacha** type items, but can be categorized into these groups.
 
-### 1. Totem
+## 1. Totem
 
 When summon a **Hero** using **Totem** there is a chance involve in which you may be able to summon **super rare Hero** which can receive Double, Triple, Quadruple daily income during a particular month in a year. Check out this page: [zodiac-signs.md](../../gameplay-guide/nft-heroes/zodiac-signs.md "mention") for details on income increase.
 
@@ -20,7 +20,7 @@ When summon a **Hero** using **Totem** there is a chance involve in which you ma
 | <mark style="color:green;">**Grade C**</mark> ![](../../.gitbook/assets/Totem\_C\_icon.png)  | 15.38%                | 0%                    | 0%                       | 0%                        |
 | <mark style="color:blue;">**Grade D**</mark>                                                 | 15.38%                | 0%                    | 0%                       | 0%                        |
 
-### 2. Egg
+## 2. Egg
 
 An Egg can be open to spawn a NFT Pet with random rarity. Check out this [nft-pets](../../gameplay-guide/nft-pets/ "mention") page to understand the impact of different pet rarity. One Egg is only able to spawn 1 NFT Pet.
 
@@ -64,7 +64,7 @@ Below is the spawn chance table when open one <mark style="color:yellow;">**Lege
 
 <mark style="color:yellow;">**Legendary Egg**</mark> is very rare. It can only be acquired in a very limited way.
 
-### 3. Treasure (in Q2-2022)
+## 3. Treasure
 
 A Treasure is a loot box item dropped when defeat **Boss** monster. Player can open this loot box and get a bunch of Item. 1 Treasure box can drop multiple items at the same time. But it is recommended to open as many **Treasure** at the same time as possible to unlock all potential item drop.
 
@@ -91,7 +91,7 @@ For example: when this feature is release it will give the maximum 506.94% APY w
 ****+In the futures, **Rare Treasure** may be required to put in a Farm inside a City and the on-chain **PPP** amount may be required to stake in a Smart Contract in order to receive Staking Income
 {% endhint %}
 
-### <mark style="color:purple;">3.3 Hidden Epic Treasure</mark> ![](../../.gitbook/assets/Chest\_epic.png)<mark style="color:purple;"></mark>
+### <mark style="color:purple;">3.3 Epic Treasure</mark> ![](../../.gitbook/assets/Chest\_epic.png)<mark style="color:purple;"></mark>
 
 This is a special type of treasure which require player to have an <mark style="color:purple;">**Epic Key**</mark> ![](../../.gitbook/assets/key\_epic.png)to open. \
 This treasure have 2 unique features:\
@@ -99,7 +99,7 @@ This treasure have 2 unique features:\
 2.When player is not receiving any item from treasure (worst case scenario), he will receive a big amount of **1200** _On-Chain_ **PPP** instead. \
 This treasure can be acquired by participate in fighting <mark style="color:purple;">**Epic Boss**</mark>** ** in dungeon raid or random drop from **Common Treasure**. <mark style="color:purple;">**Epic Key**</mark> can be purchased in the In-Game Store with **200** **PPP**.
 
-### <mark style="color:yellow;">3.4 Hidden Legendary Treasure</mark> ![](../../.gitbook/assets/Chest\_legendary.png)<mark style="color:yellow;"></mark>
+### <mark style="color:yellow;">3.4 Legendary Treasure</mark> ![](../../.gitbook/assets/Chest\_legendary.png)<mark style="color:yellow;"></mark>
 
 This is a special type of treasure which require player to have a <mark style="color:yellow;">**Legendary Key**</mark> ![](../../.gitbook/assets/key\_legendary.png)to open. \
 This treasure will give a lot more number of items when open (check the second Sheet of the Treasure drop-rate table above): \
@@ -107,3 +107,40 @@ This treasure will give a lot more number of items when open (check the second S
 2\. A few item are guaranteed to drop\
 3\. Most item will drop at x2 quantity. \
 4\. Drop rate for all item is 5x higher compare to other treasure.\ <mark style="color:yellow;">****</mark>\ <mark style="color:yellow;">****</mark>This treasure can be acquired by participate in fighting <mark style="color:yellow;">**Legendary Boss**</mark>  in dungeon raid or random drop from **Common Treasure**.  <mark style="color:yellow;">**Legendary Key**</mark>** **<mark style="color:purple;">****</mark> can be purchased in the In-Game Store with **0.1** **BNB**.
+
+## 4. Fortuna Lucky Spin
+
+### 4.1 Lucky Spin Prizes List
+
+The prizes list is also available in-game to see when you click the \[!] yellow button in the Fortuna feature screen.&#x20;
+
+| Prizes                                                              | Chance to Receive | Note |
+| ------------------------------------------------------------------- | ----------------- | ---- |
+| 12 **PPP**                                                          | Very High         |      |
+| 3 **GLT**                                                           | Very High         |      |
+| 1 Minor HP Potion                                                   | Very High         |      |
+| 1 Light HP Potion                                                   | Medium            |      |
+| 1 Greater HP Potion                                                 | Low               |      |
+| 1 Super HP Potion                                                   | Very Low          |      |
+| 1 Minor MP Potion                                                   | Very High         |      |
+| 1 Light MP Potion                                                   | Medium            |      |
+| 1 Greater MP Potion                                                 | Low               |      |
+| 1 Super MP Potion                                                   | Very Low          |      |
+| 1 Minor SP Potion                                                   | Very High         |      |
+| 1 Light SP Potion                                                   | Medium            |      |
+| 1 Greater SP Potion                                                 | Low               |      |
+| 1 Super SP Potion                                                   | Very Low          |      |
+| 5 **Common Treasure**                                               | High              |      |
+| 5 <mark style="color:blue;">**Rare Treasure**</mark>                | Low               |      |
+| 5 <mark style="color:purple;">**Epic Treasure**</mark>              | Low               |      |
+| 5 <mark style="color:yellow;">**Legendary Treasure**</mark>         | Very Low          |      |
+| 2 **Common Egg**                                                    | Low               |      |
+| 2 <mark style="color:blue;">**Rare Egg**</mark>                     | Low               |      |
+| 2 <mark style="color:yellow;">**Legendary Egg**</mark>              | Extremely Low     |      |
+| 3 <mark style="color:purple;">**Light Elixir of Deep Sea**</mark>   | Low               |      |
+| 3 <mark style="color:yellow;">**Greater Elixir of Deep Sea**</mark> | Very Low          |      |
+| 3 <mark style="color:red;">**Super Elixir of Deep Sea**</mark>      | Extremely Low     |      |
+
+### 4.2 Good Luck Token (GLT) ![](<../../.gitbook/assets/lucky totem.png>)
+
+Player can used this token to play the Fortuna Lucky Spin game. Each spin will cost 1 GLT. This token is currently a non-transferable item. Check this page on how to acquire this token: [#1.-good-luck-token-glt](../../gameplay-guide/nft-items/token-currency.md#1.-good-luck-token-glt "mention")
