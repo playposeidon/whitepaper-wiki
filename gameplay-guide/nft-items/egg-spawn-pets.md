@@ -16,7 +16,7 @@ description: Egg - NFT Pet - Shop
 
 This is the typical and most used to spawn a Pet. This item can be purchased from the **In-Game Shop.** When a player open one **Common Egg**, it will hatched and spawn 1 **Pet** with a random rarity level from: **Common** up to <mark style="color:red;">**Mythical**</mark> (Check this for spawn chances:[#2.1-common-egg](../../playposeidon/earn-mechanism/gacha-items.md#2.1-common-egg "mention"))
 
-Price of **Common Egg** will be pegged to USD with the price of **36 BUSD**/egg. Its price in **PPP** will be updated hourly based on current price of **PPP** token to reflect this pegging.&#x20;
+Price of **Common Egg** can be pegged to USD in the situation when the token PPP is increased in value
 
 ### <mark style="color:blue;">**2. Rare Egg:**</mark> <img src="../../.gitbook/assets/Egg_Rare.png" alt="" data-size="line">
 
