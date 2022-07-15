@@ -116,32 +116,32 @@ This treasure will give a lot more number of items when open (check the second S
 
 The prizes list is also available in-game to see when you click the \[ ! ] yellow button in the Fortuna feature screen:  ![](<../../.gitbook/assets/image (1).png>) click (SPIN) and wait for the prize
 
-| Prizes                                                              | Chance to Receive | Note |
-| ------------------------------------------------------------------- | ----------------- | ---- |
-| 12 **PPP**                                                          | Very High         |      |
-| 3 **GLT**                                                           | Very High         |      |
-| 1 Minor HP Potion                                                   | Very High         |      |
-| 1 Light HP Potion                                                   | Medium            |      |
-| 1 Greater HP Potion                                                 | Low               |      |
-| 1 Super HP Potion                                                   | Very Low          |      |
-| 1 Minor MP Potion                                                   | Very High         |      |
-| 1 Light MP Potion                                                   | Medium            |      |
-| 1 Greater MP Potion                                                 | Low               |      |
-| 1 Super MP Potion                                                   | Very Low          |      |
-| 1 Minor SP Potion                                                   | Very High         |      |
-| 1 Light SP Potion                                                   | Medium            |      |
-| 1 Greater SP Potion                                                 | Low               |      |
-| 1 Super SP Potion                                                   | Very Low          |      |
-| 5 **Common Treasure**                                               | High              |      |
-| 5 <mark style="color:blue;">**Rare Treasure**</mark>                | Low               |      |
-| 5 <mark style="color:purple;">**Epic Treasure**</mark>              | Low               |      |
-| 5 <mark style="color:yellow;">**Legendary Treasure**</mark>         | Very Low          |      |
-| 2 **Common Egg**                                                    | Low               |      |
-| 2 <mark style="color:blue;">**Rare Egg**</mark>                     | Low               |      |
-| 2 <mark style="color:yellow;">**Legendary Egg**</mark>              | Extremely Low     |      |
-| 3 <mark style="color:purple;">**Light Elixir of Deep Sea**</mark>   | Low               |      |
-| 3 <mark style="color:yellow;">**Greater Elixir of Deep Sea**</mark> | Very Low          |      |
-| 3 <mark style="color:red;">**Super Elixir of Deep Sea**</mark>      | Extremely Low     |      |
+| Prizes                                                              | Chance to Receive | Note                    |
+| ------------------------------------------------------------------- | ----------------- | ----------------------- |
+| 12 **PPP**                                                          | Very High         |                         |
+| 3 **GLT**                                                           | Very High         |                         |
+| 1 Minor HP Potion                                                   | Very High         |                         |
+| 1 Light HP Potion                                                   | Medium            |                         |
+| 1 Greater HP Potion                                                 | Low               |                         |
+| 1 Super HP Potion                                                   | Very Low          |                         |
+| 1 Minor MP Potion                                                   | Very High         |                         |
+| 1 Light MP Potion                                                   | Medium            |                         |
+| 1 Greater MP Potion                                                 | Low               |                         |
+| 1 Super MP Potion                                                   | Very Low          |                         |
+| 1 Minor SP Potion                                                   | Very High         |                         |
+| 1 Light SP Potion                                                   | Medium            |                         |
+| 1 Greater SP Potion                                                 | Low               |                         |
+| 1 Super SP Potion                                                   | Very Low          |                         |
+| 5 **Common Treasure**                                               | High              |                         |
+| 5 <mark style="color:blue;">**Rare Treasure**</mark>                | Low               |                         |
+| 5 <mark style="color:purple;">**Epic Treasure**</mark>              | Low               |                         |
+| 5 <mark style="color:yellow;">**Legendary Treasure**</mark>         | Very Low          |                         |
+| 2 **Common Egg**                                                    | Low               |                         |
+| 2 <mark style="color:blue;">**Rare Egg**</mark>                     | Low               |                         |
+| 2 <mark style="color:yellow;">**Legendary Egg**</mark>              | Extremely Low     |                         |
+| 3 <mark style="color:purple;">**Light Elixir of Deep Sea**</mark>   | Low               | Treat Curse of Poseidon |
+| 3 <mark style="color:yellow;">**Greater Elixir of Deep Sea**</mark> | Very Low          | Treat Curse of Poseidon |
+| 3 <mark style="color:red;">**Super Elixir of Deep Sea**</mark>      | Extremely Low     | Treat Curse of Poseidon |
 
 ### 4.2 Good Luck Token (GLT) ![](<../../.gitbook/assets/lucky totem.png>)
 

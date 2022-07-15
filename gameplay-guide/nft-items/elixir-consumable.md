@@ -10,4 +10,4 @@ These type of item is usually used for Treatment of a certain curse or disease
 
 ![Minor Elixir of Deep Sea](../../.gitbook/assets/Elixir\_level\_1.png) ![Light Elixir of Deep Sea](../../.gitbook/assets/Elixir\_level\_2.png) ![Greater Elixir of Deep Sea](../../.gitbook/assets/Elixir\_level\_3.png) ![Super Elixir of Deep Sea](../../.gitbook/assets/Elixir\_level\_4.png)
 
-This item is used to treat the Curse of Poseidon. When used, the Hero Efficiency can get back to 100%. Details for this type of Elixir will be released in the incoming patch update.
+This item is used to treat the Curse of Poseidon. When used, the Hero Efficiency can get back to 100%. This item can only be acquired by playing the Fortuna mini game **Lucky Spin**. Details for this type of Elixir will be released in the incoming patch update.

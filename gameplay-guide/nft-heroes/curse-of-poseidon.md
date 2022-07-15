@@ -45,4 +45,6 @@ But it will not allow to merge 1 Hero 1% Efficiency and 1 Hero 50% Efficiency
 
 ### 4. Alternative way to reset the Curse of Poseidon
 
-By using an item name **Elixir of Deep Sea**, you will be able to reset the Curse of your Hero back to 100% Efficiency, the details on how to use this item to treat _the Curse of Poseidon_ will be released later.
+By using an item name **Elixir of Deep Sea**, you will be able to reset the Curse of your Hero back to 100% Efficiency. This item can only be acquired by playing the Fortuna mini game **Lucky Spin.** (check this page: [#4.-fortuna-lucky-spin](../../playposeidon/earn-mechanism/gacha-items.md#4.-fortuna-lucky-spin "mention"))
+
+The details on how to use this item to treat _the Curse of Poseidon_ will be released later.
