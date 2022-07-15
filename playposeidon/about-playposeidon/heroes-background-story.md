@@ -79,7 +79,7 @@ While living in **Cinapura** royal palace, she only loves her husband, her son, 
 Recently after discovering her husband's unfaithful relationship with other ladies, she got really mad and fly to a witch temple near the border of **Cinapura** and **Sinatra** to live by herself and practice witchcraft. She still loves her son **Yudon** very much though.
 
 {% hint style="info" %}
-**Sinatra:** The kingdom of witches and sorcerers, a neighbor country of **Cinapura.** All of the greatest sorcerers and witches are from here, a lot of people also come here to practice witchcraft and sorcery in many thousand years old temples across the country.
+**Sinatra:** The kingdom of witches and sorcerers, a neighboring country of **Cinapura.** All of the greatest sorcerers and witches are from here, a lot of people also come here to practice witchcraft and sorcery in many thousand years old temples across the country.
 
 **Kudon**: younger brother of the King of **Cinapura.** He is father of **Yudon,** and **Siri**'s husband. He is well-known for his charm and handsomeness. He is usually tasked by his brother to deal with **Cinapura** international affair.
 
