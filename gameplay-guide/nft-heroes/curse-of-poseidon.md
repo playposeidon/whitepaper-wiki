@@ -48,3 +48,11 @@ But it will not allow to merge 1 Hero 1% Efficiency and 1 Hero 50% Efficiency
 By using an item name **Elixir of Deep Sea**, you will be able to reset the Curse of your Hero back to 100% Efficiency. This item can only be acquired by playing the Fortuna mini game **Lucky Spin.** (check this page: [#4.-fortuna-lucky-spin](../../playposeidon/earn-mechanism/gacha-items.md#4.-fortuna-lucky-spin "mention"))
 
 The details on how to use this item to treat _the Curse of Poseidon_ will be released later.
+
+### 5. Curse of Poseidon and Free To Play
+
+If the player decided to rent the cursed NFT Hero (Hero with less than 100% _efficiency_) to F2P service to play on his behalf, the _efficiency_ of the Hero will affect the F2P feature in a different way. It will affect the minimum shared ratio to scholar for that particular NFT Hero instead of the battle match PPP reward. It will also lower the Map LV that owner can choose for that Hero.&#x20;
+
+For example, if a Hero A LV5 with 51% **** _efficiency_ is rent to F2P service, the shared ratio the owner set when create the offer must greater than or equal 49%, and also owner can only choose Map LV4 instead of LV5 to create offer. (Map LV will decrease on a log scale)
+
+There will be no reduce to the PPP reward the F2P match that used this Hero to play. Instead only shared ratio to scholar is now greatly increase. This is to ensure F2P player is able to earn a decent income from those offer created from these cursed NFT Heroes.
