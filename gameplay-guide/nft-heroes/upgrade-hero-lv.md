@@ -18,12 +18,11 @@ Each individual Hero that you owned have an Experience bar. In order to level up
 | Hero LV4   | 960 EXP (LV3 -> LV4)                                        | 5200 EXP    |
 | Hero LV5   | 4000 EXP (LV4 -> LV5)                                       | 18000 EXP   |
 | Hero LV6   | 12800 EXP (LV5 -> LV6)                                      | 50000 EXP   |
-| Hero LV7   | 32000 EXP LV6 -> LV7)                                       | 99999       |
-| Hero LV8\* | ? EXP (LV7 -> LV8)                                          | ?           |
-| Hero LV9\* | ? EXP (LV8 -> LV9)                                          | ?           |
+| Hero LV7\* | 32000 EXP LV6 -> LV7)                                       | 130000 EXP  |
+| Hero LV8\* | 80000 EXP (LV7 -> LV8)                                      | 330000 EXP  |
+| Hero LV9\* | 200000 EXP (LV8 -> LV9)                                     | ?           |
 
 {% hint style="info" %}
-\*LV8 LV9 is not yet enabled, however Hero LV7 can keep gaining experience to prepare for LV8 upgrade\
 \*Hero LV7 LV8 LV9 will also require **Upgrade Scroll Level 7 8 9** in order to normal upgrade. (Check out **1.3**)
 {% endhint %}
 
@@ -31,16 +30,16 @@ Each individual Hero that you owned have an Experience bar. In order to level up
 
 To upgrade Hero to next level once your Hero have full EXP bar, you also need to pay an amount of PPP based on your Hero daily farm-cap, according to the Upgrade Fee table below:
 
-| Upgrade Hero Level | Tier A       | Tier B       | Tier C       |
-| ------------------ | ------------ | ------------ | ------------ |
-| LV1 -> LV2         | 16x farm-cap | 16x farm-cap | 16x farm-cap |
-| LV2 -> LV3         | 20x farm-cap | 20x farm-cap | 20x farm-cap |
-| LV3 -> LV4         | 24x farm-cap | 24x farm-cap | 24x farm-cap |
-| LV4 -> LV5         | 26x farm-cap | 26x farm-cap | 26x farm-cap |
-| LV5 -> LV6         | 24x farm-cap | 24x farm-cap | 24x farm-cap |
-| LV6 -> LV7         | 24x farm-cap | 24x farm-cap | 24x farm-cap |
-| LV7 -> LV8\*       | ?            | ?            | ?            |
-| LV8 -> LV9\*       | ?            | ?            | ?            |
+| Upgrade Hero Level | Tier A         | Tier B         | Tier C         |
+| ------------------ | -------------- | -------------- | -------------- |
+| LV1 -> LV2         | 16x farm-cap   | 16x farm-cap   | 16x farm-cap   |
+| LV2 -> LV3         | 20x farm-cap   | 20x farm-cap   | 20x farm-cap   |
+| LV3 -> LV4         | 24x farm-cap   | 24x farm-cap   | 24x farm-cap   |
+| LV4 -> LV5         | 26x farm-cap   | 26x farm-cap   | 26x farm-cap   |
+| LV5 -> LV6         | 24x farm-cap   | 24x farm-cap   | 24x farm-cap   |
+| LV6 -> LV7         | 24x farm-cap   | 24x farm-cap   | 24x farm-cap   |
+| LV7 -> LV8\*       | 23.5x farm-cap | 23.5x farm-cap | 23.5x farm-cap |
+| LV8 -> LV9\*       | 22x farm-cap   | 22x farm-cap   | 22x farm-cap   |
 
 {% hint style="info" %}
 \*LV8 LV9 is not yet enabled
