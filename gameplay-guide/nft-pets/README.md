@@ -53,12 +53,14 @@ Each NFT Pet have a energy bar. After each winning match your Pet will lose some
 | Level 8              | -8 Energy per Match                                                                              | -7 Energy/Match                                  | -6 Energy/Match                              |
 | Level 9              | -9 Energy per Match                                                                              | -8 Energy/Match                                  | -7 Energy/Match                              |
 
-Also higher rarity Pet may give a small EXP bonus per match. <mark style="color:red;">**Mythical**</mark> pet EXP bonus giving a conversion of 1 Energy to **4 EXP**, <mark style="color:yellow;">**Legendary**</mark> giving a conversion of 1 Energy to **2 EXP.** You can check this excel file below to fully understand the impact of Pet Rarity level when leveling up your Hero.&#x20;
+Also higher rarity Pet may give a small EXP increase to the base EXP reward per match. For example <mark style="color:red;">**Mythical**</mark> pet giving a max conversion of 1 Energy to **6 EXP**, <mark style="color:yellow;">**Legendary**</mark> giving a max conversion of 1 Energy to **3 EXP.** You can check this excel file below to fully understand the impact of Pet Rarity level when leveling up your Hero.&#x20;
 
 {% embed url="https://docs.google.com/spreadsheets/d/1FYfa2-MHKCJOYbPH3jDbX5t9KG2_nJKaa4cWuNRmACA/edit?usp=sharing" %}
+
+These above number are counting only the base EXP reward of the Hero without any EXP bonuses from other feature such as: Double/Triple EXP event, Casual Boss EXP bonus, Dungeon Raid Boss EXP bonus, Chaos Castle Victory Claim EXP bonus and especially Low _Efficiency_ Hero EXP multiplier factor bonus. All bonuses will not impact the Pet energy and utilized all these feature make the energy conversion to EXP even much much higher than just the relied on the base EXP reward.
 
 ### Other Attributes:
 
 #### A NFT Pet can be either a male :male\_sign: or a female :female\_sign:&#x20;
 
-This will be displayed on the NFT Pet card or Pet detail. In **2021 Q4** the Game will release **NFT Farming** feature to allow NFT Pet owner to use a pair of Pet of different sex to breed a new Pet **Egg**&#x20;
+This will be displayed on the NFT Pet card or Pet detail. In **2022 Q4** the Game will release **NFT Farming** feature to allow NFT Pet owner to use a pair of Pet of different sex to breed a new Pet **Egg**&#x20;

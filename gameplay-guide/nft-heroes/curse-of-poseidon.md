@@ -86,7 +86,7 @@ For example, if a Hero A LV5 with 51% **** _Efficiency_ is rent to F2P service, 
 
 There will be no reduce to the PPP reward the F2P match that used this Hero to play. Instead only shared ratio to scholar is now greatly increase. This is to ensure F2P player is able to earn a decent income from those offer created from these cursed NFT Heroes.
 
-Furthermore, when the Curse start to kicked in (<100% _Efficiency)_, the Pet energy deduction will become a constant (regardless of Map LV) and based on the Rarity of the Pet itself following the below table:
+Furthermore, when the Curse start to kicked in (<100% _Efficiency)_, the Pet energy deduction for F2P match will become a constant (regardless of Map LV) and based on the Rarity of the Pet itself following the below table:
 
 | Pet's Rarity                                     | Energy point deduct per F2P match | Theoretically max number of match for one day | Note                  |
 | ------------------------------------------------ | --------------------------------- | --------------------------------------------- | --------------------- |
