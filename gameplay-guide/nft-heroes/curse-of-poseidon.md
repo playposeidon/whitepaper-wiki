@@ -41,7 +41,7 @@ Based on the Hero Level, The % Efficiency of the Hero will only go as low as the
 | Hero LV8   | 1.2%                        |      |
 | Hero LV9   | 1%                          |      |
 
-The halving duration of Hero _Efficiency_ is calculated so that it will exactly reach the minimum value after 12 days. Furthermore, there is a basic income per match to allow player feel their playing time worth. Even if the curse make the Hero _Efficiency_ go very low, a single match reward will never be lower than this **Basic Income** value according to this:
+The halving duration of Hero _Efficiency_ is calculated so that it will exactly reach the minimum value after 12 days. Furthermore, there is a **Basic Income** per match to allow player feel their playing time worth. Even if the curse make the Hero _Efficiency_ go very low, a single match reward will never be lower than this **Basic Income** value according to this:
 
 * <mark style="color:yellow;">**Hero Tier A:**</mark>** 3 PPP** per match
 * <mark style="color:purple;">**Hero Tier B**</mark>: **2 PPP** per match
@@ -53,7 +53,7 @@ This **Basic Income** is subjected to change by the team based on the current Pr
 
 Once the Hero _Efficiency_ is reduced to a value lower than 50%, for every match that this Hero is used to play (regardless of Normal or F2P), the Hero will receive a bonus in EXP equal to: **1X + 1** of the base EXP reward value. This is similar to as if there is always a **Double EXP +1** Event applied to Hero with _Efficiency_ lower than 50%.
 
-Especially when the Hero _Efficiency_ reach the minimum value corresponding to the Hero LV (table above), then the EXP multiplier factor bonus will become: **2X + 2**\
+Especially when the Hero _Efficiency_ reach the minimum value corresponding to the Hero LV (table above), then the EXP multiplier factor bonus will become: **2X + 2** (equal to **Triple EXP +2**)\
 ****This allow the Player whom own the Hero with low _Efficiency_ can quickly level it up to the next LV.
 
 ### 3. Curse delay **accumulation** when Upgrade NFT Hero
@@ -96,4 +96,4 @@ Furthermore, when the Curse start to kicked in (<100% _Efficiency)_, the Pet ene
 | <mark style="color:yellow;">**Legendary**</mark> | 0.15                              | 666                                           | All Map LV            |
 | <mark style="color:red;">**Mythical**</mark>     | 0                                 | Unlimited                                     | All Map LV            |
 
-This change in Pet Energy deduction in F2P for Cursed Hero should allow the Hero's offer to be picked up and play a lot of time during a day without the owner have to own a large number of Pets but rather own a few high Rarity Pets. And along with the EXP Multiplier Factor bonus for low efficiency Hero, it shouldn't be long for the Hero gain enough EXP to level up to the next LV when put into F2P mode.
+This change in Pet Energy deduction in F2P for Cursed Hero should allow the Hero's offer to be picked up and play a lot of time during a day without the owner have to own a large number of Pets but rather own a few high Rarity Pets. Along with the EXP Multiplier Factor bonus for low efficiency Hero, it shouldn't be long for the Hero gain enough EXP to level up to the next LV when put into F2P mode.
