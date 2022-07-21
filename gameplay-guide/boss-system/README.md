@@ -30,9 +30,9 @@ For this type of boss, there are 2 rarity boss level: <mark style="color:purple;
 
 ### 3. World Boss - Kaiju Event
 
-This boss is purely event based (usually once per 2 months). The entire players pool must join forces to defend the cities from this humongous Kaiju World Boss monster. Players have **52 hours** to defeat this Boss or else face consequences. \
+This boss is purely event based. The entire players pool must join forces to defend the cities from this humongous Kaiju World Boss monster. All Players must defeat this Boss in a limited amount of time or else face consequences. \
 If this Boss is defeated in-time then the **Olympian God will give blessing to increase daily PPP reward to all player by 25-100%** in 1 week. \
-_Failure to defend the cities_ from this Boss in 52 hours **** will make all player suffer from farming PPP for 1 week, player will find that they need to play more number of battle matches in-order to fully farm the daily farm-cap. The same Kaiju World Boss will come back to wreak havoc to city next week and player need to try to defend the city again, although the Boss total HP will be reduced by 25-50% this time.
+_Failure to defend the cities_ from this Boss in the limited time **** will make all player suffer from farming PPP for 1 week, player will find that they need to play more number of battle matches in-order to fully farm the daily farm-cap. The same Kaiju World Boss will come back to wreak havoc to city next week and player need to try to defend the city again, although the Boss total HP will be reduce a little bit each time.
 
 For this type of boss, there is only 1 rarity boss level: <mark style="color:red;">**Mythical Boss**</mark>** **<mark style="color:yellow;">****</mark> with power so extreme that it can wipe out the low Level Hero in a single shot. This boss will give an enormous treasure reward to the Player deal the most damage to it. Other players deal huge amount of damage are also rewarded with treasure.
 
