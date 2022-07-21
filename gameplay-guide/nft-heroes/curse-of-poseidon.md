@@ -51,9 +51,9 @@ This **Basic Income** is subjected to change by the team based on the current Pr
 
 ### 2.b Hero EXP multiplier factor bonus when at low Efficiency
 
-Once the Hero _Efficiency_ is reduced to a value lower than 50%, for every match that this Hero is used to play (regardless of Normal or F2P), the Hero will receive a bonus in EXP equal to: **2X + 1** of the base EXP reward value. This is similar to as if there is always a Double EXP even applied to Hero with _Efficiency_ lower than 50%.
+Once the Hero _Efficiency_ is reduced to a value lower than 50%, for every match that this Hero is used to play (regardless of Normal or F2P), the Hero will receive a bonus in EXP equal to: **1X + 1** of the base EXP reward value. This is similar to as if there is always a **Double EXP +1** Event applied to Hero with _Efficiency_ lower than 50%.
 
-Especially when the Hero _Efficiency_ reach the minimum value corresponding to the Hero LV (table above), then the EXP multiplier factor bonus will become: **3X + 2**\
+Especially when the Hero _Efficiency_ reach the minimum value corresponding to the Hero LV (table above), then the EXP multiplier factor bonus will become: **2X + 2**\
 ****This allow the Player whom own the Hero with low _Efficiency_ can quickly level it up to the next LV.
 
 ### 3. Curse delay **accumulation** when Upgrade NFT Hero
