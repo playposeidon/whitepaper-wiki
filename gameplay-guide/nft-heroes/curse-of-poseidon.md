@@ -49,6 +49,8 @@ The halving duration of Hero _Efficiency_ is calculated so that it will exactly 
 
 This **Basic Income** is subjected to change by the team based on the current Price of **PPP** token. ****&#x20;
 
+Due to the **Basic Income**, to prevent people abusing it with automated software we need to put a restriction: If Hero is under cursed, player can only use this Hero to fight Map LV which is greater or equal to the Hero LV - 2 (or Hero LV - 1 if the Hero Efficiency is at minimum value). This restriction is not applied to Hero LV lower than LV3 or Hero Efficiency >= 50%
+
 ### 2.b Hero EXP multiplier factor bonus when at low Efficiency
 
 Once the Hero _Efficiency_ is reduced to a value lower than 50%, for every match that this Hero is used to play (regardless of Normal or F2P), the Hero will receive a bonus in EXP equal to: **1X + 1** of the base EXP reward value. This is similar to as if there is always a **Double EXP +1** Event applied to Hero with _Efficiency_ lower than 50%.
