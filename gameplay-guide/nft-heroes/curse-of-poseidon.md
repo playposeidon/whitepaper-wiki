@@ -94,8 +94,8 @@ Furthermore, when the Curse start to kicked in (<100% _Efficiency)_, the Pet ene
 | ------------------------------------------------ | --------------------------------- | --------------------------------------------- | --------------------- |
 | **Common**                                       | 2                                 | 20                                            | Map LV1 will deduct 1 |
 | <mark style="color:blue;">**Rare**</mark>        | 1.5                               | 30                                            | Map LV1 will deduct 1 |
-| <mark style="color:purple;">**Epic**</mark>      | 0.6                               | 66                                            | All Map LV            |
-| <mark style="color:yellow;">**Legendary**</mark> | 0.15                              | 666                                           | All Map LV            |
+| <mark style="color:purple;">**Epic**</mark>      | 0.4                               | 100                                           | All Map LV            |
+| <mark style="color:yellow;">**Legendary**</mark> | 0.1                               | 1000                                          | All Map LV            |
 | <mark style="color:red;">**Mythical**</mark>     | 0                                 | Unlimited                                     | All Map LV            |
 
 This change in Pet Energy deduction in F2P for Cursed Hero should allow the Hero's offer to be picked up and play a lot of time during a day without the owner have to own a large number of Pets but rather own a few high Rarity Pets. Along with the EXP Multiplier Factor bonus for low efficiency Hero, it shouldn't be long for the Hero gain enough EXP to level up to the next LV when put into F2P mode.
