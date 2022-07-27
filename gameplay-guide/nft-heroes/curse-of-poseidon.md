@@ -67,7 +67,7 @@ LV3 to LV4 can accumulate max 10 days. (total 30 days after upgrade)\
 LV4 to LV5 can accumulate max 15 days. (total 35 days after upgrade)\
 LV5 to LV6 and above can accumulate max 20 days. (total 40 days)
 
-For Quick Upgrade, The number of Curse delay days **accumulated by counting both 2 Heroes**, for example if you have 2 Heroes LV5 with each 10 days left, when merge them together to upgrade to LV6 you will have 1 Hero LV6 with 40 days of 100% _Efficiency_.
+For Quick Upgrade, The number of Curse delay days **accumulated by counting both 2 Heroes** (at half rate), for example if you have 2 Heroes LV5 with each 10 days left, when merge them together to upgrade to LV6 you will have 1 Hero LV6 with 30 days of 100% _Efficiency_. (Each Hero when quick upgrade if there are 10 days left, 5 days will be accumulated each)
 
 But there is a catch, Quick Upgrade will **not allowed to** **merge 2 Heroes with the sum % Efficiency is less than 100%**. For example:\
 You can still merge 2 Heroes both with 50% _Efficiency_\
