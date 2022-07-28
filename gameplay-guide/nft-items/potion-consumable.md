@@ -12,21 +12,21 @@ This potion can be used to instantly recover Hero Health Point during battle or 
 
 This table below describe the effect of each HP Potion for most Heroes:
 
-| Potion            | Effect                                     | Note |
-| ----------------- | ------------------------------------------ | ---- |
-| Minor HP Potion   | Heal 1000 HP plus 25% of max HP instantly  |      |
-| Light HP Potion   | Heal 2000 HP plus 30% of max HP instantly  |      |
-| Greater HP Potion | Heal 5000 HP plus 40% of max HP instantly  |      |
-| Super HP Potion   | Heal 10000 HP plus 60% of max HP instantly |      |
+| Potion                                                   | Effect                                              | Note |
+| -------------------------------------------------------- | --------------------------------------------------- | ---- |
+| **Minor HP Potion**                                      | Heal **1000 HP** plus **25%** of max HP instantly   |      |
+| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **2000 HP** plus **30%** of max HP instantly   |      |
+| <mark style="color:purple;">**Greater HP Potion**</mark> | Heal **5000 HP** plus **40%** of max HP instantly   |      |
+| <mark style="color:yellow;">**Super HP Potion**</mark>   | Heal **10,000 HP** plus **60%** of max HP instantly |      |
 
 And for these particular Heroes: **Kaiya Padley**, **Shana**, **Mikasa**. HP Potion effect is different following this table:
 
-| Potion            | Effect                                                     | Note |
-| ----------------- | ---------------------------------------------------------- | ---- |
-| Minor HP Potion   | Heal 1500 HP instantly. Heal 30% of max HP over 30 second  |      |
-| Light HP Potion   | Heal 3000 HP instantly. Heal 36% of max HP over 30 second  |      |
-| Greater HP Potion | Heal 7500 HP instantly. Heal 48% of max HP over 30 second  |      |
-| Super HP Potion   | Heal 15000 HP instantly. Heal 72% of max HP over 30 second |      |
+| Potion                                                   | Effect                                                              | Note |
+| -------------------------------------------------------- | ------------------------------------------------------------------- | ---- |
+| **Minor HP Potion**                                      | Heal **1500 H**P instantly. Heal **30%** of max HP over 30 second   |      |
+| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **3000 HP** instantly. Heal **36%** of max HP over 30 second   |      |
+| <mark style="color:purple;">**Greater HP Potion**</mark> | Heal **7500 HP** instantly. Heal **48%** of max HP over 30 second   |      |
+| <mark style="color:yellow;">**Super HP Potion**</mark>   | Heal **15,000 HP** instantly. Heal **72%** of max HP over 30 second |      |
 
 ### 2. MP Potion
 
@@ -36,21 +36,21 @@ This potion can be used to quickly recover Weapon Orb Magitek Gas and instantly 
 
 This table below describe the effect of each MP Potion for most Heroes:
 
-| Potion            | Effect                                                                                                                               | Note |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| Minor MP Potion   | Convert up to 2000 MP to Hero Shield at ratio 2:1, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of 100 Gas/s    |      |
-| Light MP Potion   | Convert up to 5000 MP to Hero Shield at ratio 2:1, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of 150 Gas/s    |      |
-| Greater MP Potion | Convert up to 10000 MP to Hero Shield at ratio 1.6:1, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of 250 Gas/s |      |
-| Super MP Potion   | Convert up to 20000 MP to Hero Shield at ratio 1:1, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of 400 Gas/s   |      |
+| Potion                                                   | Effect                                                                                                                                            | Note |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| **Minor MP Potion**                                      | Convert up to **2000 MP** to Hero Shield at ratio **2:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **100 Gas/s**     |      |
+| <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **5000 MP** to Hero Shield at ratio **2:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **150 Gas/s**     |      |
+| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **10,000 MP** to Hero Shield at ratio **1.6:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **250 Gas/s** |      |
+| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **20,000 MP** to Hero Shield at ratio **1:1,** unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **400 Gas/s**   |      |
 
 And for these particular Heroes: **Siri, Samhiri, Yudon**. MP Potion effect is different following this table:
 
-| Potion            | Effect                                                                                                                               | Note |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| Minor MP Potion   | Convert up to 2500 MP to Hero Shield at ratio 2:1, unconverted MP will recover Orb's Magitek-Gas (Mana) at the rate of 200 Gas/s     |      |
-| Light MP Potion   | Convert up to 6250 MP to Hero Shield at ratio 2:1, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of 300 Gas/s    |      |
-| Greater MP Potion | Convert up to 12500 MP to Hero Shield at ratio 1.6:1, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of 500 Gas/s |      |
-| Super MP Potion   | Convert up to 25000 MP to Hero Shield at ratio 1:1, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of 800 Gas/s   |      |
+| Potion                                                   | Effect                                                                                                                                            | Note |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| **Minor MP Potion**                                      | Convert up to **2500 MP** to Hero Shield at ratio **2:1**, unconverted MP will recover Orb's Magitek-Gas (Mana) at the rate of **200 Gas/s**      |      |
+| <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **6250 MP** to Hero Shield at ratio **2:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **300 Gas/s**     |      |
+| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **12,500 MP** to Hero Shield at ratio **1.6:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **500 Gas/s** |      |
+| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **25,000 MP** to Hero Shield at ratio **1:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **800 Gas/s**   |      |
 
 ### 3. SP Potion
 
@@ -60,18 +60,18 @@ This potion can be used to quickly recover Hero Stamina during battle and tempor
 
 This table below describe the effect of each MP Potion for most Heroes:
 
-| Potion            | Effect                                                                               | Note |
-| ----------------- | ------------------------------------------------------------------------------------ | ---- |
-| Minor SP Potion   | Increase 20% Stamina Regen Rate and Max Stamina by 20 points for a duration of 30s   |      |
-| Light SP Potion   | Increase 30% Stamina Regen Rate and Max Stamina by 50 points for a duration of 30s   |      |
-| Greater SP Potion | Increase 50% Stamina Regen Rate and Max Stamina by 100 points for a duration of 30s  |      |
-| Super SP Potion   | Increase 100% Stamina Regen Rate and Max Stamina by 200 points for a duration of 30s |      |
+| Potion                                                   | Effect                                                                                       | Note |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- |
+| **Minor SP Potion**                                      | Increase **20% Stamina Regen** Rate and Max Stamina by **20 points** for a duration of 30s   |      |
+| <mark style="color:blue;">**Light SP Potion**</mark>     | Increase **30% Stamina Regen** Rate and Max Stamina by **50 points** for a duration of 30s   |      |
+| <mark style="color:purple;">**Greater SP Potion**</mark> | Increase **50% Stamina Regen** Rate and Max Stamina by **100 points** for a duration of 30s  |      |
+| <mark style="color:yellow;">**Super SP Potion**</mark>   | Increase **100% Stamina Regen** Rate and Max Stamina by **200 points** for a duration of 30s |      |
 
 And for these particular Heroes: **Freya Aloy, Arya Xu, Mu Qing.** SP Potion effect is different following this table:
 
-| Potion            | Effect                                                                               | Note |
-| ----------------- | ------------------------------------------------------------------------------------ | ---- |
-| Minor SP Potion   | Increase 24% Stamina Regen Rate and Max Stamina by 20 points for a duration of 60s   |      |
-| Light SP Potion   | Increase 36% Stamina Regen Rate and Max Stamina by 50 points for a duration of 60s   |      |
-| Greater SP Potion | Increase 60% Stamina Regen Rate and Max Stamina by 100 points for a duration of 60s  |      |
-| Super SP Potion   | Increase 120% Stamina Regen Rate and Max Stamina by 200 points for a duration of 60s |      |
+| Potion                                                   | Effect                                                                                           | Note |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- |
+| **Minor SP Potion**                                      | Increase **24% Stamina Regen** Rate and Max Stamina by **20 points** for a duration of **60s**   |      |
+| <mark style="color:blue;">**Light SP Potion**</mark>     | Increase **36% Stamina Regen** Rate and Max Stamina by **50 points** for a duration of **60s**   |      |
+| <mark style="color:purple;">**Greater SP Potion**</mark> | Increase **60% Stamina Regen** Rate and Max Stamina by **100 points** for a duration of **60s**  |      |
+| <mark style="color:yellow;">**Super SP Potion**</mark>   | Increase **120% Stamina Regen** Rate and Max Stamina by **200 points** for a duration of **60s** |      |
