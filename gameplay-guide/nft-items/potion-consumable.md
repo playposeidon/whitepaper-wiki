@@ -12,12 +12,12 @@ This potion can be used to instantly recover Hero Health Point during battle or 
 
 This table below describe the effect of each HP Potion for most Heroes:
 
-| Potion                                                   | Effect                                              | Note |
-| -------------------------------------------------------- | --------------------------------------------------- | ---- |
-| **Minor HP Potion**                                      | Heal **1000 HP** plus **25%** of max HP instantly   |      |
-| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **2000 HP** plus **30%** of max HP instantly   |      |
-| <mark style="color:purple;">**Greater HP Potion**</mark> | Heal **5000 HP** plus **40%** of max HP instantly   |      |
-| <mark style="color:yellow;">**Super HP Potion**</mark>   | Heal **10,000 HP** plus **60%** of max HP instantly |      |
+| Potion                                                   | Effect                                              | Note               |
+| -------------------------------------------------------- | --------------------------------------------------- | ------------------ |
+| **Minor HP Potion**                                      | Heal **1000 HP** plus **25%** of max HP instantly   | Normal Match       |
+| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **2000 HP** plus **30%** of max HP instantly   | Casual Boss Match  |
+| <mark style="color:purple;">**Greater HP Potion**</mark> | Heal **5000 HP** plus **40%** of max HP instantly   | Chaos Castle Match |
+| <mark style="color:yellow;">**Super HP Potion**</mark>   | Heal **10,000 HP** plus **60%** of max HP instantly | Raid Boss Match    |
 
 And for these particular Heroes: **Kaiya Padley**, **Shana**, **Mikasa**. HP Potion effect is different following this table:
 
