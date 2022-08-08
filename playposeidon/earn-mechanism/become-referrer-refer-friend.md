@@ -12,7 +12,7 @@ In the latest patch the team has introducing a referral system. Which allow play
 
 Any player in the game can become a Referrer by go to the Fortuna feature screen and click the "CREATE REFERRER CODE" button. By inviting friend to PlayPoseidon and instruct them to key in your REFERRER CODE in the Fortuna feature screen, you both will receive an initial referral reward. Further more, when your friend make any purchase in-game Store using _on-chain_ **PPP**, you as **Referrer** will receive 5% of the amount as Referrer bonus and may also receive some item reward as well.
 
-![FORTUNA](<../../.gitbook/assets/image (1).png>)
+![FORTUNA](<../../.gitbook/assets/image (1) (2).png>)
 
 Player can enter the REFERRER CODE that they got in the above input box then click \[ OK ] to add the friend as his/her Referrer. Once successfully added both player will receive the Initial Reward below. Note that: the game have additional check to prevent malicious people to exploit the referral system.
 

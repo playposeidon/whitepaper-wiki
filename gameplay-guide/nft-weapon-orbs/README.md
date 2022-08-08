@@ -8,7 +8,7 @@ NFT Weapon Orb is one type of NFT Equipment in which these NFT will be bound to 
 
 The NFT Weapon Orb feature can be found in the Hero Detail View, in this view you will see the 3 slot on the left side of your Hero NFT. When you click one of the slot you an Orb Inventory will appear and list all Orbs that is not bound to any Hero and Orbs that is already bound to the current Hero. Orbs which is bound to a different Hero will not be listed in this Orb Inventory.
 
-![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (5).png>)
 
 You can start select one of the Orb and click Equip. If the Orb is not yet bind to this Hero, it will first be bound to the Hero (binding is done on-chain hence some time it may be failed) then equip to the Hero at the selected slot that you have click before. Each Hero have 3 slots to equip 3 different Orbs (Orb with a same name can't be equipped together). Each slot will be unlocked at a different Hero Level:\
 \+Slot 1 at Hero LV4\
