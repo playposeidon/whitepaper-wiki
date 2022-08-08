@@ -25,8 +25,8 @@ During the minting process, the class of the Orb will be chosen randomly depend 
 | **Common**                                       | 300                  | 0                        | 20\*           | 2%                 |
 | <mark style="color:blue;">**Rare**</mark>        | 350                  | 5                        | 40             | 4%                 |
 | <mark style="color:purple;">**Epic**</mark>      | 450                  | 15                       | 80             | 8%                 |
-| <mark style="color:yellow;">**Legendary**</mark> | 600                  | 30                       | 120            | 16%                |
-| <mark style="color:red;">**Mythical**</mark>     | 800                  | 60                       | 200            | 32%                |
+| <mark style="color:yellow;">**Legendary**</mark> | 600                  | 30                       | 160            | 16%                |
+| <mark style="color:red;">**Mythical**</mark>     | 800                  | 60                       | 320            | 32%                |
 
 {% hint style="info" %}
 **Active Gas Consume/s:** This is the amount of Magitek Gas (Mana) that get deducted every seconds when you active the Orb. If the Hero equipped more than 1 Orb, These attribute will be sum together: **Magitek Gas, Active Gas Consumes/s, Bonus Damage when Active, % Bonus PPP Reward**

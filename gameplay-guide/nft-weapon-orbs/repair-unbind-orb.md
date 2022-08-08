@@ -8,7 +8,11 @@ To repair an Orb bound to the NFT Hero Tier-A you will need to have the Repair K
 
 ![Repair Kit Grade A](../../.gitbook/assets/RepairKitA.png) ![Repair Kit Grade B](../../.gitbook/assets/RepairKitB.png) ![Repair Kit Grade C](../../.gitbook/assets/RepairKitC.png)
 
-Each Kit will be able to repair up to 10 Durability Point. If the Orb have % bonus PPP Reward already drop to 0 then each Kit will be able to repair up to 40 Durability Point (Except for **Common Orb** can't be repaired if % bonus PPP is drop to zero). These Kit will be sell in the in-game Store. Prices of these kit will be shared later.
+Each Kit will be able to repair up to 10 Durability Point. For example: A Rare Orb with max Durability is 40 and current Durability is 3 will still require 4 Repair Kits to repair it.
+
+When the % bonus PPP of the Orb is reduced by half then one Kit will be able to repair double the amount of Durability Point. For example: an Epic Orb starting with 8% bonus PPP, when reach 2% bonus PPP will, each Kit will be able to repair up to 40 Durability Point. Based on this fact, for every orb rarity, when it reach the minimum % bonus PPP you will need to used only one Kit to repair it to full Durability.
+
+These Kit will be sell in the in-game Store. Prices of these kit will be shared later.
 
 ### 2. Unbind Orb from Hero
 
