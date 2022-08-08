@@ -4,15 +4,15 @@
 
 To open the Crafting UI you need to click the Top Left Menu button and Select the \[CRAFT] button
 
-![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (5).png>)![](../../.gitbook/assets/image.png)
 
 In order to craft a NFT Weapon Orb, you will be required to give up 2 NFT Pets, these NFT will be burned during the minting process of the orb. When you click the green button on the first square a NFT Pet selection will appear. You will then select 2 NFT Pet to be burned. On the right hand side it will display the Rarity of the Weapon Orb you are going to get after mint and the success chance. In-fact the Rarity of the Orb will always match with the Rarity of the first Pet. If the success chance is low, the mint may failed and resulting to mint the Orb with one Rarity lower than the expected one. If the success chance become 0% you will not be able to craft the Orb.
 
-![](<../../.gitbook/assets/image (8).png>)![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (9).png>)![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (11).png>)![](<../../.gitbook/assets/image (7).png>)![](<../../.gitbook/assets/image (8).png>)![](<../../.gitbook/assets/image (6).png>)
 
 If you have enough material then the \[CRAFT] yellow button will be active, you can then click it an a MetaMask prompt will show up. Please click \[Confirm] to pay the gas fee + mint cost and proceed with the minting process:
 
-![](<../../.gitbook/assets/image (4).png>)\
+![](<../../.gitbook/assets/image (10).png>)\
 To understand how the success chance is calculated, check this below table:
 
 | NFT Pet 1                                        | NFT Pet 2 with sum % buff                                                                                                                                          | Orb Rarity Level and % chance                                                                                                              |

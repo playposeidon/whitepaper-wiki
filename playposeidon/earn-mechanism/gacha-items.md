@@ -110,11 +110,11 @@ This treasure will give a lot more number of items when open (check the second S
 
 ## 4. Fortuna Lucky Spin
 
-![Fortuna feature located on the top left menu](<../../.gitbook/assets/image (4) (1).png>)
+![Fortuna feature located on the top left menu](<../../.gitbook/assets/image (4).png>)
 
 ### 4.1 Lucky Spin Prizes List
 
-The prizes list is also available in-game to see when you click the \[ ! ] yellow button in the Fortuna feature screen:  ![](<../../.gitbook/assets/image (1) (2).png>) click (SPIN) and wait for the prize
+The prizes list is also available in-game to see when you click the \[ ! ] yellow button in the Fortuna feature screen:  ![](<../../.gitbook/assets/image (1).png>) click (SPIN) and wait for the prize
 
 | Prizes                                                              | Chance to Receive | Note                    |
 | ------------------------------------------------------------------- | ----------------- | ----------------------- |

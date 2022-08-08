@@ -20,7 +20,7 @@ This curse will be reset every-time the NFT Hero is upgraded to next Level eithe
 
 ### 2.a Curse Effective Date and Efficiency
 
-![](<../../.gitbook/assets/image (2) (2).png>)![](<../../.gitbook/assets/image (3) (1).png>)\
+![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (3) (1).png>)\
 
 
 On the NFT Hero card, if the Hero is not affected by the _Curse of Poseidon_ yet then there will be a date display on the card (_Yudon_'s Card). This is the Curse Effective Date. Starting from this date, Hero _Efficiency_ will be reduced and the % _Efficiency_ is displayed on the NFT card in-place of the Curse Effective Date (_Mu Qing_'s Card).
