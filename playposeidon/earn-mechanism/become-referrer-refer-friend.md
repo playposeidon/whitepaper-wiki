@@ -6,7 +6,7 @@ description: Referral System - Referrer Bonus
 
 In the latest patch the team has introducing a referral system. Which allow player to earn some small income when they invite their friend to PlayPoseidon. This feature is embedded in the Fortuna feature on the game Top-Left menu:
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ### 1. Referral System
 

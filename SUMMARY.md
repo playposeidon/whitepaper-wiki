@@ -43,6 +43,8 @@
 * [🦁 NFT Pets](gameplay-guide/nft-pets/README.md)
   * [✨ Pet Attributes](gameplay-guide/nft-pets/pet-attributes.md)
   * [❄ Pet Passive Skills](gameplay-guide/nft-pets/pet-passive-skills.md)
+* [🔮   NFT Weapon Orbs](gameplay-guide/nft-weapon-orbs/README.md)
+  * [🔥 Craft Weapon Orb (mint NFT)](gameplay-guide/nft-weapon-orbs/craft-weapon-orb-mint-nft.md)
 * [🎒 NFT Items](gameplay-guide/nft-items/README.md)
   * [🗿 Totem (Summon Hero)](gameplay-guide/nft-items/totem-summon-hero.md)
   * [🥚 Egg (Spawn Pets)](gameplay-guide/nft-items/egg-spawn-pets.md)
