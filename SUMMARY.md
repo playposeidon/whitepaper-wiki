@@ -48,6 +48,8 @@
   * [🔮 Orb Rarity and Class](gameplay-guide/nft-weapon-orbs/orb-rarity-and-class.md)
   * [🆙 Orb Upgrade and Level](gameplay-guide/nft-weapon-orbs/orb-upgrade-and-level.md)
   * [🛠 Repair/Unbind Orb](gameplay-guide/nft-weapon-orbs/repair-unbind-orb.md)
+  * [⚖ Neutral Orbs and Combo](gameplay-guide/nft-weapon-orbs/neutral-orbs-and-combo.md)
+  * [🏵 Orb Passive Skills](gameplay-guide/nft-weapon-orbs/orb-passive-skills.md)
 * [🎒 NFT Items](gameplay-guide/nft-items/README.md)
   * [🗿 Totem (Summon Hero)](gameplay-guide/nft-items/totem-summon-hero.md)
   * [🥚 Egg (Spawn Pets)](gameplay-guide/nft-items/egg-spawn-pets.md)

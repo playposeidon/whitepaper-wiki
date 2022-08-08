@@ -33,6 +33,8 @@ When upgrade to higher LV the Bonus Damage when Active of Orb will be increased 
 | **Orb+14**       | +150                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | 30%, Orb will be burned if failed unless have Chaos Charm |
 | **Orb+15**       | +175                     | <p>Headshot Critical Attack <strong>LV5</strong><br><strong></strong>Gas Consume Reduction <strong>LV4</strong></p> | 27%, Orb will be burned if failed unless have Chaos Charm |
 
+Check out the passive skill here: [orb-passive-skills.md](orb-passive-skills.md "mention")
+
 To upgrade an Orb to next Level you will need to prepare some material:
 
 From **Orb+1** to **Orb+4, Orb+5**: \
