@@ -12,7 +12,7 @@ description: >-
 
 ![](<../.gitbook/assets/image (3).png>)
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ## 2. **Import NFT to MetaMask wallet and Send**
 

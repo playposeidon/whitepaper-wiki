@@ -59,3 +59,7 @@ Similar to Hero, Weapon Orbs also have 2 mechanisms to upgrade it to next LV. Th
 **Quick Upgrade** doesn't require the player to farm the EXP bar of the Orb to full in-order to upgrade it. How-ever the amount of **PPP** upgrade fee for Quick Upgrade is much higher compare to Normal Upgrade. And it is scaled up with the current level of the Orb. This allow player with less time but big budget can using **PPP** (both in-game or on-chain can be used to pay this fee) to quickly upgrade the Orb to the wanted LV.
 
 Both type of Upgrade have the same Gem requirement, Max Success Chance and cost two Upgrade Scroll per LV starting from LV **Orb+7**
+
+### **3. Chaos Charm and its insure mechanism**
+
+This is a Premium Item which will allow the Player to not worry about his **NFT Orb will be burned** if the upgrade is failed when upgrading Orb starting from **Orb+9** to **Orb+18**. Details about this item will be published later as we will only allow player to upgrade the Orb up to LV **Orb+9** for now. The level Orb+10 +11 +12 .... will be gradually unlocked along with the unlock of new Hero LV.

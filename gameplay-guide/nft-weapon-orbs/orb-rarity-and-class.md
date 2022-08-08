@@ -37,7 +37,7 @@ During the minting process, the class of the Orb will be chosen randomly depend 
 
 **\*Common Orb** can only be repaired two times. After the second repair, the Orb will not be able to repair any more.
 
-**% Bonus PPP Reward**: Give bonus reward (**PPP**) based on Hero Daily Farm-cap. This bonus will be reduced by 1% every time the Weapon Orb is repaired. When it reaches 0% it will no longer give a bonus PPP reward. At 0% bonus PPP reward, Orb can still be repaired to be used though (except for Common Orb), and the cost of Repair Kit will be reduced by half, each Kit can repair 20 Durability Points.
+**% Bonus PPP Reward**: Give bonus reward (**PPP**) based on Hero Daily Farm-cap. This bonus will be reduced by 1% every time the Weapon Orb is repaired. When it reaches 0% it will no longer give a bonus PPP reward. At 0% bonus PPP reward, Orb can still be repaired to be used though (except for Common Orb), and the cost of Repair Kit will be reduced by 4 times, each Kit can repair 40 Durability Points.
 {% endhint %}
 
 ## 2. Orb Classes
