@@ -35,9 +35,9 @@ During the minting process, the class of the Orb will be chosen randomly depend 
 
 **Durability**: For every match this Weapon Orb is used. An amount of durability points will be deducted. 1 point of durability is deducted when you farm 10% of Hero daily farm-cap. That means if you fully farm your hero daily farm-cap, 10 points will be deducted. After that if you continue to use the Hero (equipped with Weapon Orb) your Orb durability will not be deducted since there is no farm-cap left. Once the Orb durability point becomes 0, it can still be used but the Magitek Gas (max Mana) of this orb will be zero. You can still Activate Orbs if the hero is equipped with at least 1 orb still have Durability. And the orb will not give any bonus PPP reward until the player repairs it. Also all passive bonuses coming from Orb will not be in effect, Bonus Damage when Active will becomes zero, leaving only the % Base Damage Bonus Buff. Orb can be repaired by using a Repair Kit, check out: [#1.-repair-orb](repair-unbind-orb.md#1.-repair-orb "mention")
 
-**\*Common Orb** can only be repaired once. After the first repair, the Orb will not be able to repair any more.
+**\*Common Orb** can only be repaired if upgraded to max LV
 
-**% Bonus PPP Reward**: Give bonus reward (**PPP**) based on Hero Daily Farm-cap. This bonus will be reduced by half every time the Weapon Orb is repaired. When it reaches 1% it will no longer be reduced after repaired (except for Common Orb, which can't be repaired more than one)
+&#x20;**% Bonus PPP Reward**: Give bonus reward (**PPP**) based on Hero Daily Farm-cap. This bonus will be reduced by half every time the Weapon Orb is repaired. When it reaches 1% it will no longer be reduced after repaired
 {% endhint %}
 
 ## 2. Orb Classes

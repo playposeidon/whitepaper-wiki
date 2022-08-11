@@ -14,6 +14,8 @@ When the % bonus PPP of the Orb is reduced by half then one Kit will be able to 
 
 These Kit will be sell in the in-game Store. Prices of these kit will be shared later.
 
+Note that: NFT Weapon Orb with Rarity Level of **Common** can't be repaired unless upgraded to max Level
+
 ### 2. Unbind Orb from Hero
 
 NFT Weapon Orb with Rarity Level of <mark style="color:purple;">**Epic**</mark> or <mark style="color:yellow;">**Legendary**</mark> or <mark style="color:red;">**Mythical**</mark> can be unbind from the current Hero that is equipping it. By following these step:
