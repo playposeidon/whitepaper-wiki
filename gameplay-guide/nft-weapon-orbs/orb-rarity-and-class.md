@@ -4,13 +4,13 @@
 
 The higher the Rarity Level of the Orb the better the Orb can boost the power of Hero when equip:
 
-| Weapon Orb Rarity Level                          | Magitek Gas (Max Mana) | Number of Class       | Avg % Base Damage Bonus buff |
-| ------------------------------------------------ | ---------------------- | --------------------- | ---------------------------- |
-| **Common**                                       | 1500                   | 4 Neutral Class Only  | 0-10%                        |
-| <mark style="color:blue;">**Rare**</mark>        | 1500-3999              | 4 Neutral + 4 Element | 5-20%                        |
-| <mark style="color:purple;">**Epic**</mark>      | 4000-5999              | 4 Neutral + 4 Element | 15-30%                       |
-| <mark style="color:yellow;">**Legendary**</mark> | 6000-7999              | 4 Neutral + 4 Element | 25-45%                       |
-| <mark style="color:red;">**Mythical**</mark>     | 8000-9999              | ?                     | 35-55%                       |
+| Weapon Orb Rarity Level                          | Magitek Gas (Max Mana) | Number of Class         | Avg % Base Damage Bonus buff |
+| ------------------------------------------------ | ---------------------- | ----------------------- | ---------------------------- |
+| **Common**                                       | 1500                   | 4 Neutral Class Only    | 0-10%                        |
+| <mark style="color:blue;">**Rare**</mark>        | 1500-3999              | 4 Neutral + 4 Elemental | 5-20%                        |
+| <mark style="color:purple;">**Epic**</mark>      | 4000-5999              | 4 Neutral + 4 Elemental | 15-30%                       |
+| <mark style="color:yellow;">**Legendary**</mark> | 6000-7999              | 4 Neutral + 4 Elemental | 25-45%                       |
+| <mark style="color:red;">**Mythical**</mark>     | 8000-9999              | ?                       | 35-55%                       |
 
 {% hint style="info" %}
 **Magitek Gas** (max Mana): Weapon Orb has a gas bar which will be used when the Orb is activated. When Weapon Orb ran out of gas, it became inactive. Gas is slowly refueled by converting Pet exhaust energy of Pet magical attack into magitek gas. (Higher rarity pet will allow it to recover gas faster)&#x20;
