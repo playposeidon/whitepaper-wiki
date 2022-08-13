@@ -30,11 +30,10 @@ Below is the spawn chance table when open one **Common Egg**.
 
 | Pet Rarity                                       | Spawn Chance | Note                         |
 | ------------------------------------------------ | ------------ | ---------------------------- |
-| **Common**                                       | 53.336%      | No Buff                      |
-| <mark style="color:blue;">**Rare**</mark>        | 42.56%       | Slightly Increase Hero Power |
+| **Common**                                       | 52%          | No Buff                      |
+| <mark style="color:blue;">**Rare**</mark>        | 44%          | Slightly Increase Hero Power |
 | <mark style="color:purple;">**Epic**</mark>      | 3.8%         | Increase Hero Power          |
-| <mark style="color:yellow;">**Legendary**</mark> | 0.285%       | Greatly Increase Hero Power  |
-| <mark style="color:red;">**Mythical**</mark>     | 0.019%       | Greatly Increase Hero Power  |
+| <mark style="color:yellow;">**Legendary**</mark> | 0.2%         | Greatly Increase Hero Power  |
 
 **Common Egg** can be purchased from In-Game Shop
 
@@ -42,13 +41,13 @@ Below is the spawn chance table when open one **Common Egg**.
 
 Below is the spawn chance table when open <mark style="color:blue;">**Rare Egg**</mark>. This item will not spawn **Common** Pet, the spawn chance for the rest is higher. And there is special Guaranteed mechanism if player open many Rare Egg in a single spawn (open at least 5 at once).
 
-| Pet Rarity                                       | Spawn Chance | Guaranteed to Spawn |
-| ------------------------------------------------ | ------------ | ------------------- |
-| **Common**                                       | 0%           |                     |
-| <mark style="color:blue;">**Rare**</mark>        | 78.5%        | N/A                 |
-| <mark style="color:purple;">**Epic**</mark>      | 20%          | if open at least 5  |
-| <mark style="color:yellow;">**Legendary**</mark> | 1.5%         | N/A                 |
-| <mark style="color:red;">**Mythical**</mark>     | 0.1%         | N/A                 |
+| Pet Rarity                                       | Spawn Chance | Guaranteed to Spawn        |
+| ------------------------------------------------ | ------------ | -------------------------- |
+| **Common**                                       | 0%           |                            |
+| <mark style="color:blue;">**Rare**</mark>        | 78.08%       | N/A                        |
+| <mark style="color:purple;">**Epic**</mark>      | 20%          | if open 5 Rare Egg at once |
+| <mark style="color:yellow;">**Legendary**</mark> | 1.8%         | N/A                        |
+| <mark style="color:red;">**Mythical**</mark>     | 0.12%        | N/A                        |
 
 <mark style="color:blue;">**Rare Egg**</mark> can be purchased from In-Game Store but only with **BNB**. Price of <mark style="color:blue;">**Rare Egg**</mark> is about 5 times of **Common Egg**
 
