@@ -53,12 +53,12 @@ If player hold on to the mouse/touch while shooting for a while, the Hero will c
 
 
 
-| Rarity Level                                     | Main Power                                             | Properties                            |
-| ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------- |
-| **Common**                                       | Hold for 1.5 second to charge up to 3X original damage | Stamina cost is multiplied by **2.4** |
-| <mark style="color:blue;">**Rare**</mark>        | Hold for 1.2 second to charge up to 3X original damage | Stamina cost is multiplied by **2.1** |
-| <mark style="color:purple;">**Epic**</mark>      | Hold for 1.2 second to charge up to 4X original damage | Stamina cost is multiplied by **2.4** |
-| <mark style="color:yellow;">**Legendary**</mark> | Hold for 0.8 second to charge up to 5X original damage | Stamina cost is multiplied by **2.5** |
+| Rarity Level                                     | Main Power                                             | Properties                             |
+| ------------------------------------------------ | ------------------------------------------------------ | -------------------------------------- |
+| **Common**                                       | Hold for 1.5 second to charge up to 3X original damage | Stamina cost is multiplied by **2.55** |
+| <mark style="color:blue;">**Rare**</mark>        | Hold for 1.2 second to charge up to 3X original damage | Stamina cost is multiplied by **2.25** |
+| <mark style="color:purple;">**Epic**</mark>      | Hold for 1.2 second to charge up to 4X original damage | Stamina cost is multiplied by **2.8**  |
+| <mark style="color:yellow;">**Legendary**</mark> | Hold for 0.8 second to charge up to 5X original damage | Stamina cost is multiplied by **3.0**  |
 
 You need to activate the Orb before you hold to charge your shoot other while it will not be in effect.\
 When charge at full damage a special sound effect will be played when you release the mouse/touch. This is to indicate that you have successfully fully charge the shot to full power.\

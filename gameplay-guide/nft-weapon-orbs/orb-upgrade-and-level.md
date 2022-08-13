@@ -9,7 +9,7 @@ A Weapon Orb after mint start at LV **+0** and can be upgraded to higher LV to f
 | **Common**                                       | +6                           | 4                           |
 | <mark style="color:blue;">**Rare**</mark>        | +9                           | 4                           |
 | <mark style="color:purple;">**Epic**</mark>      | +12                          | 4                           |
-| <mark style="color:yellow;">**Legendary**</mark> | +15                          | 7                           |
+| <mark style="color:yellow;">**Legendary**</mark> | +15                          | 6                           |
 | <mark style="color:red;">**Mythical**</mark>     | +18                          | ?                           |
 
 When upgrade to higher LV the Bonus Damage when Active of Orb will be increased and at specific LV the orb will acquired a passive bonus following this table:
