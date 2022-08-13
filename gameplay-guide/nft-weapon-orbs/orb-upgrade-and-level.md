@@ -50,7 +50,9 @@ From **Orb+4, Orb+5 to Orb+9:**\
 From **Orb+9, Orb+10** and above:\
 \+Chaos Gem and two Upgrade Scroll of the same LV
 
-You will need to select one type of Gem and a quantity to be used for the upgrading process, the more number of Gem used the higher the success chance of the upgrade.
+You will need to select one type of Gem and a quantity to be used for the upgrading process, the more number of Gem used, the higher the success chance of the upgrade.
+
+![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (3).png>)![](../../.gitbook/assets/image.png)
 
 ### 2. Normal Upgrade vs Quick Upgrade
 

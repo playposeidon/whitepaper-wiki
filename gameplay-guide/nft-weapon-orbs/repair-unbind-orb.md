@@ -24,7 +24,7 @@ Step1: First the Orb need to be fully repaired to maximum durability point
 
 Step2: Second the Orb must be un-equip from the Hero by click the Orb in the Hero Detail View and confirm with \[Yes]:
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (12).png>)
 
 Step3: Go to Unbind Orb section in the Craft Menu and choose the Orb that you have un-equip from the Hero. This process will cost you a number of Repair Kit + Chaos Charm to unbind it from the Hero. Details will be shared later.
 
