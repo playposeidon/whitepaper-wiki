@@ -40,17 +40,17 @@ This table below describe the effect of each MP Potion for most Heroes:
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | **Minor MP Potion**                                      | Convert up to **6000 MP** to Hero Shield at ratio **3.2:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **300 Gas/s**   |      |
 | <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **12,000 MP** to Hero Shield at ratio **2.8:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **400 Gas/s** |      |
-| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **24,000 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **250 Gas/s** |      |
+| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **24,000 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **500 Gas/s** |      |
 | <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **48,000 MP** to Hero Shield at ratio **2:1,** unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **600 Gas/s**   |      |
 
 And for these particular Heroes: **Siri, Samhiri, Yudon**. MP Potion effect is different following this table:
 
 | Potion                                                   | Effect                                                                                                                                            | Note |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| **Minor MP Potion**                                      | Convert up to **7200 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana) at the rate of **450 Gas/s**    |      |
-| <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **14,400 MP** to Hero Shield at ratio **2.1:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **600 Gas/s** |      |
-| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **28,800 MP** to Hero Shield at ratio **1.8:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **750 Gas/s** |      |
-| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **57,600 MP** to Hero Shield at ratio **1.5:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **900 Gas/s** |      |
+| **Minor MP Potion**                                      | Convert up to **7200 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana) at the rate of **150 Gas/s**    |      |
+| <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **14,400 MP** to Hero Shield at ratio **2.1:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **200 Gas/s** |      |
+| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **28,800 MP** to Hero Shield at ratio **1.8:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **250 Gas/s** |      |
+| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **57,600 MP** to Hero Shield at ratio **1.5:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **300 Gas/s** |      |
 
 ### 3. SP Potion
 
