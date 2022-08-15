@@ -14,13 +14,13 @@ Currently in PlayPoseidon game, there are 2 shooting skills for Pet:
 
 **Earth-ball:** <img src="../../.gitbook/assets/Earth_skill.png" alt="" data-size="line"> Deal small AOE damage to monster. Will deal **1x Pet's base damage** but can provide the _<mark style="color:blue;">Stun</mark>_ effect which stun monsters when explode. After the explosion, it leaves a stone boulder which fall to the ground and block the monster from moving. The level of this skill will impact the duration of the stun, the HP of the stone boulder and max duration the stone can stay on the ground.
 
-**Pet** will shoot out **Fire-ball** or **Ice-ball** or **Wind-ball** or **all of the shooting skill mentioned above .** The chance for each skill to be triggered will increase along with the level of skill.
+**Pet** will shoot out **Fire-ball** or **Ice-ball** or **Wind-ball** or **Earth-ball** or **all of the shooting skill mentioned above .** The chance for each skill to be triggered will increase along with the level of skill. And also chances for each skill are independent of each other.
 
-Note: **Pet** may shoot out an energy sparkle which deal **1x base-damage** to a single monster hit if none of the Shooting skill is triggered.&#x20;
+Note: **Pet** may shoot out one or multiple energy sparkles which deal **1x base-damage** to a single monster hit if none of the Shooting skill is triggered.&#x20;
 
 ### 2. Non Shooting skills
 
-**Shield Her**o: ![](../../.gitbook/assets/Shield.png)Create a shield around your hero which can sustain a damages from monster equal to a small portion of the Hero total HP. This shield when not being damaged can regen over time.
+**Shield Hero**: ![](../../.gitbook/assets/Shield.png)Create a shield around your hero which can sustain a damages from monster equal to a small portion of the Hero total HP. This shield when not being damaged can regen over time.
 
 ### 3.All Skill tables:
 
@@ -40,10 +40,10 @@ Note: **Pet** may shoot out an energy sparkle which deal **1x base-damage** to a
 \*This Rarity class is not released yet.
 {% endhint %}
 
-| Skill Level | Fire-ball                      | Ice-ball                         | Tornado-ball                     | Shield Hero                  |
-| ----------- | ------------------------------ | -------------------------------- | -------------------------------- | ---------------------------- |
-| LV1         | Medium chance                  | Low Chance, Slow 2s              | Very Low chance, Small KnockBack | 500 SP, shield regen slow    |
-| LV2         | Medium chance                  | Low Chance, Slow 2s              | Low chance, Medium KnockBack     | 1000 SP, shield regen slow   |
-| LV3         | High Chance + Large explosion  | High Chance + Large AOE, Slow 4s | Low chance, Strong KnockBack     | 2000 SP, shield regen medium |
-| LV4         | High Chance + Large explosion  | High Chance + Large AOE, Slow 5s | Medium chance, Strong KnockBack  | 3500 SP, shield regen fast   |
+| Skill Level | Fire-ball                      | Ice-ball                         | Tornado-ball                         | Earth-ball                                        | Shield Hero                  |
+| ----------- | ------------------------------ | -------------------------------- | ------------------------------------ | ------------------------------------------------- | ---------------------------- |
+| LV1         | Medium chance                  | Low Chance, Slow 2s              | Very Low chance, Small KnockBack     | Super Low chance, 0.5s stun, 100 HP stone for 5s  | 500 SP, shield regen slow    |
+| LV2         | Medium chance                  | Low Chance, Slow 2s              | Low chance, Medium KnockBack         | Super Low chance, 1.5s stun, 200 HP stone for 10s | 1000 SP, shield regen slow   |
+| LV3         | High Chance + Large explosion  | High Chance + Large AOE, Slow 4s | Low chance, Strong KnockBack         | Very Low chance, 3s stun, 400 HP stone for 15s    | 2000 SP, shield regen medium |
+| LV4         | High Chance + Large explosion  | High Chance + Large AOE, Slow 5s | Low chance, chance, Strong KnockBack | Very Low chance, 5s stun, 800 HP stone for 20s    | 3500 SP, shield regen fast   |
 
