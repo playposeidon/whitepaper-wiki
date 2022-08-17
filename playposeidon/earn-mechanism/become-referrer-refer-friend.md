@@ -22,16 +22,16 @@ The new player must purchase a Starter Pack first before key in the REFERRER COD
 
 | Pack                                                 | Referrer Initial Reward  | Player Initial Reward    |
 | ---------------------------------------------------- | ------------------------ | ------------------------ |
-| <mark style="color:yellow;">**Starer Pack A**</mark> | 13 Good Luck Token (GLT) | 13 Good Luck Token (GLT) |
-| <mark style="color:purple;">**Starer Pack B**</mark> | 3 Good Luck Token (GLT)  | 3 Good Luck Token (GLT)  |
-| <mark style="color:green;">**Starer Pack C**</mark>  | 1 Good Luck Token (GLT)  | 1 Good Luck Token (GLT)  |
+| <mark style="color:yellow;">**Starer Pack A**</mark> | 26 Good Luck Token (GLT) | 26 Good Luck Token (GLT) |
+| <mark style="color:purple;">**Starer Pack B**</mark> | 6 Good Luck Token (GLT)  | 6 Good Luck Token (GLT)  |
+| <mark style="color:green;">**Starer Pack C**</mark>  | 2 Good Luck Token (GLT)  | 2 Good Luck Token (GLT)  |
 
 ### 1.2 Referrer Bonuses
 
 Once your friend has added you successfully as his/her Referrer. For every purchase that your friend made in-game Store using _on-chain_ **PPP,** you will receive the bonuses as follow:
 
 1. A bonus of **5%** of the _on-chain_ **PPP** that was used to purchase the item will be rewarded to Referrer as _in-game_ **PPP**
-2. If the _on-chain_ **PPP** amount is greater than 150 PPP, the Referrer will receive 1 GLT for every 150 _on-chain_ **PPP** used to purchase the item
+2. If the _on-chain_ **PPP** amount is greater than 75 PPP, the Referrer will receive 1 GLT for every 75 _on-chain_ **PPP** used to purchase the item
 
 Good Luck Token (GLT) can be used to play the Fortuna game Lucky Spin, check this page: [#4.-fortuna-lucky-spin](gacha-items.md#4.-fortuna-lucky-spin "mention")\
 &#x20;
