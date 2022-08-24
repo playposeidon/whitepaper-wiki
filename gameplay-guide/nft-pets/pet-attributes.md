@@ -12,9 +12,9 @@ Pet attributes consist of:
 
 | Pet Rarity                                       | Base Damage | Fire-rate | Energy |
 | ------------------------------------------------ | ----------- | --------- | ------ |
-| **Common**                                       | 20          | 0.24      | 20     |
-| <mark style="color:blue;">**Rare**</mark>        | 30          | 0.3       | 30     |
-| <mark style="color:purple;">**Epic**</mark>      | 45          | 0.38      | 40     |
+| **Common**                                       | 25          | 0.24      | 20     |
+| <mark style="color:blue;">**Rare**</mark>        | 35          | 0.3       | 30     |
+| <mark style="color:purple;">**Epic**</mark>      | 55          | 0.38      | 40     |
 | <mark style="color:yellow;">**Legendary**</mark> | 75          | 0.46      | 50     |
 | <mark style="color:red;">**Mythical**</mark>     | 115         | 0.54      | 50     |
 
