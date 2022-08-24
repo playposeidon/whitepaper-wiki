@@ -61,4 +61,26 @@ These **elements attribute** will make a different when your Hero is fighting el
 
 Also will allow your **NFT** **Hero** to use _elemental_ **NFT Weapon Orb** to its max potential, significant boosting your hero strength and earn more reward. (in Q3-2022)
 
-Details on Hero elements attribute will be revealed when the time come.
+Each **NFT Hero** will have a set of element and a primary element, for example a **NFT Hero** Tier B have Zodiac: **Aries** - **Libra** - **Libra** will resulting to **Fire** - **Air** - **Air** as element set **** with the primary element is **Air** (dominant element).&#x20;
+
+**NFT Hero** Tier A have zodiac: **Aries** - **Cancer** - **Capricorn** will resulting to **Fire** - **Water** - **Earth** as element set, for this Hero due to the balance in elements the primary element of the Hero may be switched between any of the 3. By default Hero will have the first one, **Fire** as primary element, but if the current zodiac element is **Water** or **Earth**, the primary element of this Hero will be switched to **Water** or **Earth** based on the current zodiac.
+
+Each element will give a damage buff to the Hero, according to this:
+
+* Earth :rock: : Give 5% earth damage&#x20;
+* Water :ocean: : Give 5% water damage&#x20;
+* Fire :fire: : Give 4% fire damage
+* Air :cloud\_lightning: : Give 5% air damage
+
+And the primary element will extra buff to hero as well, according to this:
+
+* Earth :rock: : Give 5% earth damage + Slightly Increase Stun duration
+* Water :ocean: : Give 5% water damage + Make the Slow effect slightly stronger
+* Fire :fire: : Give 6% fire damage&#x20;
+* Air :cloud\_lightning: : Give 5% air damage + Knock-back effect push monster back slightly further
+
+{% hint style="info" %}
+The damage of Hero when activate with **Elemental** Orbs is **elemental damage** (which will be increased by Hero elements).&#x20;
+
+While in non active state or Hero only using **Neutral** Orbs, the Hero will deal **neutral damage** (will not be increased with Hero elements)
+{% endhint %}
