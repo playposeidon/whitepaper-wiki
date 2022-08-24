@@ -79,6 +79,8 @@ And the primary element will extra buff to hero as well, according to this:
 * Fire :fire: : Give 6% fire damage&#x20;
 * Air :cloud\_lightning: : Give 5% air damage + Knock-back effect push monster back slightly further
 
+For example, a Hero with **Fire - Air - Air** will resulting to these buff: 4% fire damage + 15% air damage + better Knock-back effect.  A Hero with **Fire** - **Water** - **Earth** and **Fire** is the current primary element will resulting to: 10% fire damage + 5% water damage + 5% earth damage
+
 {% hint style="info" %}
 The damage of Hero when activate with **Elemental** Orbs is **elemental damage** (which will be increased by Hero elements).&#x20;
 
