@@ -13,7 +13,7 @@ The shooting projectile will be repeated one or 2,3 more times based on Rarity L
 | **Common**                                       | Throw 2 consecutive shot (Double shot) | Stamina cost is multiplied by **1.6** |
 | <mark style="color:blue;">**Rare**</mark>        | Throw 2 consecutive shot (Double shot) | Stamina cost is multiplied by **1.4** |
 | <mark style="color:purple;">**Epic**</mark>      | Throw 3 consecutive shot (Triple shot) | Stamina cost is multiplied by **1.8** |
-| <mark style="color:yellow;">**Legendary**</mark> | Throw 4 consecutive shot (Quad shot)   | Stamina cost is multiplied by **2.2** |
+| <mark style="color:yellow;">**Legendary**</mark> | Throw 4 consecutive shot (Quad shot)   | Stamina cost is multiplied by **2.4** |
 
 Check out the video below to see the power of an Orb of Repeat Rare +9:
 
@@ -25,10 +25,10 @@ The projectiles will split on hit to 2 or 3 more projectiles based on Rarity Lev
 
 | Rarity Level                                     | Main Power                                                             | Properties                                                                                                                              |
 | ------------------------------------------------ | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Common**                                       | Arrow on hit will be split into 2. Each arrow can split up to 2 times. | Stamina cost is multiplied by **1.6**                                                                                                   |
-| <mark style="color:blue;">**Rare**</mark>        | Arrow on hit will be split into 2. Each arrow can split up to 2 times. | Stamina cost is multiplied by **1.4**                                                                                                   |
-| <mark style="color:purple;">**Epic**</mark>      | Arrow on hit will be split into 3. Each arrow can split up to 2 times. | <p>Stamina cost is multiplied by <strong>2.0</strong><br><strong></strong>Split arrows damage are reduced to 80% of original damage</p> |
-| <mark style="color:yellow;">**Legendary**</mark> | Arrow on hit will be split into 3. Each arrow can split up to 3 times. | <p>Stamina cost is multiplied by <strong>2.4</strong><br><strong></strong>Split arrows damage are reduced to 80% of original damage</p> |
+| **Common**                                       | Arrow on hit will be split into 2. Each arrow can split up to 2 times. | <p>Stamina cost is multiplied by <strong>1.6</strong><br><strong></strong>Split arrows damage are reduced to 75% of original damage</p> |
+| <mark style="color:blue;">**Rare**</mark>        | Arrow on hit will be split into 2. Each arrow can split up to 2 times. | <p>Stamina cost is multiplied by <strong>1.4</strong><br><strong></strong>Split arrows damage are reduced to 75% of original damage</p> |
+| <mark style="color:purple;">**Epic**</mark>      | Arrow on hit will be split into 2. Each arrow can split up to 3 times. | <p>Stamina cost is multiplied by <strong>1.8</strong><br><strong></strong>Split arrows damage are reduced to 75% of original damage</p> |
+| <mark style="color:yellow;">**Legendary**</mark> | Arrow on hit will be split into 3. Each arrow can split up to 3 times. | <p>Stamina cost is multiplied by <strong>2.4</strong><br><strong></strong>Split arrows damage are reduced to 75% of original damage</p> |
 
 Check out the video below to see the power of an Orb of Split Epic +12:
 
@@ -53,12 +53,12 @@ If player hold on to the mouse/touch while shooting for a while, the Hero will c
 
 
 
-| Rarity Level                                     | Main Power                                             | Properties                             |
-| ------------------------------------------------ | ------------------------------------------------------ | -------------------------------------- |
-| **Common**                                       | Hold for 1.5 second to charge up to 3X original damage | Stamina cost is multiplied by **2.55** |
-| <mark style="color:blue;">**Rare**</mark>        | Hold for 1.2 second to charge up to 3X original damage | Stamina cost is multiplied by **2.25** |
-| <mark style="color:purple;">**Epic**</mark>      | Hold for 1.2 second to charge up to 4X original damage | Stamina cost is multiplied by **2.8**  |
-| <mark style="color:yellow;">**Legendary**</mark> | Hold for 0.8 second to charge up to 5X original damage | Stamina cost is multiplied by **3.0**  |
+| Rarity Level                                     | Main Power                                               | Properties                             |
+| ------------------------------------------------ | -------------------------------------------------------- | -------------------------------------- |
+| **Common**                                       | Hold for 1.2 second to charge up to 2.8X original damage | Stamina cost is multiplied by **2.38** |
+| <mark style="color:blue;">**Rare**</mark>        | Hold for 0.9 second to charge up to 2.8X original damage | Stamina cost is multiplied by **2.1**  |
+| <mark style="color:purple;">**Epic**</mark>      | Hold for 0.6 second to charge up to 3.2X original damage | Stamina cost is multiplied by **2.24** |
+| <mark style="color:yellow;">**Legendary**</mark> | Hold for 0.4 second to charge up to 3.8X original damage | Stamina cost is multiplied by **2.66** |
 
 You need to activate the Orb before you hold to charge your shoot other while it will not be in effect.\
 When charge at full damage a special sound effect will be played when you release the mouse/touch. This is to indicate that you have successfully fully charge the shot to full power.\
