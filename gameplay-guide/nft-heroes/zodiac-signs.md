@@ -85,4 +85,6 @@ For example, a Hero with **Fire - Air - Air** will resulting to these buff: 4% f
 The damage of Hero when activate with **Elemental** Orbs is **elemental damage** (which will be increased by Hero elements).&#x20;
 
 While in non active state or Hero only using **Neutral** Orbs, the Hero will deal **neutral damage** (will not be increased with Hero elements)
+
+The damage caused by Pet passive skill Fire-ball, Ice-ball, Earth-ball, Wind-ball is also consider **elemental damage** and will be increased by the elements of paired Hero.&#x20;
 {% endhint %}
