@@ -81,4 +81,4 @@ When used together most of the attributes of your orbs will be sum together such
 
 Except for the case when one of your Orb have 0 durability then all of its attributes will become zero (% Damage buff is still counted though)
 
-For the Stamina cost multiply is mentioned in the previous section, when used 2 Orb together this stamina cost will be multiplied together, for example: Using a Orb of Split Epic with Orb of Charge Legendary will resulting a Stamina multiply factor of 1.8 x 2.66 = 4.788
+For the Stamina cost multiply is mentioned in the previous section, when used 2 Orb together this stamina cost will be multiplied together, for example: Using a Orb of Split Epic with Orb of Charge Legendary will resulting a Stamina multiply factor of 2.0 x 2.5 = 5.0
