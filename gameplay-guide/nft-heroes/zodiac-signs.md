@@ -74,10 +74,10 @@ Each element will give a damage buff to the Hero, according to this:
 
 And the primary element will extra buff to hero as well, according to this:
 
-* Earth :rock: : Give 5% earth damage + Slightly Increase Stun duration
-* Water :ocean: : Give 5% water damage + Make the Slow effect slightly stronger
-* Fire :fire: : Give 6% fire damage&#x20;
-* Air :cloud\_lightning: : Give 5% air damage + Knock-back effect push monster back slightly further
+* Earth :rock: : Give 5% earth damage, increase 20% Stun duration and add 40 HP to all Stone Boulder
+* Water :ocean: : Give 5% water damage, add an extra -15% slow to all Slow effect and increase 30% slow duration &#x20;
+* Fire :fire: : Give 8% fire damage&#x20;
+* Air :cloud\_lightning: : Give 5% air damage, add 1.5m push distance to all Knock-back effect&#x20;
 
 For example, a Hero with **Fire - Air - Air** will resulting to these buff: 4% fire damage + 15% air damage + better Knock-back effect.  A Hero with **Fire** - **Water** - **Earth** and **Fire** is the current primary element will resulting to: 10% fire damage + 5% water damage + 5% earth damage
 
