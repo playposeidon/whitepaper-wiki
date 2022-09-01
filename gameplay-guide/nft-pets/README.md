@@ -53,7 +53,7 @@ Each NFT Pet have a energy bar. After each winning match your Pet will lose some
 | Level 8              | -8 Energy per Match                                                                              | -7 Energy/Match                                  | -6 Energy/Match                              |
 | Level 9              | -9 Energy per Match                                                                              | -8 Energy/Match                                  | -7 Energy/Match                              |
 
-Also higher rarity Pet may give a small EXP increase to the base EXP reward per match. For example <mark style="color:red;">**Mythical**</mark> pet giving a max conversion of 1 Energy to **6 EXP**, <mark style="color:yellow;">**Legendary**</mark> giving a max conversion of 1 Energy to **3 EXP.** You can check this excel file below to fully understand the impact of Pet Rarity level when leveling up your Hero.&#x20;
+Also higher rarity Pet may give a more EXP reward per match. You can check this excel file below to fully understand the impact of Pet Rarity level when leveling up your Hero.&#x20;
 
 {% embed url="https://docs.google.com/spreadsheets/d/1FYfa2-MHKCJOYbPH3jDbX5t9KG2_nJKaa4cWuNRmACA/edit?usp=sharing" %}
 

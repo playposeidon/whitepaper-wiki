@@ -82,20 +82,18 @@ The details on how to use this item to treat _the Curse of Poseidon_ will be rel
 
 ### 5. Curse of Poseidon and Free To Play
 
-If the player decided to rent the cursed NFT Hero (Hero with less than 100% _Efficiency_) to F2P service to play on his behalf, the _Efficiency_ of the Hero will affect the F2P feature in a different way. It will affect the minimum shared ratio to scholar for that particular NFT Hero instead of the battle match PPP reward. It will also lower the Map LV that owner can choose for that Hero.&#x20;
+If the player decided to rent the cursed NFT Hero (Hero with less than 100% _Efficiency_) to F2P service to play on his behalf, the _Efficiency_ of the Hero will affect the F2P feature in a similar way. Along with the battle match PPP reward, It will also affect the minimum shared ratio to scholar for that particular NFT Hero.
 
-For example, if a Hero A LV5 with 51% **** _Efficiency_ is rent to F2P service, the shared ratio the owner set when create the offer must greater than or equal 49%, and also owner can only choose Map LV3 instead of LV5 to create offer. (Map LV will decrease on a log scale)
-
-There will be no reduce to the PPP reward the F2P match that used this Hero to play. Instead only shared ratio to scholar is now greatly increase. This is to ensure F2P player is able to earn a decent income from those offer created from these cursed NFT Heroes.
+For example, if a Hero A LV5 with 51% **** _Efficiency_ is rent to F2P service, the shared ratio the owner set when create the offer must greater than or equal 49%. if a Hero A LV7 with 1.5% **** _Efficiency_ is rent to F2P service, the shared ratio must greater than or equal 98.5%
 
 Furthermore, when the Curse start to kicked in (<100% _Efficiency)_, the Pet energy deduction for F2P match will become a constant (regardless of Map LV) and based on the Rarity of the Pet itself following the below table:
 
-| Pet's Rarity                                     | Energy point deduct per F2P match | Theoretically max number of match for one day | Note                  |
-| ------------------------------------------------ | --------------------------------- | --------------------------------------------- | --------------------- |
-| **Common**                                       | 2                                 | 20                                            | Map LV1 will deduct 1 |
-| <mark style="color:blue;">**Rare**</mark>        | 1.5                               | 30                                            | Map LV1 will deduct 1 |
-| <mark style="color:purple;">**Epic**</mark>      | 0.4                               | 100                                           | All Map LV            |
-| <mark style="color:yellow;">**Legendary**</mark> | 0.1                               | 1000                                          | All Map LV            |
-| <mark style="color:red;">**Mythical**</mark>     | 0                                 | Unlimited                                     | All Map LV            |
+| Pet's Rarity                                     | Energy point deduct per F2P match | Theoretically max number of match for one day | Note       |
+| ------------------------------------------------ | --------------------------------- | --------------------------------------------- | ---------- |
+| **Common**                                       | 1                                 | 20                                            | All Map LV |
+| <mark style="color:blue;">**Rare**</mark>        | 0.8                               | 38                                            | All Map LV |
+| <mark style="color:purple;">**Epic**</mark>      | 0.2                               | 200                                           | All Map LV |
+| <mark style="color:yellow;">**Legendary**</mark> | 0.06                              | 1666                                          | All Map LV |
+| <mark style="color:red;">**Mythical**</mark>     | 0                                 | Unlimited                                     | All Map LV |
 
 This change in Pet Energy deduction in F2P for Cursed Hero should allow the Hero's offer to be picked up and play a lot of time during a day without the owner have to own a large number of Pets but rather own a few high Rarity Pets. Along with the EXP Multiplier Factor bonus for low efficiency Hero, it shouldn't be long for the Hero gain enough EXP to level up to the next LV when put into F2P mode.
