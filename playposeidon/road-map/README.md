@@ -56,20 +56,18 @@ description: Short Roadmap with dates
 
 * [x] 01/05/2022: Release Hero Ultimate Skill feature&#x20;
 * [x] 08/05/2022: Release Free to Play feature
-* [ ] Release Boss monster maps feature
-* [ ] Treasure drop from Boss maps
-* [ ] New marketing Events: Player Referrer
-* [ ] Unlock Hero Level 7
-* [ ] LP Staking Program&#x20;
-* [ ] Test NFT bridge from BSC to Polygon
+* [x] Release Casual Boss monster feature
+* [x] Treasure drop from Boss monster
+* [x] New marketing Events: Player Referrer
+* [x] Unlock Hero Level 7
+* [x] Rare Treasure PPP Staking
+* [x] Test NFT bridge from BSC to Polygon
 
 #### June (Dungeon Boss/World Boss)
 
-* [ ] Release Dungeon Raid Boss PvEvP feature
-* [ ] Release World Boss feature (Every one fight together to defeat this ridiculous strong Boss)
-* [ ] Unlock Hero Level 8
-* [ ] Item Crafting feature
-* [ ] NFT Farm + PPP Staking feature
+* [x] Unlock Hero Level 8
+* [x] Item Crafting feature
+* [x] New map new monster
 * [ ] Open Beta Test (Polygon test-net)
 * [ ] Launch game on Polygon main-net
 * [ ] Release In-Game NFT MarketPlace feature
