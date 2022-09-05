@@ -14,8 +14,8 @@ This table below describe the effect of each HP Potion for most Heroes:
 
 | Potion                                                   | Effect                                              | Note              |
 | -------------------------------------------------------- | --------------------------------------------------- | ----------------- |
-| **Minor HP Potion**                                      | Heal **2000 HP** plus **30%** of max HP instantly   | Normal Match      |
-| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **4000 HP** plus **45%** of max HP instantly   | Casual Boss Match |
+| **Minor HP Potion**                                      | Heal **2000 HP** plus **20%** of max HP instantly   | Normal Match      |
+| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **4000 HP** plus **40%** of max HP instantly   | Casual Boss Match |
 | <mark style="color:purple;">**Greater HP Potion**</mark> | Heal **8000 HP** plus **60%** of max HP instantly   | Can't be used yet |
 | <mark style="color:yellow;">**Super HP Potion**</mark>   | Heal **16,000 HP** plus **80%** of max HP instantly | Can't be used yet |
 
@@ -23,9 +23,9 @@ And for these particular Heroes: **Kaiya Padley**, **Shana**, **Mikasa**. HP Pot
 
 | Potion                                                   | Effect                                                               | Note |
 | -------------------------------------------------------- | -------------------------------------------------------------------- | ---- |
-| **Minor HP Potion**                                      | Heal **1500 H**P instantly. Heal **48%** of max HP over 30 second    |      |
-| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **3000 HP** instantly. Heal **72%** of max HP over 30 second    |      |
-| <mark style="color:purple;">**Greater HP Potion**</mark> | Heal **6000 HP** instantly. Heal **96%** of max HP over 30 second    |      |
+| **Minor HP Potion**                                      | Heal **1500 H**P instantly. Heal **48%** of max HP over 15 second    |      |
+| <mark style="color:blue;">**Light HP Potion**</mark>     | Heal **3000 HP** instantly. Heal **72%** of max HP over 20 second    |      |
+| <mark style="color:purple;">**Greater HP Potion**</mark> | Heal **6000 HP** instantly. Heal **96%** of max HP over 25 second    |      |
 | <mark style="color:yellow;">**Super HP Potion**</mark>   | Heal **12,000 HP** instantly. Heal **128%** of max HP over 30 second |      |
 
 ### 2. MP Potion
