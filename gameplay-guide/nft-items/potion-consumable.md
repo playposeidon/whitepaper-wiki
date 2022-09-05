@@ -40,17 +40,17 @@ This table below describe the effect of each MP Potion for most Heroes:
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | **Minor MP Potion**                                      | Convert up to **6000 MP** to Hero Shield at ratio **3.2:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **300 Gas/s**   |      |
 | <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **12,000 MP** to Hero Shield at ratio **2.8:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **400 Gas/s** |      |
-| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **24,000 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **500 Gas/s** |      |
-| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **48,000 MP** to Hero Shield at ratio **2:1,** unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **600 Gas/s**   |      |
+| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **24,000 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **540 Gas/s** |      |
+| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **48,000 MP** to Hero Shield at ratio **2:1,** unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **800 Gas/s**   |      |
 
 And for these particular Heroes: **Siri, Samhiri, Yudon**. MP Potion effect is different following this table:
 
 | Potion                                                   | Effect                                                                                                                                            | Note |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| **Minor MP Potion**                                      | Convert up to **7200 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana) at the rate of **150 Gas/s**    |      |
-| <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **14,400 MP** to Hero Shield at ratio **2.1:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **200 Gas/s** |      |
-| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **28,800 MP** to Hero Shield at ratio **1.8:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **250 Gas/s** |      |
-| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **57,600 MP** to Hero Shield at ratio **1.5:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **300 Gas/s** |      |
+| **Minor MP Potion**                                      | Convert up to **7200 MP** to Hero Shield at ratio **2.4:1**, unconverted MP will recover Orb's Magitek-Gas (Mana) at the rate of **240 Gas/s**    |      |
+| <mark style="color:blue;">**Light MP Potion**</mark>     | Convert up to **14,400 MP** to Hero Shield at ratio **2.1:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **360 Gas/s** |      |
+| <mark style="color:purple;">**Greater MP Potion**</mark> | Convert up to **28,800 MP** to Hero Shield at ratio **1.8:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **480 Gas/s** |      |
+| <mark style="color:yellow;">**Super MP Potion**</mark>   | Convert up to **57,600 MP** to Hero Shield at ratio **1.5:1**, unconverted MP will recover Orb's Magitek-Gas (Mana)  at the rate of **760 Gas/s** |      |
 
 ### 3. SP Potion
 
@@ -64,8 +64,8 @@ This table below describe the effect of each MP Potion for most Heroes:
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- |
 | **Minor SP Potion**                                      | Increase **40% Stamina Regen** Rate and Max Stamina by **20 points** for a duration of **20s**   |      |
 | <mark style="color:blue;">**Light SP Potion**</mark>     | Increase **60% Stamina Regen** Rate and Max Stamina by **40 points** for a duration of **30s**   |      |
-| <mark style="color:purple;">**Greater SP Potion**</mark> | Increase **100% Stamina Regen** Rate and Max Stamina by **80 points** for a duration of **40s**  |      |
-| <mark style="color:yellow;">**Super SP Potion**</mark>   | Increase **200% Stamina Regen** Rate and Max Stamina by **160 points** for a duration of **50s** |      |
+| <mark style="color:purple;">**Greater SP Potion**</mark> | Increase **100% Stamina Regen** Rate and Max Stamina by **80 points** for a duration of **45s**  |      |
+| <mark style="color:yellow;">**Super SP Potion**</mark>   | Increase **200% Stamina Regen** Rate and Max Stamina by **160 points** for a duration of **60s** |      |
 
 And for these particular Heroes: **Freya Aloy, Arya Xu, Mu Qing.** SP Potion effect is different following this table:
 
