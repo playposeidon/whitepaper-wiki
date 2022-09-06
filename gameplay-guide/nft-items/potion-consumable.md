@@ -71,7 +71,7 @@ And for these particular Heroes: **Freya Aloy, Arya Xu, Mu Qing.** SP Potion eff
 
 | Potion                                                   | Effect                                                                                           | Note |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---- |
-| **Minor SP Potion**                                      | Increase **48% Stamina Regen** Rate and Max Stamina by **50 points** for a duration of **20s**   |      |
-| <mark style="color:blue;">**Light SP Potion**</mark>     | Increase **72% Stamina Regen** Rate and Max Stamina by **100 points** for a duration of **27s**  |      |
-| <mark style="color:purple;">**Greater SP Potion**</mark> | Increase **120% Stamina Regen** Rate and Max Stamina by **200 points** for a duration of **33s** |      |
-| <mark style="color:yellow;">**Super SP Potion**</mark>   | Increase **240% Stamina Regen** Rate and Max Stamina by **400 points** for a duration of **40s** |      |
+| **Minor SP Potion**                                      | Increase **48% Stamina Regen** Rate and Max Stamina by **50 points** for a duration of **18s**   |      |
+| <mark style="color:blue;">**Light SP Potion**</mark>     | Increase **72% Stamina Regen** Rate and Max Stamina by **100 points** for a duration of **24s**  |      |
+| <mark style="color:purple;">**Greater SP Potion**</mark> | Increase **120% Stamina Regen** Rate and Max Stamina by **200 points** for a duration of **30s** |      |
+| <mark style="color:yellow;">**Super SP Potion**</mark>   | Increase **240% Stamina Regen** Rate and Max Stamina by **400 points** for a duration of **36s** |      |
