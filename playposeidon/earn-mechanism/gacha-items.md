@@ -137,9 +137,17 @@ The prizes list is also available in-game to see when you click the \[ ! ] yello
 | 5 <mark style="color:blue;">**Rare Treasure**</mark>                                                                               | Low               | Open for Craft Material |
 | 5 <mark style="color:purple;">**Epic Treasure**</mark>                                                                             | Low               | Open for Craft Material |
 | 5 <mark style="color:yellow;">**Legendary Treasure**</mark>                                                                        | Very Low          | Open for Craft Material |
-| 2 **Common Egg**                                                                                                                   | Low               | Spawn Pet               |
+| 5 **Common Egg**                                                                                                                   | Low               | Spawn Pet               |
 | 2 <mark style="color:blue;">**Rare Egg**</mark>                                                                                    | Low               | Spawn Rare Pet          |
 | 2 <mark style="color:yellow;">**Legendary Egg**</mark>                                                                             | Extremely Low     | Spawn Legendary Pet     |
+| 64 Lesser Emerald                                                                                                                  | Low               | Upgrade Orb and Relic   |
+| 64 Lesser Sapphire                                                                                                                 | Low               | Upgrade Orb and Relic   |
+| 64 Lesser Ruby                                                                                                                     | Low               | Upgrade Orb and Relic   |
+| 64 Lesser Diamond                                                                                                                  | Low               | Upgrade Orb and Relic   |
+| 8 Greater Emerald                                                                                                                  | Low               | Upgrade Orb and Relic   |
+| 8 Greater Sapphire                                                                                                                 | Low               | Upgrade Orb and Relic   |
+| 8 Greater Ruby                                                                                                                     | Low               | Upgrade Orb and Relic   |
+| 8 Greater Diamond                                                                                                                  | Low               | Upgrade Orb and Relic   |
 | 3 <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Minor Elixir of Deep Sea**</mark> | Medium            | Treat Curse of Poseidon |
 | 3 <mark style="color:purple;">**Light Elixir of Deep Sea**</mark>                                                                  | Low               | Treat Curse of Poseidon |
 | 3 <mark style="color:yellow;">**Greater Elixir of Deep Sea**</mark>                                                                | Very Low          | Treat Curse of Poseidon |
