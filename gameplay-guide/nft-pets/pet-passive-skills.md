@@ -42,8 +42,8 @@ Note: **Pet** may shoot out one or multiple energy sparkles which deal **1x base
 
 | Skill Level | Fire-ball                      | Ice-ball                         | Tornado-ball                         | Earth-ball                                        | Shield Hero                  |
 | ----------- | ------------------------------ | -------------------------------- | ------------------------------------ | ------------------------------------------------- | ---------------------------- |
-| LV1         | Medium chance                  | Low Chance, Slow 2s              | Very Low chance, Small KnockBack     | Super Low chance, 0.5s stun, 100 HP stone for 5s  | 500 SP, shield regen slow    |
-| LV2         | Medium chance                  | Low Chance, Slow 2s              | Low chance, Medium KnockBack         | Super Low chance, 1.5s stun, 200 HP stone for 10s | 1000 SP, shield regen slow   |
-| LV3         | High Chance + Large explosion  | High Chance + Large AOE, Slow 4s | Low chance, Strong KnockBack         | Very Low chance, 3s stun, 400 HP stone for 15s    | 2000 SP, shield regen medium |
-| LV4         | High Chance + Large explosion  | High Chance + Large AOE, Slow 5s | Low chance, chance, Strong KnockBack | Very Low chance, 5s stun, 800 HP stone for 20s    | 3500 SP, shield regen fast   |
+| LV1         | Medium chance                  | Low Chance, Slow 2s              | Very Low chance, Small KnockBack     | Super Low chance, 0.5s stun, 80 HP stone for 5s   | 500 SP, shield regen slow    |
+| LV2         | Medium chance                  | Low Chance, Slow 2s              | Low chance, Medium KnockBack         | Super Low chance, 1.5s stun, 160 HP stone for 10s | 1000 SP, shield regen slow   |
+| LV3         | High Chance + Large explosion  | High Chance + Large AOE, Slow 4s | Low chance, Strong KnockBack         | Very Low chance, 3s stun, 240 HP stone for 15s    | 2000 SP, shield regen medium |
+| LV4         | High Chance + Large explosion  | High Chance + Large AOE, Slow 5s | Low chance, chance, Strong KnockBack | Very Low chance, 5s stun, 320 HP stone for 20s    | 3500 SP, shield regen fast   |
 

@@ -16,7 +16,14 @@ Your Hero will throw more than one arrow. Multi throw LV1 will allow Hero to thr
 
 ### **Focus throw**: <img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">
 
-Your Hero will throw a blue focus arrow. Which deal a strong blow, damage is multiplied from base damage by X. with X equal skill LV + 1. For example: Focus throw LV1 will deal x2 damage. LV2 will deal x3 damage, and so on and so on.
+Your Hero will throw a blue focus arrow. Which deal a strong blow, damage is multiplied from base damage by X follow this table:
+
+| Skill Level | Damage Multiplier |   |
+| ----------- | ----------------- | - |
+| LV1         | 1.8x              |   |
+| LV2         | 2.5x              |   |
+| LV3         | 3.1x              |   |
+| LV4         | 3.6x              |   |
 
 Due to the nature of the skill, **Multi throw and Focus throw are Mutually exclusive**. Player need to toggle between these skill when playing. (These 2 skill are acquired starting from Hero LV3)
 
@@ -26,7 +33,14 @@ Your Hero's arrow will bounce when it hit the monster or hit the ground. Bounce 
 
 ### **Piercing** **throw**: <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">
 
-Your Hero's arrow will pierce through when it hit the monster (will not pierce when hit the ground) Piercing arrow can keep piercing enemy for a limited number of time based on this skill LV. For example: Piercing throw LV1, arrow will pierce through 1 monster and hit another one. LV2 can pierce through two, potentially hit 3 enemy. And so on and so on.
+Your Hero's arrow will pierce through when it hit the monster (will not pierce when hit the ground) Piercing arrow can keep piercing enemy for a limited number of time based on this skill LV. For example: Piercing throw LV1, arrow will pierce through 1 monster and hit another one. LV2 can pierce through two, potentially hit 3 enemy. And so on and so on. However the damage of the Pierce will be reduced after the first hit follow this table:
+
+| Skill Level | Damage after first hit |   |
+| ----------- | ---------------------- | - |
+| LV1         | 0.8x                   |   |
+| LV2         | 0.75x                  |   |
+| LV3         | 0.7x                   |   |
+| LV4         | 0.7x                   |   |
 
 Due to the nature of the skill, **Bouncing throw and Piercing throw are Mutually exclusive**. Player need to toggle between these skill when playing. (These 2 skill are acquired starting from Hero LV2)
 
@@ -36,17 +50,17 @@ Even though **Multi,Focus** throw **are Mutually exclusive** and **Bouncing/Pier
 
 Below are the throw skills and Hero level scaling table:
 
-| Hero LV  | Single throw max damage output | Multi/Focus throw                                                                                                                                                      | Bouncing/Piercing throw                                                                                                                                               |
-| -------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hero LV1 | 1x                             | Not acquired                                                                                                                                                           | Not acquired                                                                                                                                                          |
-| Hero LV2 | 2x                             | Not acquired                                                                                                                                                           | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV1 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV1 |
-| Hero LV3 | 4x                             | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV1<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV1 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV1 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV1 |
-| Hero LV4 | 6x                             | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV1<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV1 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV2 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV2 |
-| Hero LV5 | 9x                             | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV2<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV2 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV2 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV2 |
-| Hero LV6 | 12x                            | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV2<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV2 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV3 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV3 |
-| Hero LV7 | 16x                            | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV3<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV3 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV3 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV3 |
-| Hero LV8 | 20x                            | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV3<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV3 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV4 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV4 |
-| Hero LV9 | 25x                            | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV4<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV4 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV4 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV4 |
+| Hero LV  | Multi/Focus throw                                                                                                                                                      | Bouncing/Piercing throw                                                                                                                                               | Note                     |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| Hero LV1 | Not acquired                                                                                                                                                           | Not acquired                                                                                                                                                          | 1x power                 |
+| Hero LV2 | Not acquired                                                                                                                                                           | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV1 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV1 | 2x power                 |
+| Hero LV3 | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV1<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV1 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV1 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV1 | 4x power                 |
+| Hero LV4 | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV1<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV1 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV2 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV2 | 6x power                 |
+| Hero LV5 | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV2<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV2 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV2 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV2 | 9x power                 |
+| Hero LV6 | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV2<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV2 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV2 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV2 | 9x power + Ultimate LV1  |
+| Hero LV7 | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV3<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV3 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV2 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV2 | 12x power                |
+| Hero LV8 | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV3<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV3 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV3 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV3 | 16x power                |
+| Hero LV9 | <img src="../../.gitbook/assets/Rec_Multishoot_skill.png" alt="" data-size="line">LV4<img src="../../.gitbook/assets/Focus_skill_icon.png" alt="" data-size="line">LV4 | <img src="../../.gitbook/assets/Rec_Bounce_skill.png" alt="" data-size="line">LV3 <img src="../../.gitbook/assets/Rec_Piercing_skill.png" alt="" data-size="line">LV3 | 16x power + Ultimate LV2 |
 
 ## 2. Cast skill
 
