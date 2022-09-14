@@ -4,7 +4,7 @@ Currently there are 2 passive skill is granted to the Hero when equip with Orb o
 
 ### 1. Headshot Critical Attack
 
-Headshot to monster may caused a Critical Attack damage which is 3X or more of the original damage. By default headshot attack already do 2X damage.
+Headshot to monster may caused a Critical Attack damage which is 3X or more of the original damage. By default headshot attack does only 2X of original damage.
 
 This passive is alway enable regardless of the Orb is being activate or not.&#x20;
 

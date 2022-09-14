@@ -43,9 +43,9 @@ Along with the 2 NFT Pets which required to be burned to mint a NFT Weapon Orb. 
 
 | NFT Orb Rarity (expected)                        | Material Required                                               | Mint Cost |
 | ------------------------------------------------ | --------------------------------------------------------------- | --------- |
-| **Common**                                       | 24 **Common Orb Material**                                      | 0.012 BNB |
+| **Common**                                       | 24 **Common Orb Material**                                      | 0.009 BNB |
 | <mark style="color:blue;">**Rare**</mark>        | 16 <mark style="color:blue;">**Rare Orb Material**</mark>       | 0.018 BNB |
-| <mark style="color:purple;">**Epic**</mark>      | 8 <mark style="color:purple;">**Epic Orb Material**</mark>      | ? BNB     |
+| <mark style="color:purple;">**Epic**</mark>      | 8 <mark style="color:purple;">**Epic Orb Material**</mark>      | 0.036 BNB |
 | <mark style="color:yellow;">**Legendary**</mark> | 4 <mark style="color:yellow;">**Legendary Orb Material**</mark> | ? BNB     |
 
 \*Mint cost in BNB may be adjusted based on price of BNB and game economics state.
