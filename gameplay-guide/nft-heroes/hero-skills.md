@@ -24,6 +24,7 @@ Your Hero will throw a blue focus arrow. Which deal a strong blow, damage is mul
 | LV2         | 2.5x              |   |
 | LV3         | 3.1x              |   |
 | LV4         | 3.6x              |   |
+| LV5         | 4.0x              |   |
 
 Due to the nature of the skill, **Multi throw and Focus throw are Mutually exclusive**. Player need to toggle between these skill when playing. (These 2 skill are acquired starting from Hero LV3)
 
@@ -41,6 +42,7 @@ Your Hero's arrow will pierce through when it hit the monster (will not pierce w
 | LV2         | 0.75x                  |   |
 | LV3         | 0.7x                   |   |
 | LV4         | 0.7x                   |   |
+| LV5         | 0.7x                   |   |
 
 Due to the nature of the skill, **Bouncing throw and Piercing throw are Mutually exclusive**. Player need to toggle between these skill when playing. (These 2 skill are acquired starting from Hero LV2)
 
