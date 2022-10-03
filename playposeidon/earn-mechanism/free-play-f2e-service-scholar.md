@@ -16,10 +16,10 @@ This ratio can be set by the NFT owners with minimum ratio is varied by Hero Tie
 
 | Hero Tier                                     | Minimum Share Ratio     | Max expires time |
 | --------------------------------------------- | ----------------------- | ---------------- |
-| <mark style="color:red;">**Tier S**</mark>    | 0%                      | 30 days          |
-| <mark style="color:yellow;">**Tier A**</mark> | 2% - 0.2% \* (HeroLV-1) | 9 days           |
-| <mark style="color:purple;">**Tier B**</mark> | 10% - 1% \* (HeroLV-1)  | 3 days           |
-| <mark style="color:green;">**Tier C**</mark>  | 50% - 5% \* (HeroLV-1)  | 24 hours         |
+| <mark style="color:red;">**Tier S**</mark>    | 0%                      | ? days           |
+| <mark style="color:yellow;">**Tier A**</mark> | 2% - 0.2% \* (HeroLV-1) | 21 days          |
+| <mark style="color:purple;">**Tier B**</mark> | 10% - 1% \* (HeroLV-1)  | 7 days           |
+| <mark style="color:green;">**Tier C**</mark>  | 50% - 5% \* (HeroLV-1)  | 3 days           |
 
 ### 3. Anti abuser punishment
 
@@ -32,4 +32,4 @@ This is a list of rule enforce by system:
 
 And this is rule check by Game operation using cheat/abuser detect tool, player whom violate these will be heavy punished:
 
-* Intentionally pick up Free Play offer then don't play and let the match LOST/TIMED OUT or not finishing the match. Continuously doing this kind of behaviour will lead to your account being banned.
+* Intentionally pick up Free Play offer then don't play and let the match LOST/TIMED OUT or not finishing the match. Continuously doing this kind of behavior will lead to your account being banned.
