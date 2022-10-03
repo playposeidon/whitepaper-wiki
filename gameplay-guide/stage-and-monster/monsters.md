@@ -20,6 +20,10 @@ The order is from Left to Right in the Photo above:
 
 **Turtle**: These monster also move very slow. But they have a special shield ability which reflect your Hero arrow if it hit the front shield (arrow will do no damage to it). This class of monster is belong to **Special** type
 
+**Hydrafish**: Fast MS monster with a high DPS ranged attack. When they spawn alone (lone HydraFish) can even shoot at a much faster rate so better watch out
+
+**UltraShark**: Big and tanky with a very high damage swing attack. Among them, only a very few sharks have mastered the swing technic and become even more powerful.
+
 ### 2. Flying Monster
 
 **Flying Octopus:** These monster are always spawn as a group and can can attack from a Ranged distance. These monster don't have big wing so can't maneuver like other flying monster although fly speed is quite fast.
@@ -30,5 +34,9 @@ The order is from Left to Right in the Photo above:
 
 **Flying Shark**: These monster are usually spawn solo. Similar to Flying Whale, these monster are tanky due to large HP pool. They can attack from a Ranged distance and their attack deal a **very large** **damage** to Hero.
 
+**Flying Baneling**: This tricky bastard has mastered fly maneuver to change direction very quickly. These monster has a steel amour which can only be pierced by a strong force and they are very smart also. They learned to steal human powerful weapon which can inflict a huge damage to our city defender heroes.&#x20;
 
+**Flying Broodmother**: A fearsome monster, she doesn't deal damage on her own but her new born broodlings can deal a lot of damage. She possess a very hard shell (as hard as the boss [Karkinos](boss-monster.md#1.2-boss-karkinos) ) and would be impossible to kill if not aim for her only weakness.&#x20;
+
+**Flying Broodling**: They are born from Flying Broodmother and alway spawn as a swarm. They are very fast and can deal a lot of damage if the defender can’t get rid of them quickly.
 

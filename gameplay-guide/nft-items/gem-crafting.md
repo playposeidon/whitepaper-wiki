@@ -28,4 +28,4 @@ plus **4 Greater Gem** of Diamond, Emerald, Ruby, Sapphire (16 in total)&#x20;
 
 You can go to the **CRAFT** feature on the top left menu, in the **NFT ITEMS** section to craft it:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

@@ -3,7 +3,15 @@ cover: ../../.gitbook/assets/monster lvl 1.jpg
 coverY: -220.75647668393782
 ---
 
-# 🌌 Stage & Monster
+# 🌌 Fight Mode & Monster
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+The game is plan to develop 4 game modes in which we have released 2 modes:\
+1\. **Campaign mode**\
+2\. **Chaos Castle** (Rougelike mode)
+
+In each game mode you will be required to fight one or more stages.
 
 A **Stage** is a battle in which you control your **Hero** (with/without a help of a **Pet**) to defeat all the monsters that appear on the screen.
 
