@@ -20,10 +20,10 @@ These Gem can be used to upgrade NFT Equipment up to LV +10. Check out: [#1.-nft
 
 ### 3. Chaos Gem ![](<../../.gitbook/assets/Chaos Gem.png>)
 
-This Gem must be used to upgrade NFT Equipment from to LV +9 and above. Check out: [#1.-nft-weapon-orb-level](../nft-weapon-orbs/orb-upgrade-and-level.md#1.-nft-weapon-orb-level "mention")
+This Gem must be used to upgrade NFT Equipment from to LV +10 and above. Check out: [#1.-nft-weapon-orb-level](../nft-weapon-orbs/orb-upgrade-and-level.md#1.-nft-weapon-orb-level "mention")
 
-**1 Chaos Gem** can be crafted from:\
-**8 Lesser Gem** of Diamond, Emerald, Ruby, Sapphire (64 in total)\
+**1 Chaos Gem** can be crafted\
+from **8 Lesser Gem** of Diamond, Emerald, Ruby, Sapphire (64 in total)\
 plus **4 Greater Gem** of Diamond, Emerald, Ruby, Sapphire (16 in total)&#x20;
 
 You can go to the **CRAFT** feature on the top left menu, in the **NFT ITEMS** section to craft it:

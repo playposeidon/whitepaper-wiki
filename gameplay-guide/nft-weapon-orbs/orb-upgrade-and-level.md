@@ -37,17 +37,17 @@ Check out the passive skill here: [orb-passive-skills.md](orb-passive-skills.md 
 
 To upgrade an Orb to next Level you will need to prepare some material:
 
-From **Orb+0** to **Orb+5**: \
+From **Orb+0** to **Orb+6**: \
 \+Lesser Gem of any type for Neutral Orb\
 \+Lesser Gem of the same type for Elemental Orb:\
 Orb of Wind use Diamond,  Orb of Earth use Emerald, Orb of Fire use Ruby, Orb of Water use Sapphire
 
-From **Orb+4 to Orb+10:**\
+From **Orb+5 to Orb+11:**\
 ****+Greater Gem of any type for Neutral Orb\
 \+Greater Gem of the same type for Elemental Orb\
 \+Similar to Hero Upgrade, upgrade to Orb+7 +8 +9 will cost you two Upgrade Scroll of the same LV&#x20;
 
-From **Orb+9** and above:\
+From **Orb+10** and above:\
 \+**Chaos Gem** and two Upgrade Scroll of the same LV (Chaos Gem can be crafted by combine all other type of gem, check out: [#3.-chaos-gem](../nft-items/gem-crafting.md#3.-chaos-gem "mention"))\
 \+If you don't have **Chaos Charm**, your **NFT Orb** will be **burned** if it failed during the upgrade to next LV (You will lose the Orb forever). How ever if you have **Chaos Charm** in your inventory, your **NFT Orb** Level will only be deducted by 1 LV. Based on the Level of the Orb, you will be require more number of **Chaos Charm.** Check this section **** [#3.-chaos-charm-and-its-insure-mechanism](orb-upgrade-and-level.md#3.-chaos-charm-and-its-insure-mechanism "mention")****
 
