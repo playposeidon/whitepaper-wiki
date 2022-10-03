@@ -55,18 +55,23 @@ The Hero EXP reward is given as a random value with a minimum is the sum of all 
 
 | Hero LV | Treasure Shard per success Run of Chaos Castle |   |
 | ------- | ---------------------------------------------- | - |
-| LV3     | 24 shards                                      |   |
-| LV4     | 48 shards                                      |   |
-| LV5     | 96 shards                                      |   |
-| LV6     | 1 Treasure and 92 shards                       |   |
-| LV7     | 3 Treasure and 84 shards                       |   |
-| LV8     | 7 Treasure and 68 shards                       |   |
-| LV9     | 15 Treasure and 36 shards                      |   |
+| LV3     | 25 Treasure shards                             |   |
+| LV4     | 50 Treasure shards                             |   |
+| LV5     | 1 Treasure                                     |   |
+| LV6     | 2 Treasure                                     |   |
+| LV7     | 4 Treasure                                     |   |
+| LV8     | 8 Treasure                                     |   |
+| LV9     | 16 Treasure                                    |   |
 
 And depend on the Hero Tier you can only be able to receive maximum number of treasure from Chaos Castle success Run claim reward per Hero following this:\
-Hero Tier A: **70 Treasure per day** (regardless of Hero Level)\
+Hero Tier A: **80 Treasure per day** (regardless of Hero Level)\
 Hero Tier B: **40 Treasure per day** (regardless of Hero Level)\
 Hero Tier C: **20 Treasure per day** (regardless of Hero Level)
+
+Once your hero reach the max number for the day, claim Run will still give a basic income Treasure reward following this:\
+Hero Tier A: **40 Treasure shards per run** (regardless of Hero Level)\
+Hero Tier B: **20 Treasure shards per run** (regardless of Hero Level)\
+Hero Tier C: **10 Treasure shards per run** (regardless of Hero Level)
 
 #### 2.3 Chaos Gem
 
@@ -85,6 +90,8 @@ Hero Tier A: **2 Chaos Gem** per day (regardless of Hero Level)\
 Hero Tier B: **1 Chaos Gem** per day (regardless of Hero Level)\
 Hero Tier C: **0 Chaos Gem** per day (regardless of Hero Level)
 
+Once your hero reach the max number for the day, claim Run will no longer give this reward.
+
 #### 2.4 Good Luck Token
 
 | Hero LV | Chance to receive 1 GLT when claim |   |
@@ -101,4 +108,6 @@ And depend on the Hero Tier you can only be able to receive maximum number of Ch
 Hero Tier A: **4 GLT** per day (regardless of Hero Level)\
 Hero Tier B: **2 GLT** per day (regardless of Hero Level)\
 Hero Tier C: **1 GLT** per day (regardless of Hero Level)
+
+Once your hero reach the max number for the day, claim Run will no longer give this reward.
 
