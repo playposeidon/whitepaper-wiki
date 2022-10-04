@@ -69,10 +69,10 @@ LV5 to LV6 and above can accumulate max 20 days. (total 40 days)
 
 For Quick Upgrade, The number of Curse delay days **accumulated by counting both 2 Heroes** (at half rate), for example if you have 2 Heroes LV5 with each 10 days left, when merge them together to upgrade to LV6 you will have 1 Hero LV6 with 30 days of 100% _Efficiency_. (Each Hero when quick upgrade if there are 10 days left, 5 days will be accumulated each)
 
-But there is a catch, Quick Upgrade will **not allowed to** **merge 2 Heroes with the sum % Efficiency is less than 100%**. For example:\
-You can still merge 2 Heroes both with 50% _Efficiency_\
-or merge 1 Hero 1% _Efficiency_ and 1 Hero 100% _Efficiency_ together\
-But it will not allow to merge 1 Hero 1% _Efficiency_ and 1 Hero 50% _Efficiency_
+But there is a catch, Quick Upgrade will **not allowed to** **merge 2 Heroes with the sum % Efficiency is less than 102%**. For example:\
+You can still merge 2 Heroes both with 51% _Efficiency_\
+or merge 1 Hero 2% _Efficiency_ and 1 Hero 100% _Efficiency_ together\
+But it will not allow to merge 1 Hero 49% _Efficiency_ and 1 Hero 51% _Efficiency_
 
 ### 4. Alternative way to reset the Curse of Poseidon
 
