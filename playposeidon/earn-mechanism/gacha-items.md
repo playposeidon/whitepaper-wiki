@@ -78,16 +78,17 @@ Each item listed above have independent event drop rate. That mean if player is 
 
 ### <mark style="color:blue;">3.2 Rare Treasure of the Sea</mark> ![](../../.gitbook/assets/Chest\_rare.png)<mark style="color:blue;"></mark>
 
-This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP**. This treasure have 2 unique features: \
+This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP**. This treasure have these unique features: \
 1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** of the original amount that player used to craft it. \
-2\. If player hold at least 24 _on-chain_ **PPP** (per Rare Treasure), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 100% to 500% from the staked amount: 36 (12 _in-game_ + 24 _on-chain_) **PPP**
+2\. If player hold at least 24 _on-chain_ **PPP** (per Rare Treasure), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 100% to **500%** from the staked amount: 36 (12 _in-game_ + 24 _on-chain_) **PPP**\
+****3. If player add his on-chain **PPP** to the Liquidity Pool of PancakeSwap ([here](https://pancakeswap.finance/add/BNB/0xcE355300B9d7909f577640A3FB179Cf911a23fBb)), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 500% to **1370%** (**3X** of normal staking)
 
-For example: when this feature is release it will give the maximum 506.94% APY which is equivalent to **0.5** **PPP/day** Staking Income per **Rare Treasure** to players who take advantage of this.&#x20;
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 \+The in-game **PPP** amount of staking reward will be given on an hourly basis (1/24 of full day)\
 \+APY is subjected to changes by the team depend on price action of **PPP**\
-****+In the futures, **Rare Treasure** may be required to put in a Farm inside a City and the on-chain **PPP** amount may be required to stake in a Smart Contract in order to receive Staking Income
+****+In the futures, **Rare Treasure** may be required to put in a Farm inside a City
 {% endhint %}
 
 ### <mark style="color:purple;">3.3 Epic Treasure</mark> ![](../../.gitbook/assets/Chest\_epic.png)<mark style="color:purple;"></mark>
