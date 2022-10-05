@@ -18,6 +18,6 @@ The map level difficulty system allow high level Hero (more Hero Power) to farm 
 | LV8       | +9 EXP                             | 25% Daily farm-cap of Hero LV8 |
 | LV9       | +10 EXP                            | 25% Daily farm-cap of Hero LV9 |
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

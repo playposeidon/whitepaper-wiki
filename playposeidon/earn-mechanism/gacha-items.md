@@ -85,6 +85,8 @@ This is a special type treasure can be acquired by combine 1 **Normal Treasure**
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+Read this details Staking guide to know how to add PPP to LP Pool: [staking-and-add-lp.md](../../gameplay-guide/staking-and-add-lp.md "mention")
+
 {% hint style="info" %}
 \+The in-game **PPP** amount of staking reward will be given on an hourly basis (1/24 of full day)\
 \+APY is subjected to changes by the team depend on price action of **PPP**\

@@ -53,7 +53,7 @@ From **Orb+10** and above:\
 
 You will need to select one type of Gem and a quantity to be used for the upgrading process, the more number of Gem used, the higher the success chance of the upgrade.
 
-![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (2) (3).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (2) (3).png>)
 
 ### 2. Normal Upgrade vs Quick Upgrade
 

@@ -34,6 +34,7 @@
   * [🔑 OTP Login](gameplay-guide/how-to-play/otp-login.md)
 * [🆓 Free Play Service](gameplay-guide/free-play-service.md)
 * [📤 Import & Transfer NFT](gameplay-guide/import-and-transfer-nft.md)
+* [💸 Staking & Add LP](gameplay-guide/staking-and-add-lp.md)
 * [🦸♀ NFT Heroes](gameplay-guide/nft-heroes/README.md)
   * [♈ Zodiac Signs](gameplay-guide/nft-heroes/zodiac-signs.md)
   * [🌠 Hero Attributes](gameplay-guide/nft-heroes/hero-attributes.md)
