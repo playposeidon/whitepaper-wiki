@@ -64,14 +64,16 @@ The Hero EXP reward is given as a random value with a minimum is the sum of all 
 | LV9     | 16 Treasure                                    |   |
 
 And depend on the Hero Tier you can only be able to receive maximum number of treasure from Chaos Castle success Run claim reward per Hero following this:\
-Hero Tier A: **80 Treasure per day** (regardless of Hero Level)\
-Hero Tier B: **40 Treasure per day** (regardless of Hero Level)\
-Hero Tier C: **20 Treasure per day** (regardless of Hero Level)
+Hero Tier A: **40 Treasure per day** (regardless of Hero Level)\
+Hero Tier B: **20 Treasure per day** (regardless of Hero Level)\
+Hero Tier C: **10 Treasure per day** (regardless of Hero Level)
 
 Once your hero reach the max number for the day, claim Run will still give a basic income Treasure reward following this:\
-Hero Tier A: **40 Treasure shards per run** (regardless of Hero Level)\
-Hero Tier B: **20 Treasure shards per run** (regardless of Hero Level)\
-Hero Tier C: **10 Treasure shards per run** (regardless of Hero Level)
+Hero Tier A: **20 Treasure shards per run** (regardless of Hero Level\*)\
+Hero Tier B: **10 Treasure shards per run** (regardless of Hero Level\*)\
+Hero Tier C: **5 Treasure shards per run** (regardless of Hero Level\*)
+
+\*_This basic income treasure reward may be reduced in the future_
 
 #### 2.3 Chaos Gem
 
