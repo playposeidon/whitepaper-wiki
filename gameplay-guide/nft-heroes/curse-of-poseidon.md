@@ -72,7 +72,8 @@ For Quick Upgrade, The number of Curse delay days **accumulated by counting both
 But there is a catch, Quick Upgrade will **not allowed to** **merge 2 Heroes with the sum % Efficiency is less than 102%**. For example:\
 You can still merge 2 Heroes both with 51% _Efficiency_\
 or merge 1 Hero 2% _Efficiency_ and 1 Hero 100% _Efficiency_ together\
-But it will not allow to merge 1 Hero 49% _Efficiency_ and 1 Hero 51% _Efficiency_
+But it will not allow to merge 1 Hero 49% _Efficiency_ and 1 Hero 51% _Efficiency_\
+__or merge 1 Hero 1% _Efficiency_ and 1 Hero 100% _Efficiency_ together
 
 ### 4. Alternative way to reset the Curse of Poseidon
 

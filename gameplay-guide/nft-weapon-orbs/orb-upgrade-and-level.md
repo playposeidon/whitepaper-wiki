@@ -26,12 +26,12 @@ When upgrade to higher LV the Bonus Damage when Active of Orb will be increased 
 | **Orb+7**        | +40                      | <p>Headshot Critical Attack LV2<br><strong></strong>Gas Consume Reduction LV1</p>                                   | **84%**, Orb LV will be reset to +0 if failed                 |
 | **Orb+8**        | +50                      | <p>Headshot Critical Attack LV2<br><strong></strong>Gas Consume Reduction LV1</p>                                   | **72%**, Orb LV will be reset to +0 if failed                 |
 | **Orb+9**        | +60                      | <p>Headshot Critical Attack <strong>LV3</strong><br><strong></strong>Gas Consume Reduction <strong>LV2</strong></p> | **60%**, Orb will be burned if failed unless have Chaos Charm |
-| **Orb+10**       | +75                      | <p>Headshot Critical Attack LV3<br><strong></strong>Gas Consume Reduction LV2</p>                                   | **54%**, Orb will be burned if failed unless have Chaos Charm |
-| **Orb+11**       | +90                      | <p>Headshot Critical Attack LV3<br><strong></strong>Gas Consume Reduction LV2</p>                                   | **48%**, Orb will be burned if failed unless have Chaos Charm |
-| **Orb+12**       | +110                     | <p>Headshot Critical Attack <strong>LV4</strong><br><strong></strong>Gas Consume Reduction <strong>LV3</strong></p> | ?%, Orb will be burned if failed unless have Chaos Charm      |
-| **Orb+13**       | +130                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | ?%, Orb will be burned if failed unless have Chaos Charm      |
-| **Orb+14**       | +150                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | ?%, Orb will be burned if failed unless have Chaos Charm      |
-| **Orb+15**       | +175                     | <p>Headshot Critical Attack <strong>LV5</strong><br><strong></strong>Gas Consume Reduction <strong>LV4</strong></p> | ?%, Orb will be burned if failed unless have Chaos Charm      |
+| **Orb+10**       | +80                      | <p>Headshot Critical Attack LV3<br><strong></strong>Gas Consume Reduction LV2</p>                                   | **54%**, Orb will be burned if failed unless have Chaos Charm |
+| **Orb+11**       | +100                     | <p>Headshot Critical Attack LV3<br><strong></strong>Gas Consume Reduction LV2</p>                                   | **48%**, Orb will be burned if failed unless have Chaos Charm |
+| **Orb+12**       | +120                     | <p>Headshot Critical Attack <strong>LV4</strong><br><strong></strong>Gas Consume Reduction <strong>LV3</strong></p> | ?%, Orb will be burned if failed unless have Chaos Charm      |
+| **Orb+13**       | +150                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | ?%, Orb will be burned if failed unless have Chaos Charm      |
+| **Orb+14**       | +180                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | ?%, Orb will be burned if failed unless have Chaos Charm      |
+| **Orb+15**       | +210                     | <p>Headshot Critical Attack <strong>LV5</strong><br><strong></strong>Gas Consume Reduction <strong>LV4</strong></p> | ?%, Orb will be burned if failed unless have Chaos Charm      |
 
 Check out the passive skill here: [orb-passive-skills.md](orb-passive-skills.md "mention")
 
@@ -84,9 +84,9 @@ This is a **Premium Item** which will allow the Player to not worry about his **
 | Orb+11             | 2: Orb LV will back to +9            | 0: Orb LV= +9, Deduct 2                    |
 | Orb+11             | 3: Orb LV will back to +10           | 0: Orb LV= +10, Deduct 3                   |
 | Orb+12             | 0,1,2,3: Same as previous levels     | 0,1,2,3: Same as previous levels           |
-| Orb+12             | 4: Orb LV will back to +11           | 0: Orb LV= +10, Deduct 4                   |
+| Orb+12             | 4: Orb LV will back to +11           | 0: Orb LV= +11, Deduct 4                   |
 | Orb+13             | 0,1,2,3,4: Same as previous levels   | 0,1,2,3,4: Same as previous levels         |
-| Orb+13             | 5: Orb LV will back to +11           | 0: Orb LV= +10, Deduct 5                   |
+| Orb+13             | 5: Orb LV will back to +12           | 0: Orb LV= +12, Deduct 5                   |
 | Orb+14,Orb+15, ... | Similar as above                     | Similar as above                           |
 
 \
