@@ -63,8 +63,5 @@ After that the tax rate will be recalculated daily using formula above but with 
 Once the game finish its first quarter. The targeted price **P1** will be automatically set to follow the current 25 days MA price and **P2** will be automatically set to follow the 7 days MA price.
 
 {% hint style="info" %}
-Note: The targeted price **P1,** **P2** may some time will be keep constant and not tracking Moving Average price of **PPP** token on purpose to keep the economy stable.\
-Currently the targeted prices are set to:\
-**P1** is set to **0.016$** \
-**P2** is set to **0.0091$**&#x20;
+Note: The targeted price **P1,** **P2** may some time will be keep constant and not tracking Moving Average price of **PPP** token on purpose to keep the economy stable.
 {% endhint %}
