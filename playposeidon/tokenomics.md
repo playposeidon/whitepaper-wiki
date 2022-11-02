@@ -22,18 +22,18 @@ Details of team vesting wallets and all contracts address can be found in this a
 
 ## **1. Tokenomics Breakdown Table**
 
-| Stage                                                                              | Percentage | Amount(PPP) | Vesting Period                                                                                                 |
-| ---------------------------------------------------------------------------------- | :--------: | ----------- | -------------------------------------------------------------------------------------------------------------- |
-| <p>Seed Sale<br><mark style="color:yellow;"><strong>$0.025</strong></mark></p>     |    2.5%    | 2,500,000   | TGE 5% then Linear Vesting in 12 months after TGE                                                              |
-| <p>Private Sale <br><mark style="color:yellow;"><strong>$0.045</strong></mark></p> |    5.2%    | 5,200,000   | 30% unlock 3 hours after IDO then Linear Vesting in 12 months                                                  |
-| <p>Pre-Sale IDO<br><mark style="color:yellow;"><strong>$0.06</strong></mark></p>   |    2.2%    | 2,200,000   | 30% released after token listing, then 10% every month for 7 months                                            |
-| Fair-Launch & DEX Listing <mark style="color:yellow;">**$0.068**</mark>            |    0.6%    | 600,000     | 100% unlock after Fair-Launch. PPP has been listed on PancakeSwap **ATH** **6X** from listing price            |
-| After Listing Burn 🔥 🔥 🔥                                                        |     2%     | 2,000,000   | Has been burned after token listing on PancakeSwap                                                             |
-| Core Team                                                                          |     10%    | 10,000,000  | **Full-Lock** for 6 month from TGE. Then Cliff 5%, remaining Linear Vesting for 12 months                      |
-| Marketing Fund                                                                     |     10%    | 10,000,000  | 15% unlock at TGE then release over 18 months. Unused amount will be transferred to Foundation                 |
-| <p>In-Game Treasury</p><p>(P2E Reward)</p>                                         |     50%    | 50,000,000  | 10% of the initial Treasury is unlock at TGE then release over 18 months                                       |
-| Liquidity Pool reserves                                                            |     15%    | 15,000,000  | 20% unlock at TGE then 8% monthly during 10 months. Unused amount will be transferred to Foundation or Burn 🔥 |
-| Airdrop & Foundation                                                               |    2.5%    | 2,500,000   | 20% unlock at TGE then release over 18 months.                                                                 |
+| Stage                                      | Percentage | Amount(PPP) | Vesting Period                                                                                                 |
+| ------------------------------------------ | :--------: | ----------- | -------------------------------------------------------------------------------------------------------------- |
+| Seed Sale                                  |    2.5%    | 2,500,000   | TGE 5% then Linear Vesting in 12 months after TGE                                                              |
+| Private Sale                               |    5.2%    | 5,200,000   | 30% unlock 3 hours after IDO then Linear Vesting in 12 months                                                  |
+| Pre-Sale IDO                               |    2.2%    | 2,200,000   | 30% released after token listing, then 10% every month for 7 months                                            |
+| Fair-Launch & DEX Listing                  |    0.6%    | 600,000     | 100% unlock after Fair-Launch. PPP has been listed on PancakeSwap **ATH** **6X** from listing price            |
+| After Listing Burn 🔥 🔥 🔥                |     2%     | 2,000,000   | Has been burned after token listing on PancakeSwap                                                             |
+| Core Team                                  |     10%    | 10,000,000  | **Full-Lock** for 6 month from TGE. Then Cliff 5%, remaining Linear Vesting for 12 months                      |
+| Marketing Fund                             |     10%    | 10,000,000  | 15% unlock at TGE then release over 18 months. Unused amount will be transferred to Foundation                 |
+| <p>In-Game Treasury</p><p>(P2E Reward)</p> |     50%    | 50,000,000  | 10% of the initial Treasury is unlock at TGE then release over 18 months                                       |
+| Liquidity Pool reserves                    |     15%    | 15,000,000  | 20% unlock at TGE then 8% monthly during 10 months. Unused amount will be transferred to Foundation or Burn 🔥 |
+| Airdrop & Foundation                       |    2.5%    | 2,500,000   | 20% unlock at TGE then release over 18 months.                                                                 |
 
 ### 1.1 Initial Unlocked Supply after IDO
 
