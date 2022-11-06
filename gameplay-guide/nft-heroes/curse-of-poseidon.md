@@ -29,17 +29,17 @@ Hero _Efficiency_ is only affect on battle match PPP reward, for example a Hero 
 
 Based on the Hero Level, The % Efficiency of the Hero will only go as low as the minimum value stated in this table regardless of Hero Tier:
 
-| Hero Level | Minimum Value of Efficiency | Note |
-| ---------- | --------------------------- | ---- |
-| Hero LV1   | 48%                         |      |
-| Hero LV2   | 24%                         |      |
-| Hero LV3   | 12%                         |      |
-| Hero LV4   | 6%                          |      |
-| Hero LV5   | 3%                          |      |
-| Hero LV6   | 2%                          |      |
-| Hero LV7   | 1.5%                        |      |
-| Hero LV8   | 1.2%                        |      |
-| Hero LV9   | 1%                          |      |
+| Hero Level | Minimum Value of Efficiency | Note                                                  |
+| ---------- | --------------------------- | ----------------------------------------------------- |
+| Hero LV1   | 48%                         |                                                       |
+| Hero LV2   | 24%                         |                                                       |
+| Hero LV3   | 12%                         |                                                       |
+| Hero LV4   | 6%                          |                                                       |
+| Hero LV5   | 3%                          |                                                       |
+| Hero LV6   | 2%                          |                                                       |
+| Hero LV7   | 1.5%                        | Can't merge with non-cursed Hero as sum is below 102% |
+| Hero LV8   | 1.2%                        | Can't merge with non-cursed Hero as sum is below 102% |
+| Hero LV9   | 1%                          | Can't merge with non-cursed Hero as sum is below 102% |
 
 The halving duration of Hero _Efficiency_ is calculated so that it will exactly reach the minimum value after 12 days. Furthermore, there is a **Basic Income** per match to allow player feel their playing time worth. Even if the curse make the Hero _Efficiency_ go very low, a single match reward will never be lower than this **Basic Income** value according to this:
 

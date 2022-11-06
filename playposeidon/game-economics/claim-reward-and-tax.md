@@ -3,9 +3,12 @@
 Every **PPP** earned from **NFT Hero** daily farm\*\*, Selling NFT Hero/Pet, Selling NFT Items\*\* in the Game is consider Player Income and will be a Taxed if Player want to claim it out to On-Chain **PPP**
 
 {% hint style="info" %}
-There is a minimum amount to Claim PPP to On-Chain, you can only claim when you have greater than or equal to **20 in-game PPP**. \
-For non P2E player (player whom doesn't own any NFT Hero) this limit is 120 PPP.\
-\*This minimum claim limit may be adjusted in the future.
+There is a min/max amount limit to Claim PPP to On-Chain, you can only claim when you have greater than or equal to **20 in-game PPP**. \
+For non P2E player (player whom doesn't own any NFT Hero) this limit is **120 PPP**.\
+
+
+The max amount limit to Claim PPP in one time is: **80000** **PPP**\
+For non P2E player max amount limit is: **1200 PPP**
 {% endhint %}
 
 ### 1.Dynamic Tax Rate
