@@ -26,6 +26,6 @@ Step2: Second the Orb must be un-equip from the Hero by click the Orb in the Her
 
 ![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (12).png>)
 
-Step3: Go to Unbind Orb section in the Craft Menu and choose the Orb that you have un-equip from the Hero. This process will cost you a number of Repair Kit + Chaos Charm to unbind it from the Hero. Details will be shared later.
+Step3: Go to Unbind Orb section in the Craft Menu and choose the Orb that you have un-equip from the Hero. This process will cost you a number of **Chaos Charm** to unbind it from the Hero. Details will be shared later.
 
 After unbind successfully the Orb can be bind to any Hero as you wish.

@@ -28,10 +28,10 @@ When upgrade to higher LV the Bonus Damage when Active of Orb will be increased 
 | **Orb+9**        | +60                      | <p>Headshot Critical Attack <strong>LV3</strong><br><strong></strong>Gas Consume Reduction <strong>LV2</strong></p> | **60%**, Orb will be burned if failed unless have Chaos Charm |
 | **Orb+10**       | +80                      | <p>Headshot Critical Attack LV3<br><strong></strong>Gas Consume Reduction LV2</p>                                   | **54%**, Orb will be burned if failed unless have Chaos Charm |
 | **Orb+11**       | +100                     | <p>Headshot Critical Attack LV3<br><strong></strong>Gas Consume Reduction LV2</p>                                   | **48%**, Orb will be burned if failed unless have Chaos Charm |
-| **Orb+12**       | +120                     | <p>Headshot Critical Attack <strong>LV4</strong><br><strong></strong>Gas Consume Reduction <strong>LV3</strong></p> | ?%, Orb will be burned if failed unless have Chaos Charm      |
-| **Orb+13**       | +150                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | ?%, Orb will be burned if failed unless have Chaos Charm      |
-| **Orb+14**       | +180                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | ?%, Orb will be burned if failed unless have Chaos Charm      |
-| **Orb+15**       | +210                     | <p>Headshot Critical Attack <strong>LV5</strong><br><strong></strong>Gas Consume Reduction <strong>LV4</strong></p> | ?%, Orb will be burned if failed unless have Chaos Charm      |
+| **Orb+12**       | +120                     | <p>Headshot Critical Attack <strong>LV4</strong><br><strong></strong>Gas Consume Reduction <strong>LV3</strong></p> | **42**%, Orb will be burned if failed unless have Chaos Charm |
+| **Orb+13**       | +150                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | 42%, Orb will be burned if failed unless have Chaos Charm     |
+| **Orb+14**       | +180                     | <p>Headshot Critical Attack LV4<br><strong></strong>Gas Consume Reduction LV3</p>                                   | 42%, Orb will be burned if failed unless have Chaos Charm     |
+| **Orb+15**       | +210                     | <p>Headshot Critical Attack <strong>LV5</strong><br><strong></strong>Gas Consume Reduction <strong>LV4</strong></p> | 42%, Orb will be burned if failed unless have Chaos Charm     |
 
 Check out the passive skill here: [orb-passive-skills.md](orb-passive-skills.md "mention")
 
