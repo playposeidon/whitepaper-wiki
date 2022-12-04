@@ -7,8 +7,8 @@ There is a min/max amount limit to Claim PPP to On-Chain, you can only claim whe
 For non P2E player (player whom doesn't own any NFT Hero) this limit is **120 PPP**.\
 
 
-The max amount limit to Claim PPP in one time is: **80000** **PPP**\
-For non P2E player max amount limit is: **1200 PPP**
+The max amount limit to Claim PPP in one time is: **100000** **PPP**\
+For non P2E player max amount limit is: **1000 PPP**
 {% endhint %}
 
 ### 1.Dynamic Tax Rate
