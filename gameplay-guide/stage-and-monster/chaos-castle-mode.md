@@ -113,3 +113,22 @@ Hero Tier C: **1 GLT** per day (regardless of Hero Level)
 
 Once your hero reach the max number for the day, claim Run will no longer give this reward.
 
+#### 2.5 Epic Key
+
+| Hero LV | Chance to receive 1 Epic Key when claim |   |
+| ------- | --------------------------------------- | - |
+| LV3     | 0%                                      |   |
+| LV4     | 0%                                      |   |
+| LV5     | 0.25%                                   |   |
+| LV6     | 0.5%                                    |   |
+| LV7     | 1%                                      |   |
+| LV8     | 2%                                      |   |
+| LV9     | 4%                                      |   |
+
+And depend on the Hero Tier you can only be able to receive maximum number of Epic Key from Chaos Castle success Run claim reward per Hero following this:\
+Hero Tier A: **1 Epic Key** per day (regardless of Hero Level)\
+Hero Tier B: **0 Epic Key** per day (regardless of Hero Level)\
+Hero Tier C: **0 Epic Key** per day (regardless of Hero Level)
+
+Once your hero reach the max number for the day, claim Run will no longer give this reward.
+

@@ -80,8 +80,8 @@ Each item listed above have independent event drop rate. That mean if player is 
 
 This is a special type treasure can be acquired by combine 1 **Normal Treasure** with 12 **PPP**. This treasure have these unique features: \
 1\. When open, it is guaranteed to receive back 12 _in-game_ **PPP** of the original amount that player used to craft it. \
-2\. If player hold at least 24 _on-chain_ **PPP** (per Rare Treasure), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 100% to **500%** from the staked amount: 36 (12 _in-game_ + 24 _on-chain_) **PPP**\
-****3. If player add his on-chain **PPP** to the Liquidity Pool of PancakeSwap ([here](https://pancakeswap.finance/add/BNB/0xcE355300B9d7909f577640A3FB179Cf911a23fBb)), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 500% to **1370%** (**3X** of normal staking)
+2\. If player hold at least 36 _on-chain_ **PPP** (per Rare Treasure), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 100% to **350%** from the staked amount: 48 (12 _in-game_ + 36 _on-chain_) **PPP**\
+****3. If player add his on-chain **PPP** to the Liquidity Pool of PancakeSwap ([here](https://pancakeswap.finance/add/BNB/0xcE355300B9d7909f577640A3FB179Cf911a23fBb)), he will receive an amount of in-game **PPP** as **Staking Income** with an APY can range from 100% to **730%** (**2X** of normal staking)
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
