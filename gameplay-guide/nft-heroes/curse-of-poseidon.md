@@ -41,7 +41,21 @@ Based on the Hero Level, The % Efficiency of the Hero will only go as low as the
 | Hero LV8   | 1.2%                        | Can't merge with non-cursed Hero as sum is below 102% |
 | Hero LV9   | 1%                          | Can't merge with non-cursed Hero as sum is below 102% |
 
-The halving duration of Hero _Efficiency_ is calculated so that it will exactly reach the minimum value after 12 days. Furthermore, there is a **Basic Income** per match to allow player feel their playing time worth. Even if the curse make the Hero _Efficiency_ go very low, a single match reward will never be lower than this **Basic Income** value according to this:
+The halving duration of Hero _Efficiency_ is calculated so that it will exactly reach the minimum value after number of days following this table. (starting from the Curse Effective Date)
+
+| Hero Level | Number of days till reach minimum value | Note |
+| ---------- | --------------------------------------- | ---- |
+| Hero LV1   | 12 days                                 |      |
+| Hero LV2   | 12 days                                 |      |
+| Hero LV3   | 12 days                                 |      |
+| Hero LV4   | 18 days                                 |      |
+| Hero LV5   | 18 days                                 |      |
+| Hero LV6   | 18 days                                 |      |
+| Hero LV7   | 24 days                                 |      |
+| Hero LV8   | 24 days                                 |      |
+| Hero LV9   | 24 days                                 |      |
+
+Furthermore, there is a **Basic Income** per match to allow player feel theirs playing time worth. Even if the curse make the Hero _Efficiency_ go very low, a single match reward will never be lower than this **Basic Income** value according to this:
 
 * <mark style="color:yellow;">**Hero Tier A:**</mark>** 3 PPP** per match
 * <mark style="color:purple;">**Hero Tier B**</mark>: **2 PPP** per match
