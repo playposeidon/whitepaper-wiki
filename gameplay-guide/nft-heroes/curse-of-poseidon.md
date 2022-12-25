@@ -57,13 +57,13 @@ The halving duration of Hero _Efficiency_ is calculated so that it will exactly 
 
 Furthermore, there is a **Basic Income** per match to allow player feel theirs playing time worth. Even if the curse make the Hero _Efficiency_ go very low, a single match reward will never be lower than this **Basic Income** value according to this:
 
-* <mark style="color:yellow;">**Hero Tier A:**</mark>** 3 PPP** per match
-* <mark style="color:purple;">**Hero Tier B**</mark>: **2 PPP** per match
-* <mark style="color:green;">**Hero Tier C**</mark>: **1 PPP** per match
+* <mark style="color:yellow;">**Hero Tier A:**</mark>** 1.5 PPP** per match
+* <mark style="color:purple;">**Hero Tier B**</mark>: **1 PPP** per match
+* <mark style="color:green;">**Hero Tier C**</mark>: **0.5 PPP** per match
 
 This **Basic Income** is subjected to change by the team based on the current Price of **PPP** token. ****&#x20;
 
-Due to the **Basic Income**, to prevent people abusing it with automated software we need to put a restriction: If Hero is under cursed, player can only use this Hero to fight Map LV which is greater or equal to the Hero LV - 2 (or Hero LV - 1 if the Hero Efficiency is at minimum value). This restriction is not applied to Hero LV lower than LV3 or Hero Efficiency >= 50%
+Due to the **Basic Income**, to prevent people abusing it with automated software we need to put a restriction: If Hero is under cursed, player can only use this Hero to fight Map LV which is greater or equal to the **Hero LV - 1** . This restriction is not applied to Hero LV lower than LV3 or Hero Efficiency >= 50%
 
 ### 2.b Hero EXP multiplier factor bonus when at low Efficiency
 
