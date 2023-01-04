@@ -41,16 +41,11 @@ If you failed then the Rarity Level of the Orb will be lower by 1 tier compare t
 
 Along with the 2 NFT Pets which required to be burned to mint a NFT Weapon Orb. You will need to have a material based on the Rarity of the expected Orb and need to pay a small mint cost in BNB following this table:
 
-| NFT Orb Rarity (expected)                        | Material Required                                               | Mint Cost   |
-| ------------------------------------------------ | --------------------------------------------------------------- | ----------- |
-| **Common**                                       | 24 **Common Orb Material\*\***                                  | 0.003 BNB\* |
-| <mark style="color:blue;">**Rare**</mark>        | 16 <mark style="color:blue;">**Rare Orb Material\*\***</mark>   | 0.009 BNB\* |
-| <mark style="color:purple;">**Epic**</mark>      | 8 <mark style="color:purple;">**Epic Orb Material**</mark>      | 0.036 BNB\* |
-| <mark style="color:yellow;">**Legendary**</mark> | 4 <mark style="color:yellow;">**Legendary Orb Material**</mark> | 0.36 BNB\*  |
+| NFT Orb Rarity (expected)                        | Material Required                                               | Mint Cost |
+| ------------------------------------------------ | --------------------------------------------------------------- | --------- |
+| **Common**                                       | 24 **Common Orb Material**                                      | 0.003 BNB |
+| <mark style="color:blue;">**Rare**</mark>        | 16 <mark style="color:blue;">**Rare Orb Material**</mark>       | 0.009 BNB |
+| <mark style="color:purple;">**Epic**</mark>      | 8 <mark style="color:purple;">**Epic Orb Material**</mark>      | 0.036 BNB |
+| <mark style="color:yellow;">**Legendary**</mark> | 4 <mark style="color:yellow;">**Legendary Orb Material**</mark> | 0.36 BNB  |
 
-
-
-{% hint style="info" %}
-\*Mint cost in BNB may be adjusted based on price of BNB and game economics state.\
-\*\* **Common Orb Material** and <mark style="color:blue;">**Rare Orb Material**</mark> now can be purchased in the In-Game Store
-{% endhint %}
+\*Mint cost in BNB may be adjusted based on price of BNB and game economics state.

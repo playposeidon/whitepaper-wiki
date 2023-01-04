@@ -31,10 +31,10 @@ Based on the Hero Level, The % Efficiency of the Hero will only go as low as the
 
 | Hero Level | Minimum Value of Efficiency | Note                                                  |
 | ---------- | --------------------------- | ----------------------------------------------------- |
-| Hero LV1   | 20%                         |                                                       |
-| Hero LV2   | 12%                         |                                                       |
-| Hero LV3   | 7.2%                        |                                                       |
-| Hero LV4   | 4.5%                        |                                                       |
+| Hero LV1   | 48%                         |                                                       |
+| Hero LV2   | 24%                         |                                                       |
+| Hero LV3   | 12%                         |                                                       |
+| Hero LV4   | 6%                          |                                                       |
 | Hero LV5   | 3%                          |                                                       |
 | Hero LV6   | 2%                          |                                                       |
 | Hero LV7   | 1.5%                        | Can't merge with non-cursed Hero as sum is below 102% |
