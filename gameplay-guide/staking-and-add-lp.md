@@ -8,8 +8,8 @@ In order to use this feature you must own a number of **Rare Treasure**. The sim
 
 Once you get hold of **Rare Treasure**, you will need to activate them in order to gain the passive income. There are 2 ways to activate your **Rare Treasure:**
 
-1\. Activate Rare Treasure with on-chain PPP in wallet giving **APY** of **350%**\
-2\. Activate Rare Treasure by provide liquidity to LP Pool on PancakeSwap giving **APY** of **730%**
+1\. Activate Rare Treasure with on-chain PPP in wallet giving **APY** of **507%**\
+2\. Activate Rare Treasure by provide liquidity to LP Pool on PancakeSwap giving **APY** of **1370%**
 
 #### The first one is very simple, for each **Rare Treasure** you have you just need to hold **24 PPP** in your BSC wallet to activate it.&#x20;
 
